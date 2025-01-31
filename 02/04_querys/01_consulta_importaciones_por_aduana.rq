@@ -8,7 +8,7 @@ SELECT ?aduana (COUNT(?importacion) AS ?numImportaciones) (SUM(?totalBultos) AS 
 WHERE {
   # Buscar importaciones y sus aduanas asociadas
   ?importacion a :Importacion ;
-                schema:Aduana ?aduana ;
+                schema:aduana ?aduana ;
                 schema:total_bultos ?totalBultos .
   
   # Obtener el nombre de la aduana
