@@ -1,0 +1,31 @@
+prefix :       <http://example.org/> 
+prefix xsd:    <http://www.w3.org/2001/XMLSchema#> 
+prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+prefix schema: <http://schema.org/> 
+
+SELECT ?pais ?nombrePais ?numImportaciones ?totalBultosSum ?nombreMarca ?marca
+WHERE {
+  {
+    # Primera parte: información de importaciones y agrupación
+    SELECT ?numEncriptado ?pais ?nombrePais (COUNT(?importacion) AS ?numImportaciones) (SUM(?totalBultos) AS ?totalBultosSum)
+    WHERE {
+      ?importacion a :Importacion ;
+                  schema:pais_origen ?pais ;
+                  schema:total_bultos ?totalBultos ;
+                  schema:num_encriptado ?numEncriptado .
+
+      ?pais schema:nombre ?nombrePais .
+    }
+    GROUP BY ?numEncriptado ?pais ?nombrePais
+    ORDER BY DESC(?totalBultosSum)
+    LIMIT 10
+  }
+
+  # Consulta federada al segundo endpoint en localhost:3031
+  SERVICE <http://localhost:3031/ds/sparql> {
+    ?importacion rdf:type :MarcasImportaciones ;
+                schema:numero_identificador ?numEncriptado ;
+                schema:marca ?marca ;
+                schema:nombre ?nombreMarca .
+  }
+}

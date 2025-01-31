@@ -1,0 +1,18 @@
+prefix :       <http://example.org/> 
+prefix xsd:    <http://www.w3.org/2001/XMLSchema#> 
+prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+prefix schema: <http://schema.org/> 
+
+SELECT ?nave ?nombreNave (COUNT(?importacion) AS ?numImportaciones) (SUM(?totalBultos) AS ?totalBultosSum)
+WHERE {
+# Buscar importaciones de vehículos (códigos arancelarios 8702, 8703 o 8704)
+?importacion a :Importacion ;
+            schema:nave ?nave ;
+			schema:total_bultos ?totalBultos .
+
+# Obtener el nombre de la nave
+?nave schema:nombre ?nombreNave .
+}
+GROUP BY ?nave ?nombreNave
+ORDER BY DESC(?numImportaciones)
+LIMIT 20

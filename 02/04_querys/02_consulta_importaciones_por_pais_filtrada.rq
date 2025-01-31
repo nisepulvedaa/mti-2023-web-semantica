@@ -1,0 +1,23 @@
+prefix :       <http://example.org/> 
+prefix xsd:    <http://www.w3.org/2001/XMLSchema#> 
+prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+prefix schema: <http://schema.org/> 
+
+SELECT ?pais ?nombrePais ?arancel (COUNT(?importacion) AS ?numImportaciones) (SUM(?totalBultos) AS ?totalBultosSum)
+WHERE {
+# Buscar importaciones y sus países de origen y aranceles nacionales
+?importacion a :Importacion ;
+            schema:pais_origen ?pais ;
+            schema:arancel_nacional ?arancel ;
+            schema:total_bultos ?totalBultos .
+
+# Obtener el nombre del país
+?pais schema:nombre ?nombrePais .
+
+# Filtrar los países de interés
+FILTER (?pais IN (<http://example.org/pais336>, 
+                    <http://example.org/pais331>, 
+                    <http://example.org/pais317>))
+}
+GROUP BY ?pais ?nombrePais ?arancel
+ORDER BY DESC(?totalBultosSum)

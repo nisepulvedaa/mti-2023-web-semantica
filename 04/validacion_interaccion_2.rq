@@ -1,0 +1,22 @@
+PREFIX :       <http://example.org/> 
+PREFIX xsd:    <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX schema: <http://schema.org/> 
+
+SELECT ?marca (COUNT(?importacion) AS ?numImportaciones) (SUM(?totalBultos) AS ?totalBultosSum)
+WHERE {
+    # Importaciones locales
+    ?importacion a :Importacion ;
+                    schema:total_bultos ?totalBultos ;
+                    schema:num_encriptado ?numEncriptado .
+                    
+    # Servicio federado para obtener la marca
+    SERVICE <http://localhost:3031/ds/sparql> {
+        ?importacion rdf:type :MarcasImportaciones ;
+                    schema:numero_identificador ?numEncriptado;
+                    schema:marca ?marca .
+    }
+}
+GROUP BY ?marca
+ORDER BY DESC(?numImportaciones)
+LIMIT 10

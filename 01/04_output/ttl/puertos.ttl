@@ -1,0 +1,1045 @@
+@prefix : <http://example.org/> .
+@prefix schema1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:puerto111 a :Puerto ;
+    schema1:nombre "MONTREAL"^^xsd:string .
+
+:puerto112 a :Puerto ;
+    schema1:nombre "COSTA DEL PACIFICO"^^xsd:string .
+
+:puerto113 a :Puerto ;
+    schema1:nombre "HALIFAX"^^xsd:string .
+
+:puerto114 a :Puerto ;
+    schema1:nombre "VANCOUVER"^^xsd:string .
+
+:puerto115 a :Puerto ;
+    schema1:nombre "SAINT JOHN"^^xsd:string .
+
+:puerto116 a :Puerto ;
+    schema1:nombre "TORONTO"^^xsd:string .
+
+:puerto117 a :Puerto ;
+    schema1:nombre "OTROS PUERTOS CANADA"^^xsd:string .
+
+:puerto118 a :Puerto ;
+    schema1:nombre "BAYSIDE"^^xsd:string .
+
+:puerto120 a :Puerto ;
+    schema1:nombre "PORT CARTIES"^^xsd:string .
+
+:puerto121 a :Puerto ;
+    schema1:nombre "COSTA DEL ATLANTICO"^^xsd:string .
+
+:puerto122 a :Puerto ;
+    schema1:nombre "PUERTOS DEL GOLFO ME"^^xsd:string .
+
+:puerto123 a :Puerto ;
+    schema1:nombre "COSTA DEL PACIFICO"^^xsd:string .
+
+:puerto124 a :Puerto ;
+    schema1:nombre "QUEBEC"^^xsd:string .
+
+:puerto125 a :Puerto ;
+    schema1:nombre "PRINCE RUPERT"^^xsd:string .
+
+:puerto126 a :Puerto ;
+    schema1:nombre "HAMILTON"^^xsd:string .
+
+:puerto131 a :Puerto ;
+    schema1:nombre "BOSTON"^^xsd:string .
+
+:puerto132 a :Puerto ;
+    schema1:nombre "NEW HAVEN"^^xsd:string .
+
+:puerto133 a :Puerto ;
+    schema1:nombre "BRIDGEPORT"^^xsd:string .
+
+:puerto134 a :Puerto ;
+    schema1:nombre "NEW YORK"^^xsd:string .
+
+:puerto135 a :Puerto ;
+    schema1:nombre "FILADELFIA"^^xsd:string .
+
+:puerto136 a :Puerto ;
+    schema1:nombre "BALTIMORE"^^xsd:string .
+
+:puerto137 a :Puerto ;
+    schema1:nombre "NORFOLK"^^xsd:string .
+
+:puerto139 a :Puerto ;
+    schema1:nombre "CHARLESTON"^^xsd:string .
+
+:puerto140 a :Puerto ;
+    schema1:nombre "SAVANAH"^^xsd:string .
+
+:puerto141 a :Puerto ;
+    schema1:nombre "MIAMI"^^xsd:string .
+
+:puerto142 a :Puerto ;
+    schema1:nombre "EVERGLADES"^^xsd:string .
+
+:puerto143 a :Puerto ;
+    schema1:nombre "JACKSONVILLE"^^xsd:string .
+
+:puerto145 a :Puerto ;
+    schema1:nombre "PALM BEACH"^^xsd:string .
+
+:puerto146 a :Puerto ;
+    schema1:nombre "BATON ROUGE"^^xsd:string .
+
+:puerto147 a :Puerto ;
+    schema1:nombre "COLUMBRES"^^xsd:string .
+
+:puerto148 a :Puerto ;
+    schema1:nombre "PITTSBURGH"^^xsd:string .
+
+:puerto149 a :Puerto ;
+    schema1:nombre "DULUTH"^^xsd:string .
+
+:puerto150 a :Puerto ;
+    schema1:nombre "MILWAUKEE"^^xsd:string .
+
+:puerto151 a :Puerto ;
+    schema1:nombre "TAMPA"^^xsd:string .
+
+:puerto152 a :Puerto ;
+    schema1:nombre "PENSACOLA"^^xsd:string .
+
+:puerto153 a :Puerto ;
+    schema1:nombre "MOBILE"^^xsd:string .
+
+:puerto154 a :Puerto ;
+    schema1:nombre "NEW ORLEANS"^^xsd:string .
+
+:puerto155 a :Puerto ;
+    schema1:nombre "PORT ARTHUR"^^xsd:string .
+
+:puerto156 a :Puerto ;
+    schema1:nombre "GALVESTON"^^xsd:string .
+
+:puerto157 a :Puerto ;
+    schema1:nombre "CORPUS CRISTI"^^xsd:string .
+
+:puerto158 a :Puerto ;
+    schema1:nombre "BROWNSVILLE"^^xsd:string .
+
+:puerto159 a :Puerto ;
+    schema1:nombre "HOUSTON"^^xsd:string .
+
+:puerto160 a :Puerto ;
+    schema1:nombre "OAKLAND"^^xsd:string .
+
+:puerto161 a :Puerto ;
+    schema1:nombre "STOCKTON"^^xsd:string .
+
+:puerto171 a :Puerto ;
+    schema1:nombre "SEATTLE"^^xsd:string .
+
+:puerto172 a :Puerto ;
+    schema1:nombre "PORTLAND"^^xsd:string .
+
+:puerto173 a :Puerto ;
+    schema1:nombre "SAN FRANCISCO"^^xsd:string .
+
+:puerto174 a :Puerto ;
+    schema1:nombre "LOS ANGELES"^^xsd:string .
+
+:puerto175 a :Puerto ;
+    schema1:nombre "LONG BEACH"^^xsd:string .
+
+:puerto176 a :Puerto ;
+    schema1:nombre "SAN DIEGO"^^xsd:string .
+
+:puerto180 a :Puerto ;
+    schema1:nombre "OTROS PUERTOS EE.UU."^^xsd:string .
+
+:puerto199 a :Puerto ;
+    schema1:nombre "LOS VILOS"^^xsd:string .
+
+:puerto204 a :Puerto ;
+    schema1:nombre "PATACHE"^^xsd:string .
+
+:puerto205 a :Puerto ;
+    schema1:nombre "CALBUCO"^^xsd:string .
+
+:puerto206 a :Puerto ;
+    schema1:nombre "MICHILLA"^^xsd:string .
+
+:puerto207 a :Puerto ;
+    schema1:nombre "PUERTO ANGAMOS"^^xsd:string .
+
+:puerto208 a :Puerto ;
+    schema1:nombre "POSEIDON"^^xsd:string .
+
+:puerto209 a :Puerto ;
+    schema1:nombre "TRES PUENTES"^^xsd:string .
+
+:puerto210 a :Puerto ;
+    schema1:nombre "OTROS PUERTOS MEXICO"^^xsd:string .
+
+:puerto211 a :Puerto ;
+    schema1:nombre "TAMPICO"^^xsd:string .
+
+:puerto212 a :Puerto ;
+    schema1:nombre "COSTA DEL PACIFICO"^^xsd:string .
+
+:puerto213 a :Puerto ;
+    schema1:nombre "VERACRUZ"^^xsd:string .
+
+:puerto214 a :Puerto ;
+    schema1:nombre "COATZACOALCOS"^^xsd:string .
+
+:puerto215 a :Puerto ;
+    schema1:nombre "GUAYMAS"^^xsd:string .
+
+:puerto216 a :Puerto ;
+    schema1:nombre "MAZATLAN"^^xsd:string .
+
+:puerto217 a :Puerto ;
+    schema1:nombre "MANZANILLO"^^xsd:string .
+
+:puerto218 a :Puerto ;
+    schema1:nombre "ACAPULCO"^^xsd:string .
+
+:puerto219 a :Puerto ;
+    schema1:nombre "GOLFO DE MEXICO,OTRO"^^xsd:string .
+
+:puerto220 a :Puerto ;
+    schema1:nombre "ALTAMIRA"^^xsd:string .
+
+:puerto221 a :Puerto ;
+    schema1:nombre "CRISTOBAL"^^xsd:string .
+
+:puerto222 a :Puerto ;
+    schema1:nombre "BALBOA"^^xsd:string .
+
+:puerto223 a :Puerto ;
+    schema1:nombre "COLON"^^xsd:string .
+
+:puerto224 a :Puerto ;
+    schema1:nombre "OTROS PTOS. PANAMA"^^xsd:string .
+
+:puerto231 a :Puerto ;
+    schema1:nombre "OTROS PTOS. COLOMBIA"^^xsd:string .
+
+:puerto232 a :Puerto ;
+    schema1:nombre "BUENAVENTURA"^^xsd:string .
+
+:puerto233 a :Puerto ;
+    schema1:nombre "BARRANQUILLA"^^xsd:string .
+
+:puerto241 a :Puerto ;
+    schema1:nombre "OTROS PTOS. ECUADOR"^^xsd:string .
+
+:puerto242 a :Puerto ;
+    schema1:nombre "GUAYAQUIL"^^xsd:string .
+
+:puerto251 a :Puerto ;
+    schema1:nombre "OTROS PTOS. DE PERU"^^xsd:string .
+
+:puerto252 a :Puerto ;
+    schema1:nombre "CALLAO"^^xsd:string .
+
+:puerto253 a :Puerto ;
+    schema1:nombre "ILO"^^xsd:string .
+
+:puerto254 a :Puerto ;
+    schema1:nombre "IQUITOS"^^xsd:string .
+
+:puerto261 a :Puerto ;
+    schema1:nombre "OTROS PTOS.ARGENTINA"^^xsd:string .
+
+:puerto262 a :Puerto ;
+    schema1:nombre "BUENOS AIRES"^^xsd:string .
+
+:puerto263 a :Puerto ;
+    schema1:nombre "NECOCHEA"^^xsd:string .
+
+:puerto264 a :Puerto ;
+    schema1:nombre "MENDOZA"^^xsd:string .
+
+:puerto265 a :Puerto ;
+    schema1:nombre "CORDOBA"^^xsd:string .
+
+:puerto266 a :Puerto ;
+    schema1:nombre "BAHIA BLANCA"^^xsd:string .
+
+:puerto267 a :Puerto ;
+    schema1:nombre "COMODORO RIVADAVIA"^^xsd:string .
+
+:puerto268 a :Puerto ;
+    schema1:nombre "PUERTO MADRYN"^^xsd:string .
+
+:puerto269 a :Puerto ;
+    schema1:nombre "MAR DEL PLATA"^^xsd:string .
+
+:puerto270 a :Puerto ;
+    schema1:nombre "ROSARIO"^^xsd:string .
+
+:puerto271 a :Puerto ;
+    schema1:nombre "OTROS PTOS.URUGUAY"^^xsd:string .
+
+:puerto272 a :Puerto ;
+    schema1:nombre "MONTEVIDEO"^^xsd:string .
+
+:puerto281 a :Puerto ;
+    schema1:nombre "OTROS PTOS.VENEZUELA"^^xsd:string .
+
+:puerto282 a :Puerto ;
+    schema1:nombre "LA GUAIRA"^^xsd:string .
+
+:puerto285 a :Puerto ;
+    schema1:nombre "MARACAIBO"^^xsd:string .
+
+:puerto291 a :Puerto ;
+    schema1:nombre "OTROS PTOS.BRASIL"^^xsd:string .
+
+:puerto292 a :Puerto ;
+    schema1:nombre "SANTOS"^^xsd:string .
+
+:puerto293 a :Puerto ;
+    schema1:nombre "RIO DE JANEIRO"^^xsd:string .
+
+:puerto294 a :Puerto ;
+    schema1:nombre "RIO GRANDE DEL SUR"^^xsd:string .
+
+:puerto295 a :Puerto ;
+    schema1:nombre "PARANAGUA"^^xsd:string .
+
+:puerto296 a :Puerto ;
+    schema1:nombre "SAO PAULO"^^xsd:string .
+
+:puerto297 a :Puerto ;
+    schema1:nombre "SALVADOR"^^xsd:string .
+
+:puerto301 a :Puerto ;
+    schema1:nombre "OTROS ANT.HOLANDESA"^^xsd:string .
+
+:puerto302 a :Puerto ;
+    schema1:nombre "CURAZAO"^^xsd:string .
+
+:puerto399 a :Puerto ;
+    schema1:nombre "OTROS PTOS.AMERICA"^^xsd:string .
+
+:puerto411 a :Puerto ;
+    schema1:nombre "SHANGAI"^^xsd:string .
+
+:puerto412 a :Puerto ;
+    schema1:nombre "DAIREN"^^xsd:string .
+
+:puerto413 a :Puerto ;
+    schema1:nombre "OTROS PTOS.DE CHINA"^^xsd:string .
+
+:puerto420 a :Puerto ;
+    schema1:nombre "OTROS PUERT COREA N"^^xsd:string .
+
+:puerto421 a :Puerto ;
+    schema1:nombre "NAMPO"^^xsd:string .
+
+:puerto422 a :Puerto ;
+    schema1:nombre "BUSAN"^^xsd:string .
+
+:puerto423 a :Puerto ;
+    schema1:nombre "OTROS PTOS. COREA S"^^xsd:string .
+
+:puerto431 a :Puerto ;
+    schema1:nombre "MANILA"^^xsd:string .
+
+:puerto432 a :Puerto ;
+    schema1:nombre "OTROS PTOS.FILIPINAS"^^xsd:string .
+
+:puerto441 a :Puerto ;
+    schema1:nombre "OTROS PTOS.JAPONESES"^^xsd:string .
+
+:puerto442 a :Puerto ;
+    schema1:nombre "OSAKA"^^xsd:string .
+
+:puerto443 a :Puerto ;
+    schema1:nombre "KOBE"^^xsd:string .
+
+:puerto444 a :Puerto ;
+    schema1:nombre "YOKOHAMA"^^xsd:string .
+
+:puerto445 a :Puerto ;
+    schema1:nombre "NAGOYA"^^xsd:string .
+
+:puerto446 a :Puerto ;
+    schema1:nombre "SHIMIZUI"^^xsd:string .
+
+:puerto447 a :Puerto ;
+    schema1:nombre "MOJI"^^xsd:string .
+
+:puerto448 a :Puerto ;
+    schema1:nombre "YAWATA"^^xsd:string .
+
+:puerto449 a :Puerto ;
+    schema1:nombre "FUKUYAMA"^^xsd:string .
+
+:puerto451 a :Puerto ;
+    schema1:nombre "KAOHSIUNG"^^xsd:string .
+
+:puerto452 a :Puerto ;
+    schema1:nombre "KEELUNG"^^xsd:string .
+
+:puerto453 a :Puerto ;
+    schema1:nombre "OTROS PTOS.TAIWAN"^^xsd:string .
+
+:puerto461 a :Puerto ;
+    schema1:nombre "KARHG ISLAND"^^xsd:string .
+
+:puerto462 a :Puerto ;
+    schema1:nombre "OTROS PTO.IRAN NO ES"^^xsd:string .
+
+:puerto471 a :Puerto ;
+    schema1:nombre "CALCUTA"^^xsd:string .
+
+:puerto472 a :Puerto ;
+    schema1:nombre "OTROS PTOS. DE INDIA"^^xsd:string .
+
+:puerto481 a :Puerto ;
+    schema1:nombre "CHALNA"^^xsd:string .
+
+:puerto482 a :Puerto ;
+    schema1:nombre "OTROS PTO.BANGLADESH"^^xsd:string .
+
+:puerto491 a :Puerto ;
+    schema1:nombre "OTROS PTO.SINGAPURE"^^xsd:string .
+
+:puerto492 a :Puerto ;
+    schema1:nombre "HONG KONG"^^xsd:string .
+
+:puerto499 a :Puerto ;
+    schema1:nombre "OTROS PTO.ASIATICOS"^^xsd:string .
+
+:puerto511 a :Puerto ;
+    schema1:nombre "CONSTANZA"^^xsd:string .
+
+:puerto512 a :Puerto ;
+    schema1:nombre "OTROS PTO.DE RUMANIA"^^xsd:string .
+
+:puerto521 a :Puerto ;
+    schema1:nombre "VARNA"^^xsd:string .
+
+:puerto522 a :Puerto ;
+    schema1:nombre "OTROS PTOS BULGARIA"^^xsd:string .
+
+:puerto533 a :Puerto ;
+    schema1:nombre "BELGRADO"^^xsd:string .
+
+:puerto534 a :Puerto ;
+    schema1:nombre "OTROS PUERTOS DE SER"^^xsd:string .
+
+:puerto535 a :Puerto ;
+    schema1:nombre "PODGORITSA"^^xsd:string .
+
+:puerto536 a :Puerto ;
+    schema1:nombre "OTROS PUERTOS DE MON"^^xsd:string .
+
+:puerto537 a :Puerto ;
+    schema1:nombre "OTROS PUERTOS DE CRO"^^xsd:string .
+
+:puerto538 a :Puerto ;
+    schema1:nombre "RIJEKA"^^xsd:string .
+
+:puerto541 a :Puerto ;
+    schema1:nombre "OTROS PTOS.DE ITALIA"^^xsd:string .
+
+:puerto542 a :Puerto ;
+    schema1:nombre "GENOVA"^^xsd:string .
+
+:puerto543 a :Puerto ;
+    schema1:nombre "LIORNA,LIVORNO"^^xsd:string .
+
+:puerto544 a :Puerto ;
+    schema1:nombre "NAPOLES"^^xsd:string .
+
+:puerto545 a :Puerto ;
+    schema1:nombre "SALERNO"^^xsd:string .
+
+:puerto546 a :Puerto ;
+    schema1:nombre "AUGUSTA"^^xsd:string .
+
+:puerto547 a :Puerto ;
+    schema1:nombre "SAVONA"^^xsd:string .
+
+:puerto551 a :Puerto ;
+    schema1:nombre "OTROS PTOS.FRANCIA"^^xsd:string .
+
+:puerto552 a :Puerto ;
+    schema1:nombre "LA PALLICE"^^xsd:string .
+
+:puerto553 a :Puerto ;
+    schema1:nombre "LE HAVRE"^^xsd:string .
+
+:puerto554 a :Puerto ;
+    schema1:nombre "MARSELLA"^^xsd:string .
+
+:puerto555 a :Puerto ;
+    schema1:nombre "BURDEOS"^^xsd:string .
+
+:puerto556 a :Puerto ;
+    schema1:nombre "CALAIS"^^xsd:string .
+
+:puerto557 a :Puerto ;
+    schema1:nombre "BREST"^^xsd:string .
+
+:puerto558 a :Puerto ;
+    schema1:nombre "RUAN"^^xsd:string .
+
+:puerto561 a :Puerto ;
+    schema1:nombre "OTROS PTOS.ESPANA"^^xsd:string .
+
+:puerto562 a :Puerto ;
+    schema1:nombre "CADIZ"^^xsd:string .
+
+:puerto563 a :Puerto ;
+    schema1:nombre "BARCELONA"^^xsd:string .
+
+:puerto564 a :Puerto ;
+    schema1:nombre "BILBAO"^^xsd:string .
+
+:puerto565 a :Puerto ;
+    schema1:nombre "HUELVA"^^xsd:string .
+
+:puerto566 a :Puerto ;
+    schema1:nombre "SEVILLA"^^xsd:string .
+
+:puerto567 a :Puerto ;
+    schema1:nombre "TARRAGONA"^^xsd:string .
+
+:puerto568 a :Puerto ;
+    schema1:nombre "ALGECIRAS"^^xsd:string .
+
+:puerto569 a :Puerto ;
+    schema1:nombre "VALENCIA"^^xsd:string .
+
+:puerto571 a :Puerto ;
+    schema1:nombre "LIVERPOOL"^^xsd:string .
+
+:puerto572 a :Puerto ;
+    schema1:nombre "LONDRES"^^xsd:string .
+
+:puerto573 a :Puerto ;
+    schema1:nombre "ROCHESTER"^^xsd:string .
+
+:puerto574 a :Puerto ;
+    schema1:nombre "ETEN SALVERRY"^^xsd:string .
+
+:puerto576 a :Puerto ;
+    schema1:nombre "OTROS PTOS.INGLATERR"^^xsd:string .
+
+:puerto577 a :Puerto ;
+    schema1:nombre "DOVER"^^xsd:string .
+
+:puerto578 a :Puerto ;
+    schema1:nombre "PLYMOUTH"^^xsd:string .
+
+:puerto581 a :Puerto ;
+    schema1:nombre "HELSINKI"^^xsd:string .
+
+:puerto582 a :Puerto ;
+    schema1:nombre "OTROS PTOS.FINLANDIA"^^xsd:string .
+
+:puerto583 a :Puerto ;
+    schema1:nombre "HANKO"^^xsd:string .
+
+:puerto584 a :Puerto ;
+    schema1:nombre "KEMI"^^xsd:string .
+
+:puerto585 a :Puerto ;
+    schema1:nombre "KOKKOLA"^^xsd:string .
+
+:puerto586 a :Puerto ;
+    schema1:nombre "KOTKA"^^xsd:string .
+
+:puerto587 a :Puerto ;
+    schema1:nombre "OULO"^^xsd:string .
+
+:puerto588 a :Puerto ;
+    schema1:nombre "PIETARSAARI"^^xsd:string .
+
+:puerto589 a :Puerto ;
+    schema1:nombre "PORI"^^xsd:string .
+
+:puerto591 a :Puerto ;
+    schema1:nombre "BREMEN"^^xsd:string .
+
+:puerto592 a :Puerto ;
+    schema1:nombre "HAMBURGO"^^xsd:string .
+
+:puerto593 a :Puerto ;
+    schema1:nombre "NUREMBERG"^^xsd:string .
+
+:puerto594 a :Puerto ;
+    schema1:nombre "FRANKFURT"^^xsd:string .
+
+:puerto595 a :Puerto ;
+    schema1:nombre "DUSSELDORF"^^xsd:string .
+
+:puerto596 a :Puerto ;
+    schema1:nombre "OTROS PTOS.ALEMANIA"^^xsd:string .
+
+:puerto597 a :Puerto ;
+    schema1:nombre "CUXHAVEN"^^xsd:string .
+
+:puerto598 a :Puerto ;
+    schema1:nombre "ROSTOCK"^^xsd:string .
+
+:puerto599 a :Puerto ;
+    schema1:nombre "OLDENBURG"^^xsd:string .
+
+:puerto601 a :Puerto ;
+    schema1:nombre "AMBERES"^^xsd:string .
+
+:puerto602 a :Puerto ;
+    schema1:nombre "OTROS PTO.BELGICA"^^xsd:string .
+
+:puerto603 a :Puerto ;
+    schema1:nombre "ZEEBRUGGE"^^xsd:string .
+
+:puerto604 a :Puerto ;
+    schema1:nombre "GHENT"^^xsd:string .
+
+:puerto605 a :Puerto ;
+    schema1:nombre "OOSTENDE"^^xsd:string .
+
+:puerto611 a :Puerto ;
+    schema1:nombre "LISBOA"^^xsd:string .
+
+:puerto612 a :Puerto ;
+    schema1:nombre "OTROSS PTOS.PORTUGAL"^^xsd:string .
+
+:puerto613 a :Puerto ;
+    schema1:nombre "SETUBAL"^^xsd:string .
+
+:puerto621 a :Puerto ;
+    schema1:nombre "AMSTERDAM"^^xsd:string .
+
+:puerto622 a :Puerto ;
+    schema1:nombre "ROTTERDAM"^^xsd:string .
+
+:puerto623 a :Puerto ;
+    schema1:nombre "OTROS PTOS.HOLANDA"^^xsd:string .
+
+:puerto631 a :Puerto ;
+    schema1:nombre "GOTEMBURGO"^^xsd:string .
+
+:puerto632 a :Puerto ;
+    schema1:nombre "OTROS PTOS.SUECIA"^^xsd:string .
+
+:puerto633 a :Puerto ;
+    schema1:nombre "MALMO"^^xsd:string .
+
+:puerto634 a :Puerto ;
+    schema1:nombre "HELSIMBORG"^^xsd:string .
+
+:puerto635 a :Puerto ;
+    schema1:nombre "KALMAR"^^xsd:string .
+
+:puerto641 a :Puerto ;
+    schema1:nombre "AARHUS"^^xsd:string .
+
+:puerto642 a :Puerto ;
+    schema1:nombre "COPENHAGEN"^^xsd:string .
+
+:puerto643 a :Puerto ;
+    schema1:nombre "OTROS PTOS.DINAMARCA"^^xsd:string .
+
+:puerto644 a :Puerto ;
+    schema1:nombre "AALBORG"^^xsd:string .
+
+:puerto645 a :Puerto ;
+    schema1:nombre "ODENSE"^^xsd:string .
+
+:puerto651 a :Puerto ;
+    schema1:nombre "OSLO"^^xsd:string .
+
+:puerto652 a :Puerto ;
+    schema1:nombre "OTROS PTO. NORUEGA"^^xsd:string .
+
+:puerto653 a :Puerto ;
+    schema1:nombre "STAVANGER"^^xsd:string .
+
+:puerto699 a :Puerto ;
+    schema1:nombre "OTROS PTOS.EUROPA"^^xsd:string .
+
+:puerto711 a :Puerto ;
+    schema1:nombre "DURBAM"^^xsd:string .
+
+:puerto712 a :Puerto ;
+    schema1:nombre "CIUDAD DEL CABO"^^xsd:string .
+
+:puerto713 a :Puerto ;
+    schema1:nombre "OTROS PTO.SUDAFFRICA"^^xsd:string .
+
+:puerto714 a :Puerto ;
+    schema1:nombre "SALDANHA"^^xsd:string .
+
+:puerto715 a :Puerto ;
+    schema1:nombre "PORT-ELIZABETH"^^xsd:string .
+
+:puerto716 a :Puerto ;
+    schema1:nombre "MOSSEL-BAY"^^xsd:string .
+
+:puerto717 a :Puerto ;
+    schema1:nombre "EAST-LONDON"^^xsd:string .
+
+:puerto799 a :Puerto ;
+    schema1:nombre "OTROS PTO.DE AFRICA"^^xsd:string .
+
+:puerto811 a :Puerto ;
+    schema1:nombre "SIDNEY"^^xsd:string .
+
+:puerto812 a :Puerto ;
+    schema1:nombre "FREMANTLE"^^xsd:string .
+
+:puerto813 a :Puerto ;
+    schema1:nombre "OTROS PTOS.AUSTRALIA"^^xsd:string .
+
+:puerto814 a :Puerto ;
+    schema1:nombre "ADELAIDA"^^xsd:string .
+
+:puerto815 a :Puerto ;
+    schema1:nombre "DARWIN"^^xsd:string .
+
+:puerto816 a :Puerto ;
+    schema1:nombre "GERALDTON"^^xsd:string .
+
+:puerto817 a :Puerto ;
+    schema1:nombre "PUERTO CABO FROWARD"^^xsd:string .
+
+:puerto818 a :Puerto ;
+    schema1:nombre "HUACHIPATO"^^xsd:string .
+
+:puerto819 a :Puerto ;
+    schema1:nombre "ESCUADRON"^^xsd:string .
+
+:puerto820 a :Puerto ;
+    schema1:nombre "TERQUIM"^^xsd:string .
+
+:puerto821 a :Puerto ;
+    schema1:nombre "ESPERANZA"^^xsd:string .
+
+:puerto822 a :Puerto ;
+    schema1:nombre "TERMINAL ENAEX"^^xsd:string .
+
+:puerto823 a :Puerto ;
+    schema1:nombre "TNAL. OXIQUIM"^^xsd:string .
+
+:puerto824 a :Puerto ;
+    schema1:nombre "PASO BUTAMALLIN"^^xsd:string .
+
+:puerto825 a :Puerto ;
+    schema1:nombre "AE.LA ARAUCANIA"^^xsd:string .
+
+:puerto826 a :Puerto ;
+    schema1:nombre "E.MEDICION RECI"^^xsd:string .
+
+:puerto827 a :Puerto ;
+    schema1:nombre "T.GNELES NORTE"^^xsd:string .
+
+:puerto831 a :Puerto ;
+    schema1:nombre "AERÓDROMO PICHOY"^^xsd:string .
+
+:puerto899 a :Puerto ;
+    schema1:nombre "OTROS PTOS. OCEANIA"^^xsd:string .
+
+:puerto900 a :Puerto ;
+    schema1:nombre "RANCHO,COMB.,LUBRIC."^^xsd:string .
+
+:puerto901 a :Puerto ;
+    schema1:nombre "ARICA"^^xsd:string .
+
+:puerto902 a :Puerto ;
+    schema1:nombre "IQUIQUE"^^xsd:string .
+
+:puerto903 a :Puerto ;
+    schema1:nombre "ANTOFAGASTA"^^xsd:string .
+
+:puerto904 a :Puerto ;
+    schema1:nombre "COQUIMBO"^^xsd:string .
+
+:puerto905 a :Puerto ;
+    schema1:nombre "VALPARAISO"^^xsd:string .
+
+:puerto906 a :Puerto ;
+    schema1:nombre "SAN ANTONIO"^^xsd:string .
+
+:puerto907 a :Puerto ;
+    schema1:nombre "TALCAHUANO"^^xsd:string .
+
+:puerto908 a :Puerto ;
+    schema1:nombre "SAN VICENTE"^^xsd:string .
+
+:puerto909 a :Puerto ;
+    schema1:nombre "LIRQUEN"^^xsd:string .
+
+:puerto910 a :Puerto ;
+    schema1:nombre "PUERTO MONTT"^^xsd:string .
+
+:puerto911 a :Puerto ;
+    schema1:nombre "CHACABUCO/PTO.AYSEN"^^xsd:string .
+
+:puerto912 a :Puerto ;
+    schema1:nombre "PUNTA ARENAS"^^xsd:string .
+
+:puerto913 a :Puerto ;
+    schema1:nombre "PATILLOS"^^xsd:string .
+
+:puerto914 a :Puerto ;
+    schema1:nombre "TOCOPILLA"^^xsd:string .
+
+:puerto915 a :Puerto ;
+    schema1:nombre "MEJILLONES"^^xsd:string .
+
+:puerto916 a :Puerto ;
+    schema1:nombre "TALTAL"^^xsd:string .
+
+:puerto917 a :Puerto ;
+    schema1:nombre "CHANARAL/BARQUITO"^^xsd:string .
+
+:puerto918 a :Puerto ;
+    schema1:nombre "CALDERA"^^xsd:string .
+
+:puerto919 a :Puerto ;
+    schema1:nombre "CALDERILLA"^^xsd:string .
+
+:puerto920 a :Puerto ;
+    schema1:nombre "HUASCO/GUACOLDA"^^xsd:string .
+
+:puerto921 a :Puerto ;
+    schema1:nombre "QUINTERO"^^xsd:string .
+
+:puerto922 a :Puerto ;
+    schema1:nombre "JUAN FERNANDEZ"^^xsd:string .
+
+:puerto923 a :Puerto ;
+    schema1:nombre "CONSTITUCION"^^xsd:string .
+
+:puerto924 a :Puerto ;
+    schema1:nombre "TOME"^^xsd:string .
+
+:puerto925 a :Puerto ;
+    schema1:nombre "PENCO"^^xsd:string .
+
+:puerto926 a :Puerto ;
+    schema1:nombre "CORONEL"^^xsd:string .
+
+:puerto927 a :Puerto ;
+    schema1:nombre "LOTA"^^xsd:string .
+
+:puerto928 a :Puerto ;
+    schema1:nombre "LEBU"^^xsd:string .
+
+:puerto929 a :Puerto ;
+    schema1:nombre "ISLA DE PASCUA"^^xsd:string .
+
+:puerto930 a :Puerto ;
+    schema1:nombre "CORRAL"^^xsd:string .
+
+:puerto931 a :Puerto ;
+    schema1:nombre "ANCUD"^^xsd:string .
+
+:puerto932 a :Puerto ;
+    schema1:nombre "CASTRO"^^xsd:string .
+
+:puerto933 a :Puerto ;
+    schema1:nombre "QUELLON"^^xsd:string .
+
+:puerto934 a :Puerto ;
+    schema1:nombre "CHAITEN"^^xsd:string .
+
+:puerto935 a :Puerto ;
+    schema1:nombre "TORTEL"^^xsd:string .
+
+:puerto936 a :Puerto ;
+    schema1:nombre "NATALES"^^xsd:string .
+
+:puerto937 a :Puerto ;
+    schema1:nombre "GUARELLO"^^xsd:string .
+
+:puerto938 a :Puerto ;
+    schema1:nombre "PUERTO ANDINO"^^xsd:string .
+
+:puerto939 a :Puerto ;
+    schema1:nombre "PERCY"^^xsd:string .
+
+:puerto940 a :Puerto ;
+    schema1:nombre "CLARENCIA"^^xsd:string .
+
+:puerto941 a :Puerto ;
+    schema1:nombre "GREGORIO"^^xsd:string .
+
+:puerto942 a :Puerto ;
+    schema1:nombre "CABO NEGRO"^^xsd:string .
+
+:puerto943 a :Puerto ;
+    schema1:nombre "PUERTO WILLIAMS"^^xsd:string .
+
+:puerto944 a :Puerto ;
+    schema1:nombre "TER.ANTARTICO CHILEN"^^xsd:string .
+
+:puerto945 a :Puerto ;
+    schema1:nombre "AEROP. CARRIEL SUR"^^xsd:string .
+
+:puerto946 a :Puerto ;
+    schema1:nombre "GUAYACAN"^^xsd:string .
+
+:puerto947 a :Puerto ;
+    schema1:nombre "PASO PEHUENCHE"^^xsd:string .
+
+:puerto948 a :Puerto ;
+    schema1:nombre "VENTANAS"^^xsd:string .
+
+:puerto949 a :Puerto ;
+    schema1:nombre "PINO HACHADO(LIUCURA"^^xsd:string .
+
+:puerto950 a :Puerto ;
+    schema1:nombre "CALETA COLOSO"^^xsd:string .
+
+:puerto951 a :Puerto ;
+    schema1:nombre "AGUAS NEGRAS"^^xsd:string .
+
+:puerto952 a :Puerto ;
+    schema1:nombre "ZONA FRANCA IQUIQUE"^^xsd:string .
+
+:puerto953 a :Puerto ;
+    schema1:nombre "ZONA FRANCA PTA AREN"^^xsd:string .
+
+:puerto954 a :Puerto ;
+    schema1:nombre "RIO MAYER"^^xsd:string .
+
+:puerto955 a :Puerto ;
+    schema1:nombre "RIO MOSCO"^^xsd:string .
+
+:puerto956 a :Puerto ;
+    schema1:nombre "VISVIRI"^^xsd:string .
+
+:puerto957 a :Puerto ;
+    schema1:nombre "CHACALLUTA"^^xsd:string .
+
+:puerto958 a :Puerto ;
+    schema1:nombre "CHUNGARA"^^xsd:string .
+
+:puerto959 a :Puerto ;
+    schema1:nombre "COLCHANE"^^xsd:string .
+
+:puerto960 a :Puerto ;
+    schema1:nombre "ABRA DE NAPA"^^xsd:string .
+
+:puerto961 a :Puerto ;
+    schema1:nombre "OLLAGUE"^^xsd:string .
+
+:puerto962 a :Puerto ;
+    schema1:nombre "SAN PEDRO DE ATACAMA"^^xsd:string .
+
+:puerto963 a :Puerto ;
+    schema1:nombre "SOCOMPA"^^xsd:string .
+
+:puerto964 a :Puerto ;
+    schema1:nombre "SAN FRANCISCO"^^xsd:string .
+
+:puerto965 a :Puerto ;
+    schema1:nombre "LOS LIBERTADORES"^^xsd:string .
+
+:puerto966 a :Puerto ;
+    schema1:nombre "MAHUIL MALAL"^^xsd:string .
+
+:puerto967 a :Puerto ;
+    schema1:nombre "CARDENAL SAMORE"^^xsd:string .
+
+:puerto968 a :Puerto ;
+    schema1:nombre "PEREZ ROSALES"^^xsd:string .
+
+:puerto969 a :Puerto ;
+    schema1:nombre "FUTALEUFU"^^xsd:string .
+
+:puerto970 a :Puerto ;
+    schema1:nombre "PALENA-CARRENLEUFU"^^xsd:string .
+
+:puerto971 a :Puerto ;
+    schema1:nombre "PANGUIPULLI"^^xsd:string .
+
+:puerto972 a :Puerto ;
+    schema1:nombre "HUAHUM"^^xsd:string .
+
+:puerto973 a :Puerto ;
+    schema1:nombre "LAGO VERDE"^^xsd:string .
+
+:puerto974 a :Puerto ;
+    schema1:nombre "APPELEG"^^xsd:string .
+
+:puerto975 a :Puerto ;
+    schema1:nombre "PAMPA ALTA"^^xsd:string .
+
+:puerto976 a :Puerto ;
+    schema1:nombre "HUEMULES"^^xsd:string .
+
+:puerto977 a :Puerto ;
+    schema1:nombre "CHILE CHICO"^^xsd:string .
+
+:puerto978 a :Puerto ;
+    schema1:nombre "BAKER"^^xsd:string .
+
+:puerto979 a :Puerto ;
+    schema1:nombre "DOROTEA"^^xsd:string .
+
+:puerto980 a :Puerto ;
+    schema1:nombre "CASAS VIEJAS"^^xsd:string .
+
+:puerto981 a :Puerto ;
+    schema1:nombre "MONTE AYMOND"^^xsd:string .
+
+:puerto982 a :Puerto ;
+    schema1:nombre "SAN SEBASTIAN"^^xsd:string .
+
+:puerto983 a :Puerto ;
+    schema1:nombre "COYHAIQUE ALTO"^^xsd:string .
+
+:puerto984 a :Puerto ;
+    schema1:nombre "TRIANA"^^xsd:string .
+
+:puerto985 a :Puerto ;
+    schema1:nombre "IBANEZ PALAVICINI"^^xsd:string .
+
+:puerto986 a :Puerto ;
+    schema1:nombre "VILLA OHIGGINS"^^xsd:string .
+
+:puerto987 a :Puerto ;
+    schema1:nombre "AEROP.CHACALLUTA"^^xsd:string .
+
+:puerto988 a :Puerto ;
+    schema1:nombre "AEROP.DIEGO ARACENA"^^xsd:string .
+
+:puerto989 a :Puerto ;
+    schema1:nombre "AEROP.CERRO MORENO"^^xsd:string .
+
+:puerto990 a :Puerto ;
+    schema1:nombre "AEROP.EL TEPUAL"^^xsd:string .
+
+:puerto991 a :Puerto ;
+    schema1:nombre "AEROP.C.I.DEL CAMPO"^^xsd:string .
+
+:puerto992 a :Puerto ;
+    schema1:nombre "AEROP.A.M.BENITEZ"^^xsd:string .
+
+:puerto993 a :Puerto ;
+    schema1:nombre "AEROD. EL LOA"^^xsd:string .
+
+:puerto994 a :Puerto ;
+    schema1:nombre "ARICA-TACNA"^^xsd:string .
+
+:puerto995 a :Puerto ;
+    schema1:nombre "ARICA-LA PAZ"^^xsd:string .
+
+:puerto997 a :Puerto ;
+    schema1:nombre "OTROS PTOS. CHILENOS"^^xsd:string .
+
+:puerto998 a :Puerto ;
+    schema1:nombre "PASO JAMA"^^xsd:string .
+
+:puerto999 a :Puerto ;
+    schema1:nombre "GNL MEJILLONES"^^xsd:string .
+

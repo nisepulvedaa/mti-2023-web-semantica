@@ -1,0 +1,571 @@
+prefix :       <http://example.org/>
+prefix xsd:    <http://www.w3.org/2001/XMLSchema#>
+prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix schema: <http://schema.org/>
+
+
+:nave1 rdf:type :Nave ;
+    schema:agente_nave "SOCIEDAD MARITIMA Y COMERCIAL SOMARCO LTDA."^^xsd:string ;
+    schema:manifiesto "239233"^^xsd:string ;
+    schema:nombre "XIN YA ZHOU"^^xsd:string .
+
+:nave10 rdf:type :Nave ;
+    schema:agente_nave "INCHCAPESHIPPING SERVICES B.V. CHILE LIMITADA"^^xsd:string ;
+    schema:manifiesto "238258"^^xsd:string ;
+    schema:nombre "GOLD HOSHI"^^xsd:string .
+
+:nave100 rdf:type :Nave ;
+    schema:agente_nave "MEDITERRANEAN SHIPPING COMPANY (CHILE) S.A."^^xsd:string ;
+    schema:manifiesto "239803"^^xsd:string ;
+    schema:nombre "MSC BARI"^^xsd:string .
+
+:nave101 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "238127"^^xsd:string ;
+    schema:nombre "RCC AFRICA"^^xsd:string .
+
+:nave102 rdf:type :Nave ;
+    schema:agente_nave "EVERGREEN SHIPPING AGENCY ( CHILE )"^^xsd:string ;
+    schema:manifiesto "240141"^^xsd:string ;
+    schema:nombre "EVER FOND"^^xsd:string .
+
+:nave103 rdf:type :Nave ;
+    schema:agente_nave "INCHCAPESHIPPING SERVICES B.V. CHILE LIMITADA"^^xsd:string ;
+    schema:manifiesto "236242"^^xsd:string ;
+    schema:nombre "GLORIOUS LEADER"^^xsd:string .
+
+:nave104 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "235843"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave105 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "236312"^^xsd:string ;
+    schema:nombre "CMA CGM ESTELLE"^^xsd:string .
+
+:nave106 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "238409"^^xsd:string ;
+    schema:nombre "TINA I"^^xsd:string .
+
+:nave107 rdf:type :Nave ;
+    schema:agente_nave "A. J. BROOM Y CIA. SAC"^^xsd:string ;
+    schema:manifiesto "236250"^^xsd:string ;
+    schema:nombre "KOTA SALAM"^^xsd:string .
+
+:nave108 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "236266"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave109 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "236342"^^xsd:string ;
+    schema:nombre "CAUTIN"^^xsd:string .
+
+:nave11 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "239108"^^xsd:string ;
+    schema:nombre "CMA CGM ESTELLE"^^xsd:string .
+
+:nave110 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "236128"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave111 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "240031"^^xsd:string ;
+    schema:nombre "CAPE SCOTT"^^xsd:string .
+
+:nave112 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "237773"^^xsd:string ;
+    schema:nombre "POLAR PERU"^^xsd:string .
+
+:nave113 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "238915"^^xsd:string ;
+    schema:nombre "POLAR ARGENTINA"^^xsd:string .
+
+:nave12 rdf:type :Nave ;
+    schema:agente_nave "MEDITERRANEAN SHIPPING COMPANY (CHILE) S.A."^^xsd:string ;
+    schema:manifiesto "239043"^^xsd:string ;
+    schema:nombre "MSC VIVIENNE"^^xsd:string .
+
+:nave13 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "239461"^^xsd:string ;
+    schema:nombre "ZEAL LUMOS"^^xsd:string .
+
+:nave14 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "236020"^^xsd:string ;
+    schema:nombre "WAN HAI 517"^^xsd:string .
+
+:nave15 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "238634"^^xsd:string ;
+    schema:nombre "RIO DE JANEIRO EXPRESS"^^xsd:string .
+
+:nave16 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "239959"^^xsd:string ;
+    schema:nombre "SANTOS EXPRESS"^^xsd:string .
+
+:nave17 rdf:type :Nave ;
+    schema:agente_nave "SOCIEDAD MARITIMA Y COMERCIAL SOMARCO LTDA."^^xsd:string ;
+    schema:manifiesto "239747"^^xsd:string ;
+    schema:nombre "COSCO SHIPPING JIN XIU"^^xsd:string .
+
+:nave18 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "239930"^^xsd:string ;
+    schema:nombre "GRAND SAPPHIRE"^^xsd:string .
+
+:nave19 rdf:type :Nave ;
+    schema:agente_nave "INCHCAPESHIPPING SERVICES B.V. CHILE LIMITADA"^^xsd:string ;
+    schema:manifiesto "238249"^^xsd:string ;
+    schema:nombre "HEROIC LEADER"^^xsd:string .
+
+:nave2 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "237767"^^xsd:string ;
+    schema:nombre "BESS"^^xsd:string .
+
+:nave20 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "236030"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave21 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "235595"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave22 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "239226"^^xsd:string ;
+    schema:nombre "RCC AFRICA"^^xsd:string .
+
+:nave23 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "238107"^^xsd:string ;
+    schema:nombre "CARRERA"^^xsd:string .
+
+:nave24 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "236392"^^xsd:string ;
+    schema:nombre "SAN MARTIN"^^xsd:string .
+
+:nave25 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "239332"^^xsd:string ;
+    schema:nombre "SAN MARTIN"^^xsd:string .
+
+:nave26 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "235607"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave27 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "239159"^^xsd:string ;
+    schema:nombre "VALPARAISO EXPRESS"^^xsd:string .
+
+:nave28 rdf:type :Nave ;
+    schema:agente_nave "MEDITERRANEAN SHIPPING COMPANY (CHILE) S.A."^^xsd:string ;
+    schema:manifiesto "239232"^^xsd:string ;
+    schema:nombre "MSC RAYSHMI"^^xsd:string .
+
+:nave29 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "238421"^^xsd:string ;
+    schema:nombre "CALLAO EXPRESS"^^xsd:string .
+
+:nave3 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "238749"^^xsd:string ;
+    schema:nombre "MORNING CHORUS"^^xsd:string .
+
+:nave30 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "238903"^^xsd:string ;
+    schema:nombre "SALLY MAERSK"^^xsd:string .
+
+:nave31 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "239659"^^xsd:string ;
+    schema:nombre "GENIUS HIGHWAY"^^xsd:string .
+
+:nave32 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "236948"^^xsd:string ;
+    schema:nombre "CZECH"^^xsd:string .
+
+:nave33 rdf:type :Nave ;
+    schema:agente_nave "SOCIEDAD MARITIMA Y COMERCIAL SOMARCO LTDA."^^xsd:string ;
+    schema:manifiesto "238885"^^xsd:string ;
+    schema:nombre "COSCO SHIPPING BRAZIL"^^xsd:string .
+
+:nave34 rdf:type :Nave ;
+    schema:agente_nave "SOCIEDAD MARITIMA Y COMERCIAL SOMARCO LTDA."^^xsd:string ;
+    schema:manifiesto "239237"^^xsd:string ;
+    schema:nombre "COSCO ASIA"^^xsd:string .
+
+:nave35 rdf:type :Nave ;
+    schema:agente_nave "SOCIEDAD MARITIMA Y COMERCIAL SOMARCO LTDA."^^xsd:string ;
+    schema:manifiesto "240207"^^xsd:string ;
+    schema:nombre "CSCL SPRING"^^xsd:string .
+
+:nave36 rdf:type :Nave ;
+    schema:agente_nave "B & M AGENCIA MARITIMA S.A."^^xsd:string ;
+    schema:manifiesto "240119"^^xsd:string ;
+    schema:nombre "CENTURY DREAM"^^xsd:string .
+
+:nave37 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "235589"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave38 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "239309"^^xsd:string ;
+    schema:nombre "MORNING LADY"^^xsd:string .
+
+:nave39 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "239494"^^xsd:string ;
+    schema:nombre "SKAGEN MAERSK"^^xsd:string .
+
+:nave4 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "239633"^^xsd:string ;
+    schema:nombre "MORNING CHERRY"^^xsd:string .
+
+:nave40 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "238303"^^xsd:string ;
+    schema:nombre "MORNING LYNN"^^xsd:string .
+
+:nave41 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "ASIAN EMPIRE"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave42 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "237137"^^xsd:string ;
+    schema:nombre "CAROLINE MAERSK"^^xsd:string .
+
+:nave43 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "238998"^^xsd:string ;
+    schema:nombre "CMA CGM BEIRA"^^xsd:string .
+
+:nave44 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "235845"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave45 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "240008"^^xsd:string ;
+    schema:nombre "POLAR CHILE"^^xsd:string .
+
+:nave46 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "235746"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave47 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "239761"^^xsd:string ;
+    schema:nombre "BOX ENDURANCE"^^xsd:string .
+
+:nave48 rdf:type :Nave ;
+    schema:agente_nave "SOCIEDAD MARITIMA Y COMERCIAL SOMARCO LTDA."^^xsd:string ;
+    schema:manifiesto "239722"^^xsd:string ;
+    schema:nombre "CSCL MARS"^^xsd:string .
+
+:nave49 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "239487"^^xsd:string ;
+    schema:nombre "POLAR COLOMBIA"^^xsd:string .
+
+:nave5 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "237395"^^xsd:string ;
+    schema:nombre "ISOLDANA"^^xsd:string .
+
+:nave50 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "238919"^^xsd:string ;
+    schema:nombre "POLAR PERU"^^xsd:string .
+
+:nave51 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "239655"^^xsd:string ;
+    schema:nombre "GLOVIS SONIC"^^xsd:string .
+
+:nave52 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "239653"^^xsd:string ;
+    schema:nombre "GLOVIS CHAMPION"^^xsd:string .
+
+:nave53 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "236314"^^xsd:string ;
+    schema:nombre "A.P.MOLLER"^^xsd:string .
+
+:nave54 rdf:type :Nave ;
+    schema:agente_nave "MEDITERRANEAN SHIPPING COMPANY (CHILE) S.A."^^xsd:string ;
+    schema:manifiesto "238497"^^xsd:string ;
+    schema:nombre "MSC CANDIDA"^^xsd:string .
+
+:nave55 rdf:type :Nave ;
+    schema:agente_nave "MEDITERRANEAN SHIPPING COMPANY (CHILE) S.A."^^xsd:string ;
+    schema:manifiesto "237099"^^xsd:string ;
+    schema:nombre "MSC ATHENS"^^xsd:string .
+
+:nave56 rdf:type :Nave ;
+    schema:agente_nave "MEDITERRANEAN SHIPPING COMPANY (CHILE) S.A."^^xsd:string ;
+    schema:manifiesto "237095"^^xsd:string ;
+    schema:nombre "MSC ATHENS"^^xsd:string .
+
+:nave57 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "238907"^^xsd:string ;
+    schema:nombre "POLAR CHILE"^^xsd:string .
+
+:nave58 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "236978"^^xsd:string ;
+    schema:nombre "CRYSTAL ACE"^^xsd:string .
+
+:nave59 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "238735"^^xsd:string ;
+    schema:nombre "SEASPAN BRAVO"^^xsd:string .
+
+:nave6 rdf:type :Nave ;
+    schema:agente_nave "INCHCAPESHIPPING SERVICES B.V. CHILE LIMITADA"^^xsd:string ;
+    schema:manifiesto "238250"^^xsd:string ;
+    schema:nombre "GRAND ORION"^^xsd:string .
+
+:nave60 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "239153"^^xsd:string ;
+    schema:nombre "MAPOCHO"^^xsd:string .
+
+:nave61 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "238125"^^xsd:string ;
+    schema:nombre "LEO SPIRIT"^^xsd:string .
+
+:nave62 rdf:type :Nave ;
+    schema:agente_nave "INCHCAPESHIPPING SERVICES B.V. CHILE LIMITADA"^^xsd:string ;
+    schema:manifiesto "236239"^^xsd:string ;
+    schema:nombre "ERIDANUS LEADER"^^xsd:string .
+
+:nave63 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "235769"^^xsd:string ;
+    schema:nombre "MERMAID ACE"^^xsd:string .
+
+:nave64 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "236772"^^xsd:string ;
+    schema:nombre "GLOVIS COUNTESS"^^xsd:string .
+
+:nave65 rdf:type :Nave ;
+    schema:agente_nave "INCHCAPESHIPPING SERVICES B.V. CHILE LIMITADA"^^xsd:string ;
+    schema:manifiesto "235357"^^xsd:string ;
+    schema:nombre "GRAND PHOENIX"^^xsd:string .
+
+:nave66 rdf:type :Nave ;
+    schema:agente_nave "MEDITERRANEAN SHIPPING COMPANY (CHILE) S.A."^^xsd:string ;
+    schema:manifiesto "239802"^^xsd:string ;
+    schema:nombre "MSC BARI"^^xsd:string .
+
+:nave67 rdf:type :Nave ;
+    schema:agente_nave "MEDITERRANEAN SHIPPING COMPANY (CHILE) S.A."^^xsd:string ;
+    schema:manifiesto "238977"^^xsd:string ;
+    schema:nombre "MSC CASSANDRE"^^xsd:string .
+
+:nave68 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "239411"^^xsd:string ;
+    schema:nombre "ISTANBUL EXPRESS"^^xsd:string .
+
+:nave69 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "239162"^^xsd:string ;
+    schema:nombre "CAPE BRUNO"^^xsd:string .
+
+:nave7 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "239651"^^xsd:string ;
+    schema:nombre "JASPER ARROW"^^xsd:string .
+
+:nave70 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "236968"^^xsd:string ;
+    schema:nombre "SANTOS EXPRESS"^^xsd:string .
+
+:nave71 rdf:type :Nave ;
+    schema:agente_nave "EVERGREEN SHIPPING AGENCY ( CHILE )"^^xsd:string ;
+    schema:manifiesto "239504"^^xsd:string ;
+    schema:nombre "EVER LUNAR"^^xsd:string .
+
+:nave72 rdf:type :Nave ;
+    schema:agente_nave "INCHCAPESHIPPING SERVICES B.V. CHILE LIMITADA"^^xsd:string ;
+    schema:manifiesto "239316"^^xsd:string ;
+    schema:nombre "GRACEFUL LEADER"^^xsd:string .
+
+:nave73 rdf:type :Nave ;
+    schema:agente_nave "INCHCAPESHIPPING SERVICES B.V. CHILE LIMITADA"^^xsd:string ;
+    schema:manifiesto "235359"^^xsd:string ;
+    schema:nombre "SIRIUS LEADER"^^xsd:string .
+
+:nave74 rdf:type :Nave ;
+    schema:agente_nave "INCHCAPESHIPPING SERVICES B.V. CHILE LIMITADA"^^xsd:string ;
+    schema:manifiesto "237618"^^xsd:string ;
+    schema:nombre "GRAND DOLPHIN"^^xsd:string .
+
+:nave75 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "234567"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave76 rdf:type :Nave ;
+    schema:agente_nave "SOCIEDAD MARITIMA Y COMERCIAL SOMARCO LTDA."^^xsd:string ;
+    schema:manifiesto "238881"^^xsd:string ;
+    schema:nombre "COSCO SHIPPING VOLGA"^^xsd:string .
+
+:nave77 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "236608"^^xsd:string ;
+    schema:nombre "CARSTEN MAERSK"^^xsd:string .
+
+:nave78 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "239335"^^xsd:string ;
+    schema:nombre "CAPE QUEST"^^xsd:string .
+
+:nave79 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "239657"^^xsd:string ;
+    schema:nombre "EM SPETSES"^^xsd:string .
+
+:nave8 rdf:type :Nave ;
+    schema:agente_nave "SOCIEDAD MARITIMA Y COMERCIAL SOMARCO LTDA."^^xsd:string ;
+    schema:manifiesto "239594"^^xsd:string ;
+    schema:nombre "YANTIAN"^^xsd:string .
+
+:nave80 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "238692"^^xsd:string ;
+    schema:nombre "SEASPAN BRAVO"^^xsd:string .
+
+:nave81 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "238772"^^xsd:string ;
+    schema:nombre "YM PLUM"^^xsd:string .
+
+:nave82 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "239330"^^xsd:string ;
+    schema:nombre "AS ANNE"^^xsd:string .
+
+:nave83 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "237969"^^xsd:string ;
+    schema:nombre "HAWAIIAN HIGHWAY"^^xsd:string .
+
+:nave84 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "237891"^^xsd:string ;
+    schema:nombre "GLOVIS COUNTESS"^^xsd:string .
+
+:nave85 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "237952"^^xsd:string ;
+    schema:nombre "MAERSK EINDHOVEN"^^xsd:string .
+
+:nave86 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "239415"^^xsd:string ;
+    schema:nombre "GENIUS HIGHWAY"^^xsd:string .
+
+:nave87 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "239448"^^xsd:string ;
+    schema:nombre "JIN RUI"^^xsd:string .
+
+:nave88 rdf:type :Nave ;
+    schema:agente_nave "MEDITERRANEAN SHIPPING COMPANY (CHILE) S.A."^^xsd:string ;
+    schema:manifiesto "239526"^^xsd:string ;
+    schema:nombre "MSC BIANCA"^^xsd:string .
+
+:nave89 rdf:type :Nave ;
+    schema:agente_nave "MEDITERRANEAN SHIPPING COMPANY (CHILE) S.A."^^xsd:string ;
+    schema:manifiesto "240289"^^xsd:string ;
+    schema:nombre "MSC CHIYO"^^xsd:string .
+
+:nave9 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "240148"^^xsd:string ;
+    schema:nombre "BAO QUAN"^^xsd:string .
+
+:nave90 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "235415"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave91 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "MSC YASHI B"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave92 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "MSC DOMITILLE"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave93 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "236618"^^xsd:string ;
+    schema:nombre "SKAGEN MAERSK"^^xsd:string .
+
+:nave94 rdf:type :Nave ;
+    schema:agente_nave "ULTRAMAR AGENCIA MARITIMA LIMITADA"^^xsd:string ;
+    schema:manifiesto "239268"^^xsd:string ;
+    schema:nombre "CAUTIN"^^xsd:string .
+
+:nave95 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "239286"^^xsd:string ;
+    schema:nombre "SEAMASTER"^^xsd:string .
+
+:nave96 rdf:type :Nave ;
+    schema:agente_nave "AGENCIAS UNIVERSALES S.A."^^xsd:string ;
+    schema:manifiesto "238202"^^xsd:string ;
+    schema:nombre "FORTUNE ARK"^^xsd:string .
+
+:nave97 rdf:type :Nave ;
+    schema:agente_nave "IAN TAYLOR Y CIA. S.A."^^xsd:string ;
+    schema:manifiesto "239745"^^xsd:string ;
+    schema:nombre "MAERSK EVERGLADES"^^xsd:string .
+
+:nave98 rdf:type :Nave ;
+    schema:agente_nave "nan"^^xsd:string ;
+    schema:manifiesto "234264"^^xsd:string ;
+    schema:nombre "nan"^^xsd:string .
+
+:nave99 rdf:type :Nave ;
+    schema:agente_nave "MARITIMA VALPARAISO CHILE SPA"^^xsd:string ;
+    schema:manifiesto "238765"^^xsd:string ;
+    schema:nombre "INDUSTRIAL MOMENTUM"^^xsd:string .
+

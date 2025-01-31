@@ -1,0 +1,10 @@
+prefix :       <http://example.org/>
+prefix xsd:    <http://www.w3.org/2001/XMLSchema#>
+prefix schema: <http://schema.org/>
+
+
+:MarcasImportaciones { 
+    schema:numero_identificador          xsd:integer ; 
+    schema:nombre                        xsd:string ;
+    schema:marca                         xsd:string 
+}

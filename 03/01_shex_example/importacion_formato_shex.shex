@@ -1,0 +1,40 @@
+prefix :       <http://example.org/>
+prefix xsd:    <http://www.w3.org/2001/XMLSchema#>
+prefix schema: <http://schema.org/>
+
+
+:Importacion {
+    schema:num_encriptado                   xsd:integer       ; 
+    schema:arancel_nacional                 xsd:string        ;           
+    schema:total_bultos                     xsd:integer       ;               
+    schema:fob                              xsd:float         ;                                                          
+    schema:importador                       @:Importador *    ;                
+  	schema:aduana                           @:Aduana *        ;                    
+  	schema:pais_origen                      @:Pais *          ;                           
+ 	schema:puerto_embarque                  @:Puerto *        ;           
+    schema:puerto_desembarque               @:Puerto *        ;        
+  	schema:nave                             @:Nave *                
+}
+
+:Importador { 
+    schema:numero_unico_importador          xsd:integer ; 
+    schema:comuna_importador                xsd:string 
+}
+
+:Aduana {
+    schema:nombre                           xsd:string ; 
+}
+
+:Pais {
+    schema:nombre                           xsd:string ; 
+}
+
+:Puerto {
+    schema:nombre                           xsd:string ; 
+}
+
+:Nave {
+    schema:manifiesto                       xsd:string;
+    schema:nombre                           xsd:string ; 
+    schema:agente_nave                      xsd:string  
+}

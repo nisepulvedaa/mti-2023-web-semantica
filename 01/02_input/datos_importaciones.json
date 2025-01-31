@@ -1,0 +1,4076 @@
+{
+    "aduanas": [
+        {
+            "Código": 10,
+            "Glosa": "TOCOPILLA"
+        },
+        {
+            "Código": 14,
+            "Glosa": "ANTOFAGASTA"
+        },
+        {
+            "Código": 17,
+            "Glosa": "CHANARAL"
+        },
+        {
+            "Código": 25,
+            "Glosa": "COQUIMBO"
+        },
+        {
+            "Código": 3,
+            "Glosa": "ARICA"
+        },
+        {
+            "Código": 33,
+            "Glosa": "LOS ANDES"
+        },
+        {
+            "Código": 34,
+            "Glosa": "VALPARAISO"
+        },
+        {
+            "Código": 39,
+            "Glosa": "SAN ANTONIO"
+        },
+        {
+            "Código": 48,
+            "Glosa": "METROPOLITANA"
+        },
+        {
+            "Código": 55,
+            "Glosa": "TALCAHUANO"
+        },
+        {
+            "Código": 67,
+            "Glosa": "OSORNO"
+        },
+        {
+            "Código": 69,
+            "Glosa": "PUERTO MONTT"
+        },
+        {
+            "Código": 7,
+            "Glosa": "IQUIQUE"
+        },
+        {
+            "Código": 83,
+            "Glosa": "COYHAIQUE"
+        },
+        {
+            "Código": 90,
+            "Glosa": "PUERTO AYSEN"
+        },
+        {
+            "Código": 92,
+            "Glosa": "PUNTA ARENAS"
+        },
+        {
+            "Código": 98,
+            "Glosa": "DIRECCION NACIONAL"
+        }
+    ],
+    "monedas": [
+        {
+            "Código": 1,
+            "Glosa": "PESO AR"
+        },
+        {
+            "Código": 102,
+            "Glosa": "LIBRA EST"
+        },
+        {
+            "Código": 113,
+            "Glosa": "CORONA SC"
+        },
+        {
+            "Código": 127,
+            "Glosa": "DOLAR HK"
+        },
+        {
+            "Código": 128,
+            "Glosa": "RAND"
+        },
+        {
+            "Código": 129,
+            "Glosa": "PESO CO"
+        },
+        {
+            "Código": 13,
+            "Glosa": "DOLAR USA"
+        },
+        {
+            "Código": 132,
+            "Glosa": "PESO MX"
+        },
+        {
+            "Código": 134,
+            "Glosa": "BOLIVAR"
+        },
+        {
+            "Código": 136,
+            "Glosa": "DOLAR SIN"
+        },
+        {
+            "Código": 137,
+            "Glosa": "RUPIA IN"
+        },
+        {
+            "Código": 142,
+            "Glosa": "EURO"
+        },
+        {
+            "Código": 146,
+            "Glosa": "LIRA TR"
+        },
+        {
+            "Código": 150,
+            "Glosa": "HRYVNIA UA"
+        },
+        {
+            "Código": 200,
+            "Glosa": "PESO CL"
+        },
+        {
+            "Código": 26,
+            "Glosa": "PESO UY"
+        },
+        {
+            "Código": 138,
+            "Glosa": "DOLAR TAI"
+        },
+        {
+            "Código": 139,
+            "Glosa": "DIRHAM"
+        },
+        {
+            "Código": 140,
+            "Glosa": "WON KR"
+        },
+        {
+            "Código": 141,
+            "Glosa": "ZLOTY PL"
+        },
+        {
+            "Código": 143,
+            "Glosa": "CORONA CZ"
+        },
+        {
+            "Código": 144,
+            "Glosa": "FORINT HU"
+        },
+        {
+            "Código": 145,
+            "Glosa": "BAHT TH"
+        },
+        {
+            "Código": 147,
+            "Glosa": "RINGGIT MY"
+        },
+        {
+            "Código": 148,
+            "Glosa": "RUBLO RU"
+        },
+        {
+            "Código": 149,
+            "Glosa": "RUPIA ID"
+        },
+        {
+            "Código": 151,
+            "Glosa": "SHEKEL IL"
+        },
+        {
+            "Código": 152,
+            "Glosa": "PESO PH"
+        },
+        {
+            "Código": 153,
+            "Glosa": "RIYAL SA"
+        },
+        {
+            "Código": 154,
+            "Glosa": "RUPIA PK"
+        },
+        {
+            "Código": 155,
+            "Glosa": "DONG VN"
+        },
+        {
+            "Código": 156,
+            "Glosa": "LIBRA EG"
+        },
+        {
+            "Código": 157,
+            "Glosa": "LEU RO"
+        },
+        {
+            "Código": 158,
+            "Glosa": "CORONA IS"
+        },
+        {
+            "Código": 159,
+            "Glosa": "RIAL IR"
+        },
+        {
+            "Código": 160,
+            "Glosa": "COLON CR"
+        },
+        {
+            "Código": 161,
+            "Glosa": "BALBOA PA"
+        },
+        {
+            "Código": 23,
+            "Glosa": "GUARANI"
+        },
+        {
+            "Código": 24,
+            "Glosa": "NUEVO SOL"
+        },
+        {
+            "Código": 36,
+            "Glosa": "DOLAR AUST"
+        },
+        {
+            "Código": 4,
+            "Glosa": "BOLIVIANO"
+        },
+        {
+            "Código": 48,
+            "Glosa": "YUAN CN"
+        },
+        {
+            "Código": 5,
+            "Glosa": "REAL BR"
+        },
+        {
+            "Código": 51,
+            "Glosa": "CORONA DIN"
+        },
+        {
+            "Código": 6,
+            "Glosa": "DOLAR CAN"
+        },
+        {
+            "Código": 72,
+            "Glosa": "YEN"
+        },
+        {
+            "Código": 82,
+            "Glosa": "FRANCO SZ"
+        },
+        {
+            "Código": 900,
+            "Glosa": "OTRAS MONEDAS"
+        },
+        {
+            "Código": 96,
+            "Glosa": "CORONA NOR"
+        },
+        {
+            "Código": 97,
+            "Glosa": "DOLAR NZ"
+        }
+    ],
+    "paises": [
+        {
+            "Código": 101,
+            "Glosa": "SENEGAL"
+        },
+        {
+            "Código": 102,
+            "Glosa": "GAMBIA"
+        },
+        {
+            "Código": 103,
+            "Glosa": "GUINEA-BISSAU"
+        },
+        {
+            "Código": 104,
+            "Glosa": "GUINEA"
+        },
+        {
+            "Código": 105,
+            "Glosa": "SIERRA LEONA"
+        },
+        {
+            "Código": 106,
+            "Glosa": "LIBERIA"
+        },
+        {
+            "Código": 107,
+            "Glosa": "COSTA DE MARFIL"
+        },
+        {
+            "Código": 108,
+            "Glosa": "GHANA"
+        },
+        {
+            "Código": 109,
+            "Glosa": "TOGO"
+        },
+        {
+            "Código": 111,
+            "Glosa": "NIGERIA"
+        },
+        {
+            "Código": 112,
+            "Glosa": "SUDAFRICA"
+        },
+        {
+            "Código": 113,
+            "Glosa": "BOTSWANA"
+        },
+        {
+            "Código": 114,
+            "Glosa": "LESOTHO"
+        },
+        {
+            "Código": 115,
+            "Glosa": "MALAWI"
+        },
+        {
+            "Código": 116,
+            "Glosa": "ZIMBABWE"
+        },
+        {
+            "Código": 117,
+            "Glosa": "ZAMBIA"
+        },
+        {
+            "Código": 118,
+            "Glosa": "COMORAS"
+        },
+        {
+            "Código": 119,
+            "Glosa": "MAURICIO"
+        },
+        {
+            "Código": 120,
+            "Glosa": "MADAGASCAR"
+        },
+        {
+            "Código": 121,
+            "Glosa": "MOZAMBIQUE"
+        },
+        {
+            "Código": 122,
+            "Glosa": "SWAZILANDIA"
+        },
+        {
+            "Código": 123,
+            "Glosa": "SUDAN"
+        },
+        {
+            "Código": 124,
+            "Glosa": "EGIPTO"
+        },
+        {
+            "Código": 125,
+            "Glosa": "LIBIA"
+        },
+        {
+            "Código": 126,
+            "Glosa": "TUNEZ"
+        },
+        {
+            "Código": 127,
+            "Glosa": "ARGELIA"
+        },
+        {
+            "Código": 128,
+            "Glosa": "MARRUECOS"
+        },
+        {
+            "Código": 129,
+            "Glosa": "CABO VERDE"
+        },
+        {
+            "Código": 130,
+            "Glosa": "CHAD"
+        },
+        {
+            "Código": 131,
+            "Glosa": "NIGER"
+        },
+        {
+            "Código": 133,
+            "Glosa": "MALI"
+        },
+        {
+            "Código": 134,
+            "Glosa": "MAURITANIA"
+        },
+        {
+            "Código": 135,
+            "Glosa": "TANZANIA"
+        },
+        {
+            "Código": 136,
+            "Glosa": "UGANDA"
+        },
+        {
+            "Código": 137,
+            "Glosa": "KENIA"
+        },
+        {
+            "Código": 138,
+            "Glosa": "SOMALIA"
+        },
+        {
+            "Código": 139,
+            "Glosa": "ETIOPIA"
+        },
+        {
+            "Código": 140,
+            "Glosa": "ANGOLA"
+        },
+        {
+            "Código": 141,
+            "Glosa": "BURUNDI"
+        },
+        {
+            "Código": 142,
+            "Glosa": "RWANDA"
+        },
+        {
+            "Código": 143,
+            "Glosa": "REP.DEM. CONGO"
+        },
+        {
+            "Código": 144,
+            "Glosa": "CONGO"
+        },
+        {
+            "Código": 145,
+            "Glosa": "GABON"
+        },
+        {
+            "Código": 146,
+            "Glosa": "S.TOM.PRINCIPE"
+        },
+        {
+            "Código": 147,
+            "Glosa": "GUINEA ECUATRL"
+        },
+        {
+            "Código": 148,
+            "Glosa": "REP.CENT.AFRIC."
+        },
+        {
+            "Código": 149,
+            "Glosa": "CAMERUN"
+        },
+        {
+            "Código": 150,
+            "Glosa": "BENIN"
+        },
+        {
+            "Código": 151,
+            "Glosa": "TERR.BRIT.EN AF"
+        },
+        {
+            "Código": 152,
+            "Glosa": "TER.ESPAN.EN AF"
+        },
+        {
+            "Código": 153,
+            "Glosa": "TERR.FRAN.EN AF"
+        },
+        {
+            "Código": 155,
+            "Glosa": "DJIBOUTI"
+        },
+        {
+            "Código": 156,
+            "Glosa": "SEYCHELLES"
+        },
+        {
+            "Código": 159,
+            "Glosa": "NAMIBIA"
+        },
+        {
+            "Código": 160,
+            "Glosa": "SUDAN DEL SUR"
+        },
+        {
+            "Código": 161,
+            "Glosa": "BURKINA FASO"
+        },
+        {
+            "Código": 163,
+            "Glosa": "ERITREA"
+        },
+        {
+            "Código": 164,
+            "Glosa": "ISLAS MARSHALL"
+        },
+        {
+            "Código": 165,
+            "Glosa": "SAHARA OCCIDENT"
+        },
+        {
+            "Código": 201,
+            "Glosa": "VENEZUELA"
+        },
+        {
+            "Código": 202,
+            "Glosa": "COLOMBIA"
+        },
+        {
+            "Código": 203,
+            "Glosa": "TRINID.Y TOBAGO"
+        },
+        {
+            "Código": 204,
+            "Glosa": "BARBADOS"
+        },
+        {
+            "Código": 205,
+            "Glosa": "JAMAICA"
+        },
+        {
+            "Código": 206,
+            "Glosa": "REP.DOMINICANA"
+        },
+        {
+            "Código": 207,
+            "Glosa": "BAHAMAS"
+        },
+        {
+            "Código": 208,
+            "Glosa": "HAITI"
+        },
+        {
+            "Código": 209,
+            "Glosa": "CUBA"
+        },
+        {
+            "Código": 210,
+            "Glosa": "PANAMA"
+        },
+        {
+            "Código": 211,
+            "Glosa": "COSTA RICA"
+        },
+        {
+            "Código": 212,
+            "Glosa": "NICARAGUA"
+        },
+        {
+            "Código": 213,
+            "Glosa": "EL SALVADOR"
+        },
+        {
+            "Código": 214,
+            "Glosa": "HONDURAS"
+        },
+        {
+            "Código": 215,
+            "Glosa": "GUATEMALA"
+        },
+        {
+            "Código": 216,
+            "Glosa": "MEXICO"
+        },
+        {
+            "Código": 217,
+            "Glosa": "GUYANA"
+        },
+        {
+            "Código": 218,
+            "Glosa": "ECUADOR"
+        },
+        {
+            "Código": 219,
+            "Glosa": "PERU"
+        },
+        {
+            "Código": 220,
+            "Glosa": "BRASIL"
+        },
+        {
+            "Código": 221,
+            "Glosa": "BOLIVIA"
+        },
+        {
+            "Código": 222,
+            "Glosa": "PARAGUAY"
+        },
+        {
+            "Código": 223,
+            "Glosa": "URUGUAY"
+        },
+        {
+            "Código": 224,
+            "Glosa": "ARGENTINA"
+        },
+        {
+            "Código": 225,
+            "Glosa": "U.S.A."
+        },
+        {
+            "Código": 226,
+            "Glosa": "CANADA"
+        },
+        {
+            "Código": 227,
+            "Glosa": "TERR.BRIT.EN AM"
+        },
+        {
+            "Código": 228,
+            "Glosa": "TERR.FRAN.EN AM"
+        },
+        {
+            "Código": 229,
+            "Glosa": "TER.HOLAN.EN AM"
+        },
+        {
+            "Código": 230,
+            "Glosa": "TERR.D/DINAMARC"
+        },
+        {
+            "Código": 231,
+            "Glosa": "DOMINICA"
+        },
+        {
+            "Código": 232,
+            "Glosa": "GRANADA"
+        },
+        {
+            "Código": 233,
+            "Glosa": "SANTA LUCIA(ISL"
+        },
+        {
+            "Código": 234,
+            "Glosa": "S.VTE.Y GRANAD."
+        },
+        {
+            "Código": 235,
+            "Glosa": "SURINAM"
+        },
+        {
+            "Código": 236,
+            "Glosa": "BELICE"
+        },
+        {
+            "Código": 240,
+            "Glosa": "ANTIGUA Y BBUDA"
+        },
+        {
+            "Código": 241,
+            "Glosa": "SNT.KIT & NEVIS"
+        },
+        {
+            "Código": 242,
+            "Glosa": "ANGUILA"
+        },
+        {
+            "Código": 243,
+            "Glosa": "ARUBA"
+        },
+        {
+            "Código": 244,
+            "Glosa": "BERMUDAS"
+        },
+        {
+            "Código": 245,
+            "Glosa": "ISLAS VIRG.BRIT"
+        },
+        {
+            "Código": 246,
+            "Glosa": "ISLAS CAYMAN"
+        },
+        {
+            "Código": 247,
+            "Glosa": "ANTILLAS NEERLA"
+        },
+        {
+            "Código": 248,
+            "Glosa": "TURCAS Y CAICOS"
+        },
+        {
+            "Código": 249,
+            "Glosa": "ISLAS VIRG.EUA"
+        },
+        {
+            "Código": 250,
+            "Glosa": "MARTINICA"
+        },
+        {
+            "Código": 251,
+            "Glosa": "PUERTO RICO"
+        },
+        {
+            "Código": 252,
+            "Glosa": "MONSERRAT"
+        },
+        {
+            "Código": 253,
+            "Glosa": "GROENLADIA"
+        },
+        {
+            "Código": 301,
+            "Glosa": "JORDANIA"
+        },
+        {
+            "Código": 302,
+            "Glosa": "ARABIA SAUDITA"
+        },
+        {
+            "Código": 303,
+            "Glosa": "KUWAIT"
+        },
+        {
+            "Código": 304,
+            "Glosa": "OMAN"
+        },
+        {
+            "Código": 305,
+            "Glosa": "CHIPRE"
+        },
+        {
+            "Código": 306,
+            "Glosa": "ISRAEL"
+        },
+        {
+            "Código": 307,
+            "Glosa": "IRAK"
+        },
+        {
+            "Código": 308,
+            "Glosa": "AFGHANISTAN"
+        },
+        {
+            "Código": 309,
+            "Glosa": "IRAN"
+        },
+        {
+            "Código": 310,
+            "Glosa": "SIRIA"
+        },
+        {
+            "Código": 311,
+            "Glosa": "LIBANO"
+        },
+        {
+            "Código": 312,
+            "Glosa": "QATAR"
+        },
+        {
+            "Código": 313,
+            "Glosa": "BAHREIN"
+        },
+        {
+            "Código": 314,
+            "Glosa": "SRI LANKA"
+        },
+        {
+            "Código": 315,
+            "Glosa": "CAMBODIA"
+        },
+        {
+            "Código": 316,
+            "Glosa": "LAOS"
+        },
+        {
+            "Código": 317,
+            "Glosa": "INDIA"
+        },
+        {
+            "Código": 318,
+            "Glosa": "BUTAN"
+        },
+        {
+            "Código": 319,
+            "Glosa": "THAILANDIA"
+        },
+        {
+            "Código": 320,
+            "Glosa": "NEPAL"
+        },
+        {
+            "Código": 321,
+            "Glosa": "BANGLADESH"
+        },
+        {
+            "Código": 322,
+            "Glosa": "PALESTINA"
+        },
+        {
+            "Código": 324,
+            "Glosa": "PAKISTAN"
+        },
+        {
+            "Código": 325,
+            "Glosa": "VIETNAM"
+        },
+        {
+            "Código": 326,
+            "Glosa": "MYANMAR (EX BIR"
+        },
+        {
+            "Código": 327,
+            "Glosa": "ISLAS MALDIVAS"
+        },
+        {
+            "Código": 328,
+            "Glosa": "INDONESIA"
+        },
+        {
+            "Código": 329,
+            "Glosa": "MALASIA"
+        },
+        {
+            "Código": 330,
+            "Glosa": "TAIWAN (FORMOSA"
+        },
+        {
+            "Código": 331,
+            "Glosa": "JAPON"
+        },
+        {
+            "Código": 332,
+            "Glosa": "SINGAPUR"
+        },
+        {
+            "Código": 333,
+            "Glosa": "COREA DEL SUR"
+        },
+        {
+            "Código": 334,
+            "Glosa": "RPD COREA DEL N"
+        },
+        {
+            "Código": 335,
+            "Glosa": "FILIPINAS"
+        },
+        {
+            "Código": 336,
+            "Glosa": "CHINA"
+        },
+        {
+            "Código": 337,
+            "Glosa": "MONGOLIA"
+        },
+        {
+            "Código": 341,
+            "Glosa": "EMIR.ARAB.UNID."
+        },
+        {
+            "Código": 342,
+            "Glosa": "HONG KONG"
+        },
+        {
+            "Código": 343,
+            "Glosa": "TER.PORTUG.E/AS"
+        },
+        {
+            "Código": 344,
+            "Glosa": "BRUNEI"
+        },
+        {
+            "Código": 345,
+            "Glosa": "MACAO"
+        },
+        {
+            "Código": 346,
+            "Glosa": "REPUBLICA DE YE"
+        },
+        {
+            "Código": 401,
+            "Glosa": "FIJI"
+        },
+        {
+            "Código": 402,
+            "Glosa": "NAURU"
+        },
+        {
+            "Código": 403,
+            "Glosa": "ISLAS TONGA"
+        },
+        {
+            "Código": 404,
+            "Glosa": "SAMOA OCC."
+        },
+        {
+            "Código": 405,
+            "Glosa": "NUEVA ZELANDIA"
+        },
+        {
+            "Código": 406,
+            "Glosa": "AUSTRALIA"
+        },
+        {
+            "Código": 407,
+            "Glosa": "TERR.BRIT.EN OP"
+        },
+        {
+            "Código": 408,
+            "Glosa": "TERR.FRAN.EN OP"
+        },
+        {
+            "Código": 409,
+            "Glosa": "T.NORTEAM.EN OP"
+        },
+        {
+            "Código": 412,
+            "Glosa": "PPUA.NVA.GUINEA"
+        },
+        {
+            "Código": 415,
+            "Glosa": "VANUATU"
+        },
+        {
+            "Código": 416,
+            "Glosa": "KIRIBATI"
+        },
+        {
+            "Código": 417,
+            "Glosa": "MICRONESIA"
+        },
+        {
+            "Código": 418,
+            "Glosa": "ISLAS SALOMON"
+        },
+        {
+            "Código": 419,
+            "Glosa": "TUVALU"
+        },
+        {
+            "Código": 420,
+            "Glosa": "BELAU"
+        },
+        {
+            "Código": 421,
+            "Glosa": "NIUE"
+        },
+        {
+            "Código": 422,
+            "Glosa": "POLINESIA FRAN."
+        },
+        {
+            "Código": 423,
+            "Glosa": "NUEVA CALEDONIA"
+        },
+        {
+            "Código": 424,
+            "Glosa": "ISLAS MARIANAS"
+        },
+        {
+            "Código": 425,
+            "Glosa": "GUAM"
+        },
+        {
+            "Código": 426,
+            "Glosa": "TIMOR ORIENTAL"
+        },
+        {
+            "Código": 427,
+            "Glosa": "ISLAS COOK"
+        },
+        {
+            "Código": 501,
+            "Glosa": "PORTUGAL"
+        },
+        {
+            "Código": 504,
+            "Glosa": "ITALIA"
+        },
+        {
+            "Código": 505,
+            "Glosa": "FRANCIA"
+        },
+        {
+            "Código": 506,
+            "Glosa": "IRLANDA"
+        },
+        {
+            "Código": 507,
+            "Glosa": "DINAMARCA"
+        },
+        {
+            "Código": 508,
+            "Glosa": "SUIZA"
+        },
+        {
+            "Código": 509,
+            "Glosa": "AUSTRIA"
+        },
+        {
+            "Código": 510,
+            "Glosa": "REINO UNIDO"
+        },
+        {
+            "Código": 511,
+            "Glosa": "SUECIA"
+        },
+        {
+            "Código": 512,
+            "Glosa": "FINLANDIA"
+        },
+        {
+            "Código": 513,
+            "Glosa": "NORUEGA"
+        },
+        {
+            "Código": 514,
+            "Glosa": "BELGICA"
+        },
+        {
+            "Código": 515,
+            "Glosa": "PAISES BAJOS"
+        },
+        {
+            "Código": 516,
+            "Glosa": "ISLANDIA"
+        },
+        {
+            "Código": 517,
+            "Glosa": "ESPANA"
+        },
+        {
+            "Código": 518,
+            "Glosa": "ALBANIA"
+        },
+        {
+            "Código": 519,
+            "Glosa": "RUMANIA"
+        },
+        {
+            "Código": 520,
+            "Glosa": "GRECIA"
+        },
+        {
+            "Código": 522,
+            "Glosa": "TURQUIA"
+        },
+        {
+            "Código": 523,
+            "Glosa": "MALTA"
+        },
+        {
+            "Código": 524,
+            "Glosa": "SANTA SEDE"
+        },
+        {
+            "Código": 525,
+            "Glosa": "ANDORRA"
+        },
+        {
+            "Código": 527,
+            "Glosa": "BULGARIA"
+        },
+        {
+            "Código": 528,
+            "Glosa": "POLONIA"
+        },
+        {
+            "Código": 530,
+            "Glosa": "HUNGRIA"
+        },
+        {
+            "Código": 532,
+            "Glosa": "LUXEMBURGO"
+        },
+        {
+            "Código": 534,
+            "Glosa": "LIECHTENSTEIN"
+        },
+        {
+            "Código": 535,
+            "Glosa": "MONACO"
+        },
+        {
+            "Código": 536,
+            "Glosa": "SAN MARINO"
+        },
+        {
+            "Código": 540,
+            "Glosa": "ARMENIA"
+        },
+        {
+            "Código": 541,
+            "Glosa": "AZERBAIJAN"
+        },
+        {
+            "Código": 542,
+            "Glosa": "BELARUS"
+        },
+        {
+            "Código": 543,
+            "Glosa": "BOSNIA HEZGVINA"
+        },
+        {
+            "Código": 544,
+            "Glosa": "REPUBLICA CHECA"
+        },
+        {
+            "Código": 545,
+            "Glosa": "REP.ESLOVACA"
+        },
+        {
+            "Código": 546,
+            "Glosa": "REPUBLICA DE SE"
+        },
+        {
+            "Código": 547,
+            "Glosa": "CROACIA"
+        },
+        {
+            "Código": 548,
+            "Glosa": "ESLOVENIA"
+        },
+        {
+            "Código": 549,
+            "Glosa": "ESTONIA"
+        },
+        {
+            "Código": 550,
+            "Glosa": "GEORGIA (B)"
+        },
+        {
+            "Código": 551,
+            "Glosa": "KASAJSTAN"
+        },
+        {
+            "Código": 552,
+            "Glosa": "KIRGISTAN"
+        },
+        {
+            "Código": 553,
+            "Glosa": "LETONIA"
+        },
+        {
+            "Código": 554,
+            "Glosa": "LITUANIA"
+        },
+        {
+            "Código": 555,
+            "Glosa": "MACEDONIA"
+        },
+        {
+            "Código": 556,
+            "Glosa": "MOLDOVA"
+        },
+        {
+            "Código": 557,
+            "Glosa": "TADJIKISTAN"
+        },
+        {
+            "Código": 558,
+            "Glosa": "TURKMENISTAN"
+        },
+        {
+            "Código": 559,
+            "Glosa": "UCRANIA"
+        },
+        {
+            "Código": 560,
+            "Glosa": "UZBEKISTAN"
+        },
+        {
+            "Código": 561,
+            "Glosa": "MONTENEGRO"
+        },
+        {
+            "Código": 562,
+            "Glosa": "RUSIA"
+        },
+        {
+            "Código": 563,
+            "Glosa": "ALEMANIA"
+        },
+        {
+            "Código": 565,
+            "Glosa": "GIBRALTAR"
+        },
+        {
+            "Código": 566,
+            "Glosa": "GUERNSEY"
+        },
+        {
+            "Código": 567,
+            "Glosa": "ISLAS DE MAN"
+        },
+        {
+            "Código": 568,
+            "Glosa": "JERSEY"
+        },
+        {
+            "Código": 888,
+            "Glosa": "LOS DEMAS"
+        },
+        {
+            "Código": 901,
+            "Glosa": "COMB.Y LUBRIC."
+        },
+        {
+            "Código": 902,
+            "Glosa": "RANCHO DE NAVES"
+        },
+        {
+            "Código": 903,
+            "Glosa": "PESCA EXTRA"
+        },
+        {
+            "Código": 904,
+            "Glosa": "ORIG.O DEST. NO"
+        },
+        {
+            "Código": 905,
+            "Glosa": "ZF.IQUIQUE"
+        },
+        {
+            "Código": 906,
+            "Glosa": "DEPOSITO FRANCO"
+        },
+        {
+            "Código": 907,
+            "Glosa": "ZF.PARENAS"
+        },
+        {
+            "Código": 910,
+            "Glosa": "ZF.ARICA-ZF IND"
+        },
+        {
+            "Código": 997,
+            "Glosa": "CHILE"
+        },
+        {
+            "Código": 998,
+            "Glosa": "NAC.REPUTADA"
+        },
+        {
+            "Código": 999,
+            "Glosa": "OTROS"
+        }
+    ],
+    "puertos": [
+        {
+            "Código": 111,
+            "Glosa": "MONTREAL"
+        },
+        {
+            "Código": 112,
+            "Glosa": "COSTA DEL PACIFICO"
+        },
+        {
+            "Código": 113,
+            "Glosa": "HALIFAX"
+        },
+        {
+            "Código": 114,
+            "Glosa": "VANCOUVER"
+        },
+        {
+            "Código": 115,
+            "Glosa": "SAINT JOHN"
+        },
+        {
+            "Código": 116,
+            "Glosa": "TORONTO"
+        },
+        {
+            "Código": 117,
+            "Glosa": "OTROS PUERTOS CANADA"
+        },
+        {
+            "Código": 118,
+            "Glosa": "BAYSIDE"
+        },
+        {
+            "Código": 120,
+            "Glosa": "PORT CARTIES"
+        },
+        {
+            "Código": 121,
+            "Glosa": "COSTA DEL ATLANTICO"
+        },
+        {
+            "Código": 122,
+            "Glosa": "PUERTOS DEL GOLFO ME"
+        },
+        {
+            "Código": 123,
+            "Glosa": "COSTA DEL PACIFICO"
+        },
+        {
+            "Código": 124,
+            "Glosa": "QUEBEC"
+        },
+        {
+            "Código": 125,
+            "Glosa": "PRINCE RUPERT"
+        },
+        {
+            "Código": 126,
+            "Glosa": "HAMILTON"
+        },
+        {
+            "Código": 131,
+            "Glosa": "BOSTON"
+        },
+        {
+            "Código": 132,
+            "Glosa": "NEW HAVEN"
+        },
+        {
+            "Código": 133,
+            "Glosa": "BRIDGEPORT"
+        },
+        {
+            "Código": 134,
+            "Glosa": "NEW YORK"
+        },
+        {
+            "Código": 135,
+            "Glosa": "FILADELFIA"
+        },
+        {
+            "Código": 136,
+            "Glosa": "BALTIMORE"
+        },
+        {
+            "Código": 137,
+            "Glosa": "NORFOLK"
+        },
+        {
+            "Código": 139,
+            "Glosa": "CHARLESTON"
+        },
+        {
+            "Código": 140,
+            "Glosa": "SAVANAH"
+        },
+        {
+            "Código": 141,
+            "Glosa": "MIAMI"
+        },
+        {
+            "Código": 142,
+            "Glosa": "EVERGLADES"
+        },
+        {
+            "Código": 143,
+            "Glosa": "JACKSONVILLE"
+        },
+        {
+            "Código": 145,
+            "Glosa": "PALM BEACH"
+        },
+        {
+            "Código": 146,
+            "Glosa": "BATON ROUGE"
+        },
+        {
+            "Código": 147,
+            "Glosa": "COLUMBRES"
+        },
+        {
+            "Código": 148,
+            "Glosa": "PITTSBURGH"
+        },
+        {
+            "Código": 149,
+            "Glosa": "DULUTH"
+        },
+        {
+            "Código": 150,
+            "Glosa": "MILWAUKEE"
+        },
+        {
+            "Código": 151,
+            "Glosa": "TAMPA"
+        },
+        {
+            "Código": 152,
+            "Glosa": "PENSACOLA"
+        },
+        {
+            "Código": 153,
+            "Glosa": "MOBILE"
+        },
+        {
+            "Código": 154,
+            "Glosa": "NEW ORLEANS"
+        },
+        {
+            "Código": 155,
+            "Glosa": "PORT ARTHUR"
+        },
+        {
+            "Código": 156,
+            "Glosa": "GALVESTON"
+        },
+        {
+            "Código": 157,
+            "Glosa": "CORPUS CRISTI"
+        },
+        {
+            "Código": 158,
+            "Glosa": "BROWNSVILLE"
+        },
+        {
+            "Código": 159,
+            "Glosa": "HOUSTON"
+        },
+        {
+            "Código": 160,
+            "Glosa": "OAKLAND"
+        },
+        {
+            "Código": 161,
+            "Glosa": "STOCKTON"
+        },
+        {
+            "Código": 171,
+            "Glosa": "SEATTLE"
+        },
+        {
+            "Código": 172,
+            "Glosa": "PORTLAND"
+        },
+        {
+            "Código": 173,
+            "Glosa": "SAN FRANCISCO"
+        },
+        {
+            "Código": 174,
+            "Glosa": "LOS ANGELES"
+        },
+        {
+            "Código": 175,
+            "Glosa": "LONG BEACH"
+        },
+        {
+            "Código": 176,
+            "Glosa": "SAN DIEGO"
+        },
+        {
+            "Código": 180,
+            "Glosa": "OTROS PUERTOS EE.UU."
+        },
+        {
+            "Código": 199,
+            "Glosa": "LOS VILOS"
+        },
+        {
+            "Código": 204,
+            "Glosa": "PATACHE"
+        },
+        {
+            "Código": 205,
+            "Glosa": "CALBUCO"
+        },
+        {
+            "Código": 206,
+            "Glosa": "MICHILLA"
+        },
+        {
+            "Código": 207,
+            "Glosa": "PUERTO ANGAMOS"
+        },
+        {
+            "Código": 208,
+            "Glosa": "POSEIDON"
+        },
+        {
+            "Código": 209,
+            "Glosa": "TRES PUENTES"
+        },
+        {
+            "Código": 210,
+            "Glosa": "OTROS PUERTOS MEXICO"
+        },
+        {
+            "Código": 211,
+            "Glosa": "TAMPICO"
+        },
+        {
+            "Código": 212,
+            "Glosa": "COSTA DEL PACIFICO"
+        },
+        {
+            "Código": 213,
+            "Glosa": "VERACRUZ"
+        },
+        {
+            "Código": 214,
+            "Glosa": "COATZACOALCOS"
+        },
+        {
+            "Código": 215,
+            "Glosa": "GUAYMAS"
+        },
+        {
+            "Código": 216,
+            "Glosa": "MAZATLAN"
+        },
+        {
+            "Código": 217,
+            "Glosa": "MANZANILLO"
+        },
+        {
+            "Código": 218,
+            "Glosa": "ACAPULCO"
+        },
+        {
+            "Código": 219,
+            "Glosa": "GOLFO DE MEXICO,OTRO"
+        },
+        {
+            "Código": 220,
+            "Glosa": "ALTAMIRA"
+        },
+        {
+            "Código": 221,
+            "Glosa": "CRISTOBAL"
+        },
+        {
+            "Código": 222,
+            "Glosa": "BALBOA"
+        },
+        {
+            "Código": 223,
+            "Glosa": "COLON"
+        },
+        {
+            "Código": 224,
+            "Glosa": "OTROS PTOS. PANAMA"
+        },
+        {
+            "Código": 231,
+            "Glosa": "OTROS PTOS. COLOMBIA"
+        },
+        {
+            "Código": 232,
+            "Glosa": "BUENAVENTURA"
+        },
+        {
+            "Código": 233,
+            "Glosa": "BARRANQUILLA"
+        },
+        {
+            "Código": 241,
+            "Glosa": "OTROS PTOS. ECUADOR"
+        },
+        {
+            "Código": 242,
+            "Glosa": "GUAYAQUIL"
+        },
+        {
+            "Código": 251,
+            "Glosa": "OTROS PTOS. DE PERU"
+        },
+        {
+            "Código": 252,
+            "Glosa": "CALLAO"
+        },
+        {
+            "Código": 253,
+            "Glosa": "ILO"
+        },
+        {
+            "Código": 254,
+            "Glosa": "IQUITOS"
+        },
+        {
+            "Código": 261,
+            "Glosa": "OTROS PTOS.ARGENTINA"
+        },
+        {
+            "Código": 262,
+            "Glosa": "BUENOS AIRES"
+        },
+        {
+            "Código": 263,
+            "Glosa": "NECOCHEA"
+        },
+        {
+            "Código": 264,
+            "Glosa": "MENDOZA"
+        },
+        {
+            "Código": 265,
+            "Glosa": "CORDOBA"
+        },
+        {
+            "Código": 266,
+            "Glosa": "BAHIA BLANCA"
+        },
+        {
+            "Código": 267,
+            "Glosa": "COMODORO RIVADAVIA"
+        },
+        {
+            "Código": 268,
+            "Glosa": "PUERTO MADRYN"
+        },
+        {
+            "Código": 269,
+            "Glosa": "MAR DEL PLATA"
+        },
+        {
+            "Código": 270,
+            "Glosa": "ROSARIO"
+        },
+        {
+            "Código": 271,
+            "Glosa": "OTROS PTOS.URUGUAY"
+        },
+        {
+            "Código": 272,
+            "Glosa": "MONTEVIDEO"
+        },
+        {
+            "Código": 281,
+            "Glosa": "OTROS PTOS.VENEZUELA"
+        },
+        {
+            "Código": 282,
+            "Glosa": "LA GUAIRA"
+        },
+        {
+            "Código": 285,
+            "Glosa": "MARACAIBO"
+        },
+        {
+            "Código": 291,
+            "Glosa": "OTROS PTOS.BRASIL"
+        },
+        {
+            "Código": 292,
+            "Glosa": "SANTOS"
+        },
+        {
+            "Código": 293,
+            "Glosa": "RIO DE JANEIRO"
+        },
+        {
+            "Código": 294,
+            "Glosa": "RIO GRANDE DEL SUR"
+        },
+        {
+            "Código": 295,
+            "Glosa": "PARANAGUA"
+        },
+        {
+            "Código": 296,
+            "Glosa": "SAO PAULO"
+        },
+        {
+            "Código": 297,
+            "Glosa": "SALVADOR"
+        },
+        {
+            "Código": 301,
+            "Glosa": "OTROS ANT.HOLANDESA"
+        },
+        {
+            "Código": 302,
+            "Glosa": "CURAZAO"
+        },
+        {
+            "Código": 399,
+            "Glosa": "OTROS PTOS.AMERICA"
+        },
+        {
+            "Código": 411,
+            "Glosa": "SHANGAI"
+        },
+        {
+            "Código": 412,
+            "Glosa": "DAIREN"
+        },
+        {
+            "Código": 413,
+            "Glosa": "OTROS PTOS.DE CHINA"
+        },
+        {
+            "Código": 420,
+            "Glosa": "OTROS PUERT COREA N"
+        },
+        {
+            "Código": 421,
+            "Glosa": "NAMPO"
+        },
+        {
+            "Código": 422,
+            "Glosa": "BUSAN"
+        },
+        {
+            "Código": 423,
+            "Glosa": "OTROS PTOS. COREA S"
+        },
+        {
+            "Código": 431,
+            "Glosa": "MANILA"
+        },
+        {
+            "Código": 432,
+            "Glosa": "OTROS PTOS.FILIPINAS"
+        },
+        {
+            "Código": 441,
+            "Glosa": "OTROS PTOS.JAPONESES"
+        },
+        {
+            "Código": 442,
+            "Glosa": "OSAKA"
+        },
+        {
+            "Código": 443,
+            "Glosa": "KOBE"
+        },
+        {
+            "Código": 444,
+            "Glosa": "YOKOHAMA"
+        },
+        {
+            "Código": 445,
+            "Glosa": "NAGOYA"
+        },
+        {
+            "Código": 446,
+            "Glosa": "SHIMIZUI"
+        },
+        {
+            "Código": 447,
+            "Glosa": "MOJI"
+        },
+        {
+            "Código": 448,
+            "Glosa": "YAWATA"
+        },
+        {
+            "Código": 449,
+            "Glosa": "FUKUYAMA"
+        },
+        {
+            "Código": 451,
+            "Glosa": "KAOHSIUNG"
+        },
+        {
+            "Código": 452,
+            "Glosa": "KEELUNG"
+        },
+        {
+            "Código": 453,
+            "Glosa": "OTROS PTOS.TAIWAN"
+        },
+        {
+            "Código": 461,
+            "Glosa": "KARHG ISLAND"
+        },
+        {
+            "Código": 462,
+            "Glosa": "OTROS PTO.IRAN NO ES"
+        },
+        {
+            "Código": 471,
+            "Glosa": "CALCUTA"
+        },
+        {
+            "Código": 472,
+            "Glosa": "OTROS PTOS. DE INDIA"
+        },
+        {
+            "Código": 481,
+            "Glosa": "CHALNA"
+        },
+        {
+            "Código": 482,
+            "Glosa": "OTROS PTO.BANGLADESH"
+        },
+        {
+            "Código": 491,
+            "Glosa": "OTROS PTO.SINGAPURE"
+        },
+        {
+            "Código": 492,
+            "Glosa": "HONG KONG"
+        },
+        {
+            "Código": 499,
+            "Glosa": "OTROS PTO.ASIATICOS"
+        },
+        {
+            "Código": 511,
+            "Glosa": "CONSTANZA"
+        },
+        {
+            "Código": 512,
+            "Glosa": "OTROS PTO.DE RUMANIA"
+        },
+        {
+            "Código": 521,
+            "Glosa": "VARNA"
+        },
+        {
+            "Código": 522,
+            "Glosa": "OTROS PTOS BULGARIA"
+        },
+        {
+            "Código": 533,
+            "Glosa": "BELGRADO"
+        },
+        {
+            "Código": 534,
+            "Glosa": "OTROS PUERTOS DE SER"
+        },
+        {
+            "Código": 535,
+            "Glosa": "PODGORITSA"
+        },
+        {
+            "Código": 536,
+            "Glosa": "OTROS PUERTOS DE MON"
+        },
+        {
+            "Código": 537,
+            "Glosa": "OTROS PUERTOS DE CRO"
+        },
+        {
+            "Código": 538,
+            "Glosa": "RIJEKA"
+        },
+        {
+            "Código": 541,
+            "Glosa": "OTROS PTOS.DE ITALIA"
+        },
+        {
+            "Código": 542,
+            "Glosa": "GENOVA"
+        },
+        {
+            "Código": 543,
+            "Glosa": "LIORNA,LIVORNO"
+        },
+        {
+            "Código": 544,
+            "Glosa": "NAPOLES"
+        },
+        {
+            "Código": 545,
+            "Glosa": "SALERNO"
+        },
+        {
+            "Código": 546,
+            "Glosa": "AUGUSTA"
+        },
+        {
+            "Código": 547,
+            "Glosa": "SAVONA"
+        },
+        {
+            "Código": 551,
+            "Glosa": "OTROS PTOS.FRANCIA"
+        },
+        {
+            "Código": 552,
+            "Glosa": "LA PALLICE"
+        },
+        {
+            "Código": 553,
+            "Glosa": "LE HAVRE"
+        },
+        {
+            "Código": 554,
+            "Glosa": "MARSELLA"
+        },
+        {
+            "Código": 555,
+            "Glosa": "BURDEOS"
+        },
+        {
+            "Código": 556,
+            "Glosa": "CALAIS"
+        },
+        {
+            "Código": 557,
+            "Glosa": "BREST"
+        },
+        {
+            "Código": 558,
+            "Glosa": "RUAN"
+        },
+        {
+            "Código": 561,
+            "Glosa": "OTROS PTOS.ESPANA"
+        },
+        {
+            "Código": 562,
+            "Glosa": "CADIZ"
+        },
+        {
+            "Código": 563,
+            "Glosa": "BARCELONA"
+        },
+        {
+            "Código": 564,
+            "Glosa": "BILBAO"
+        },
+        {
+            "Código": 565,
+            "Glosa": "HUELVA"
+        },
+        {
+            "Código": 566,
+            "Glosa": "SEVILLA"
+        },
+        {
+            "Código": 567,
+            "Glosa": "TARRAGONA"
+        },
+        {
+            "Código": 568,
+            "Glosa": "ALGECIRAS"
+        },
+        {
+            "Código": 569,
+            "Glosa": "VALENCIA"
+        },
+        {
+            "Código": 571,
+            "Glosa": "LIVERPOOL"
+        },
+        {
+            "Código": 572,
+            "Glosa": "LONDRES"
+        },
+        {
+            "Código": 573,
+            "Glosa": "ROCHESTER"
+        },
+        {
+            "Código": 574,
+            "Glosa": "ETEN SALVERRY"
+        },
+        {
+            "Código": 576,
+            "Glosa": "OTROS PTOS.INGLATERR"
+        },
+        {
+            "Código": 577,
+            "Glosa": "DOVER"
+        },
+        {
+            "Código": 578,
+            "Glosa": "PLYMOUTH"
+        },
+        {
+            "Código": 581,
+            "Glosa": "HELSINKI"
+        },
+        {
+            "Código": 582,
+            "Glosa": "OTROS PTOS.FINLANDIA"
+        },
+        {
+            "Código": 583,
+            "Glosa": "HANKO"
+        },
+        {
+            "Código": 584,
+            "Glosa": "KEMI"
+        },
+        {
+            "Código": 585,
+            "Glosa": "KOKKOLA"
+        },
+        {
+            "Código": 586,
+            "Glosa": "KOTKA"
+        },
+        {
+            "Código": 587,
+            "Glosa": "OULO"
+        },
+        {
+            "Código": 588,
+            "Glosa": "PIETARSAARI"
+        },
+        {
+            "Código": 589,
+            "Glosa": "PORI"
+        },
+        {
+            "Código": 591,
+            "Glosa": "BREMEN"
+        },
+        {
+            "Código": 592,
+            "Glosa": "HAMBURGO"
+        },
+        {
+            "Código": 593,
+            "Glosa": "NUREMBERG"
+        },
+        {
+            "Código": 594,
+            "Glosa": "FRANKFURT"
+        },
+        {
+            "Código": 595,
+            "Glosa": "DUSSELDORF"
+        },
+        {
+            "Código": 596,
+            "Glosa": "OTROS PTOS.ALEMANIA"
+        },
+        {
+            "Código": 597,
+            "Glosa": "CUXHAVEN"
+        },
+        {
+            "Código": 598,
+            "Glosa": "ROSTOCK"
+        },
+        {
+            "Código": 599,
+            "Glosa": "OLDENBURG"
+        },
+        {
+            "Código": 601,
+            "Glosa": "AMBERES"
+        },
+        {
+            "Código": 602,
+            "Glosa": "OTROS PTO.BELGICA"
+        },
+        {
+            "Código": 603,
+            "Glosa": "ZEEBRUGGE"
+        },
+        {
+            "Código": 604,
+            "Glosa": "GHENT"
+        },
+        {
+            "Código": 605,
+            "Glosa": "OOSTENDE"
+        },
+        {
+            "Código": 611,
+            "Glosa": "LISBOA"
+        },
+        {
+            "Código": 612,
+            "Glosa": "OTROSS PTOS.PORTUGAL"
+        },
+        {
+            "Código": 613,
+            "Glosa": "SETUBAL"
+        },
+        {
+            "Código": 621,
+            "Glosa": "AMSTERDAM"
+        },
+        {
+            "Código": 622,
+            "Glosa": "ROTTERDAM"
+        },
+        {
+            "Código": 623,
+            "Glosa": "OTROS PTOS.HOLANDA"
+        },
+        {
+            "Código": 631,
+            "Glosa": "GOTEMBURGO"
+        },
+        {
+            "Código": 632,
+            "Glosa": "OTROS PTOS.SUECIA"
+        },
+        {
+            "Código": 633,
+            "Glosa": "MALMO"
+        },
+        {
+            "Código": 634,
+            "Glosa": "HELSIMBORG"
+        },
+        {
+            "Código": 635,
+            "Glosa": "KALMAR"
+        },
+        {
+            "Código": 641,
+            "Glosa": "AARHUS"
+        },
+        {
+            "Código": 642,
+            "Glosa": "COPENHAGEN"
+        },
+        {
+            "Código": 643,
+            "Glosa": "OTROS PTOS.DINAMARCA"
+        },
+        {
+            "Código": 644,
+            "Glosa": "AALBORG"
+        },
+        {
+            "Código": 645,
+            "Glosa": "ODENSE"
+        },
+        {
+            "Código": 651,
+            "Glosa": "OSLO"
+        },
+        {
+            "Código": 652,
+            "Glosa": "OTROS PTO. NORUEGA"
+        },
+        {
+            "Código": 653,
+            "Glosa": "STAVANGER"
+        },
+        {
+            "Código": 699,
+            "Glosa": "OTROS PTOS.EUROPA"
+        },
+        {
+            "Código": 711,
+            "Glosa": "DURBAM"
+        },
+        {
+            "Código": 712,
+            "Glosa": "CIUDAD DEL CABO"
+        },
+        {
+            "Código": 713,
+            "Glosa": "OTROS PTO.SUDAFFRICA"
+        },
+        {
+            "Código": 714,
+            "Glosa": "SALDANHA"
+        },
+        {
+            "Código": 715,
+            "Glosa": "PORT-ELIZABETH"
+        },
+        {
+            "Código": 716,
+            "Glosa": "MOSSEL-BAY"
+        },
+        {
+            "Código": 717,
+            "Glosa": "EAST-LONDON"
+        },
+        {
+            "Código": 799,
+            "Glosa": "OTROS PTO.DE AFRICA"
+        },
+        {
+            "Código": 811,
+            "Glosa": "SIDNEY"
+        },
+        {
+            "Código": 812,
+            "Glosa": "FREMANTLE"
+        },
+        {
+            "Código": 813,
+            "Glosa": "OTROS PTOS.AUSTRALIA"
+        },
+        {
+            "Código": 814,
+            "Glosa": "ADELAIDA"
+        },
+        {
+            "Código": 815,
+            "Glosa": "DARWIN"
+        },
+        {
+            "Código": 816,
+            "Glosa": "GERALDTON"
+        },
+        {
+            "Código": 817,
+            "Glosa": "PUERTO CABO FROWARD"
+        },
+        {
+            "Código": 818,
+            "Glosa": "HUACHIPATO"
+        },
+        {
+            "Código": 819,
+            "Glosa": "ESCUADRON"
+        },
+        {
+            "Código": 820,
+            "Glosa": "TERQUIM"
+        },
+        {
+            "Código": 821,
+            "Glosa": "ESPERANZA"
+        },
+        {
+            "Código": 822,
+            "Glosa": "TERMINAL ENAEX"
+        },
+        {
+            "Código": 823,
+            "Glosa": "TNAL. OXIQUIM"
+        },
+        {
+            "Código": 824,
+            "Glosa": "PASO BUTAMALLIN"
+        },
+        {
+            "Código": 825,
+            "Glosa": "AE.LA ARAUCANIA"
+        },
+        {
+            "Código": 826,
+            "Glosa": "E.MEDICION RECI"
+        },
+        {
+            "Código": 827,
+            "Glosa": "T.GNELES NORTE"
+        },
+        {
+            "Código": 831,
+            "Glosa": "AERÓDROMO PICHOY"
+        },
+        {
+            "Código": 899,
+            "Glosa": "OTROS PTOS. OCEANIA"
+        },
+        {
+            "Código": 900,
+            "Glosa": "RANCHO,COMB.,LUBRIC."
+        },
+        {
+            "Código": 901,
+            "Glosa": "ARICA"
+        },
+        {
+            "Código": 902,
+            "Glosa": "IQUIQUE"
+        },
+        {
+            "Código": 903,
+            "Glosa": "ANTOFAGASTA"
+        },
+        {
+            "Código": 904,
+            "Glosa": "COQUIMBO"
+        },
+        {
+            "Código": 905,
+            "Glosa": "VALPARAISO"
+        },
+        {
+            "Código": 906,
+            "Glosa": "SAN ANTONIO"
+        },
+        {
+            "Código": 907,
+            "Glosa": "TALCAHUANO"
+        },
+        {
+            "Código": 908,
+            "Glosa": "SAN VICENTE"
+        },
+        {
+            "Código": 909,
+            "Glosa": "LIRQUEN"
+        },
+        {
+            "Código": 910,
+            "Glosa": "PUERTO MONTT"
+        },
+        {
+            "Código": 911,
+            "Glosa": "CHACABUCO/PTO.AYSEN"
+        },
+        {
+            "Código": 912,
+            "Glosa": "PUNTA ARENAS"
+        },
+        {
+            "Código": 913,
+            "Glosa": "PATILLOS"
+        },
+        {
+            "Código": 914,
+            "Glosa": "TOCOPILLA"
+        },
+        {
+            "Código": 915,
+            "Glosa": "MEJILLONES"
+        },
+        {
+            "Código": 916,
+            "Glosa": "TALTAL"
+        },
+        {
+            "Código": 917,
+            "Glosa": "CHANARAL/BARQUITO"
+        },
+        {
+            "Código": 918,
+            "Glosa": "CALDERA"
+        },
+        {
+            "Código": 919,
+            "Glosa": "CALDERILLA"
+        },
+        {
+            "Código": 920,
+            "Glosa": "HUASCO/GUACOLDA"
+        },
+        {
+            "Código": 921,
+            "Glosa": "QUINTERO"
+        },
+        {
+            "Código": 922,
+            "Glosa": "JUAN FERNANDEZ"
+        },
+        {
+            "Código": 923,
+            "Glosa": "CONSTITUCION"
+        },
+        {
+            "Código": 924,
+            "Glosa": "TOME"
+        },
+        {
+            "Código": 925,
+            "Glosa": "PENCO"
+        },
+        {
+            "Código": 926,
+            "Glosa": "CORONEL"
+        },
+        {
+            "Código": 927,
+            "Glosa": "LOTA"
+        },
+        {
+            "Código": 928,
+            "Glosa": "LEBU"
+        },
+        {
+            "Código": 929,
+            "Glosa": "ISLA DE PASCUA"
+        },
+        {
+            "Código": 930,
+            "Glosa": "CORRAL"
+        },
+        {
+            "Código": 931,
+            "Glosa": "ANCUD"
+        },
+        {
+            "Código": 932,
+            "Glosa": "CASTRO"
+        },
+        {
+            "Código": 933,
+            "Glosa": "QUELLON"
+        },
+        {
+            "Código": 934,
+            "Glosa": "CHAITEN"
+        },
+        {
+            "Código": 935,
+            "Glosa": "TORTEL"
+        },
+        {
+            "Código": 936,
+            "Glosa": "NATALES"
+        },
+        {
+            "Código": 937,
+            "Glosa": "GUARELLO"
+        },
+        {
+            "Código": 938,
+            "Glosa": "PUERTO ANDINO"
+        },
+        {
+            "Código": 939,
+            "Glosa": "PERCY"
+        },
+        {
+            "Código": 940,
+            "Glosa": "CLARENCIA"
+        },
+        {
+            "Código": 941,
+            "Glosa": "GREGORIO"
+        },
+        {
+            "Código": 942,
+            "Glosa": "CABO NEGRO"
+        },
+        {
+            "Código": 943,
+            "Glosa": "PUERTO WILLIAMS"
+        },
+        {
+            "Código": 944,
+            "Glosa": "TER.ANTARTICO CHILEN"
+        },
+        {
+            "Código": 945,
+            "Glosa": "AEROP. CARRIEL SUR"
+        },
+        {
+            "Código": 946,
+            "Glosa": "GUAYACAN"
+        },
+        {
+            "Código": 947,
+            "Glosa": "PASO PEHUENCHE"
+        },
+        {
+            "Código": 948,
+            "Glosa": "VENTANAS"
+        },
+        {
+            "Código": 949,
+            "Glosa": "PINO HACHADO(LIUCURA"
+        },
+        {
+            "Código": 950,
+            "Glosa": "CALETA COLOSO"
+        },
+        {
+            "Código": 951,
+            "Glosa": "AGUAS NEGRAS"
+        },
+        {
+            "Código": 952,
+            "Glosa": "ZONA FRANCA IQUIQUE"
+        },
+        {
+            "Código": 953,
+            "Glosa": "ZONA FRANCA PTA AREN"
+        },
+        {
+            "Código": 954,
+            "Glosa": "RIO MAYER"
+        },
+        {
+            "Código": 955,
+            "Glosa": "RIO MOSCO"
+        },
+        {
+            "Código": 956,
+            "Glosa": "VISVIRI"
+        },
+        {
+            "Código": 957,
+            "Glosa": "CHACALLUTA"
+        },
+        {
+            "Código": 958,
+            "Glosa": "CHUNGARA"
+        },
+        {
+            "Código": 959,
+            "Glosa": "COLCHANE"
+        },
+        {
+            "Código": 960,
+            "Glosa": "ABRA DE NAPA"
+        },
+        {
+            "Código": 961,
+            "Glosa": "OLLAGUE"
+        },
+        {
+            "Código": 962,
+            "Glosa": "SAN PEDRO DE ATACAMA"
+        },
+        {
+            "Código": 963,
+            "Glosa": "SOCOMPA"
+        },
+        {
+            "Código": 964,
+            "Glosa": "SAN FRANCISCO"
+        },
+        {
+            "Código": 965,
+            "Glosa": "LOS LIBERTADORES"
+        },
+        {
+            "Código": 966,
+            "Glosa": "MAHUIL MALAL"
+        },
+        {
+            "Código": 967,
+            "Glosa": "CARDENAL SAMORE"
+        },
+        {
+            "Código": 968,
+            "Glosa": "PEREZ ROSALES"
+        },
+        {
+            "Código": 969,
+            "Glosa": "FUTALEUFU"
+        },
+        {
+            "Código": 970,
+            "Glosa": "PALENA-CARRENLEUFU"
+        },
+        {
+            "Código": 971,
+            "Glosa": "PANGUIPULLI"
+        },
+        {
+            "Código": 972,
+            "Glosa": "HUAHUM"
+        },
+        {
+            "Código": 973,
+            "Glosa": "LAGO VERDE"
+        },
+        {
+            "Código": 974,
+            "Glosa": "APPELEG"
+        },
+        {
+            "Código": 975,
+            "Glosa": "PAMPA ALTA"
+        },
+        {
+            "Código": 976,
+            "Glosa": "HUEMULES"
+        },
+        {
+            "Código": 977,
+            "Glosa": "CHILE CHICO"
+        },
+        {
+            "Código": 978,
+            "Glosa": "BAKER"
+        },
+        {
+            "Código": 979,
+            "Glosa": "DOROTEA"
+        },
+        {
+            "Código": 980,
+            "Glosa": "CASAS VIEJAS"
+        },
+        {
+            "Código": 981,
+            "Glosa": "MONTE AYMOND"
+        },
+        {
+            "Código": 982,
+            "Glosa": "SAN SEBASTIAN"
+        },
+        {
+            "Código": 983,
+            "Glosa": "COYHAIQUE ALTO"
+        },
+        {
+            "Código": 984,
+            "Glosa": "TRIANA"
+        },
+        {
+            "Código": 985,
+            "Glosa": "IBANEZ PALAVICINI"
+        },
+        {
+            "Código": 986,
+            "Glosa": "VILLA OHIGGINS"
+        },
+        {
+            "Código": 987,
+            "Glosa": "AEROP.CHACALLUTA"
+        },
+        {
+            "Código": 988,
+            "Glosa": "AEROP.DIEGO ARACENA"
+        },
+        {
+            "Código": 989,
+            "Glosa": "AEROP.CERRO MORENO"
+        },
+        {
+            "Código": 990,
+            "Glosa": "AEROP.EL TEPUAL"
+        },
+        {
+            "Código": 991,
+            "Glosa": "AEROP.C.I.DEL CAMPO"
+        },
+        {
+            "Código": 992,
+            "Glosa": "AEROP.A.M.BENITEZ"
+        },
+        {
+            "Código": 993,
+            "Glosa": "AEROD. EL LOA"
+        },
+        {
+            "Código": 994,
+            "Glosa": "ARICA-TACNA"
+        },
+        {
+            "Código": 995,
+            "Glosa": "ARICA-LA PAZ"
+        },
+        {
+            "Código": 997,
+            "Glosa": "OTROS PTOS. CHILENOS"
+        },
+        {
+            "Código": 998,
+            "Glosa": "PASO JAMA"
+        },
+        {
+            "Código": 999,
+            "Glosa": "GNL MEJILLONES"
+        }
+    ],
+    "vias_transporte": [
+        {
+            "Código": 1,
+            "Glosa": "MARITIMA, FLUVIAL Y LACUSTRE"
+        },
+        {
+            "Código": 4,
+            "Glosa": "AEREO"
+        },
+        {
+            "Código": 5,
+            "Glosa": "POSTAL"
+        },
+        {
+            "Código": 6,
+            "Glosa": "FERROVIARIO"
+        },
+        {
+            "Código": 7,
+            "Glosa": "CARRETERO/TERRESTRE"
+        },
+        {
+            "Código": 8,
+            "Glosa": "OLEODUCTOS, GASODUCTOS"
+        }
+    ],
+    "tipo_carga": [
+        {
+            "Código": "F",
+            "Glosa": "FRIGORIZADOS"
+        },
+        {
+            "Código": "G",
+            "Glosa": "GRANEL"
+        },
+        {
+            "Código": "L",
+            "Glosa": "LIQUIDA"
+        },
+        {
+            "Código": "O",
+            "Glosa": "ELECTRICIDAD"
+        },
+        {
+            "Código": "R",
+            "Glosa": "GENERAL"
+        },
+        {
+            "Código": "S",
+            "Glosa": "SERVICIOS"
+        }
+    ],
+    "comunas": [
+        {
+            "Código": 10101,
+            "Glosa": "PUERTO MONTT"
+        },
+        {
+            "Código": 10102,
+            "Glosa": "CALBUCO"
+        },
+        {
+            "Código": 10103,
+            "Glosa": "COCHAMO"
+        },
+        {
+            "Código": 10104,
+            "Glosa": "FRESIA"
+        },
+        {
+            "Código": 10105,
+            "Glosa": "FRUTILLAR"
+        },
+        {
+            "Código": 10106,
+            "Glosa": "LOS MUERMOS"
+        },
+        {
+            "Código": 10107,
+            "Glosa": "LLANQUIHUE"
+        },
+        {
+            "Código": 10108,
+            "Glosa": "MAULLIN"
+        },
+        {
+            "Código": 10109,
+            "Glosa": "PUERTO VARAS"
+        },
+        {
+            "Código": 10201,
+            "Glosa": "CASTRO"
+        },
+        {
+            "Código": 10202,
+            "Glosa": "ANCUD"
+        },
+        {
+            "Código": 10203,
+            "Glosa": "CHONCHI"
+        },
+        {
+            "Código": 10204,
+            "Glosa": "CURACO DE VELEZ"
+        },
+        {
+            "Código": 10205,
+            "Glosa": "DALCAHUE"
+        },
+        {
+            "Código": 10206,
+            "Glosa": "PUQUELDON"
+        },
+        {
+            "Código": 10207,
+            "Glosa": "QUEILEN"
+        },
+        {
+            "Código": 10208,
+            "Glosa": "QUELLON"
+        },
+        {
+            "Código": 10209,
+            "Glosa": "QUEMCHI"
+        },
+        {
+            "Código": 10210,
+            "Glosa": "QUINCHAO"
+        },
+        {
+            "Código": 10301,
+            "Glosa": "OSORNO"
+        },
+        {
+            "Código": 10302,
+            "Glosa": "PUERTO OCTAY"
+        },
+        {
+            "Código": 10303,
+            "Glosa": "PURRANQUE"
+        },
+        {
+            "Código": 10304,
+            "Glosa": "PUYEHUE"
+        },
+        {
+            "Código": 10305,
+            "Glosa": "RIO NEGRO"
+        },
+        {
+            "Código": 10306,
+            "Glosa": "SN JUAN DE LA COSTA"
+        },
+        {
+            "Código": 10307,
+            "Glosa": "SAN PABLO"
+        },
+        {
+            "Código": 10401,
+            "Glosa": "CHAITEN"
+        },
+        {
+            "Código": 10402,
+            "Glosa": "FUTALEUFU"
+        },
+        {
+            "Código": 10403,
+            "Glosa": "HUALAIHUE"
+        },
+        {
+            "Código": 10404,
+            "Glosa": "PALENA"
+        },
+        {
+            "Código": 1101,
+            "Glosa": "IQUIQUE"
+        },
+        {
+            "Código": 1107,
+            "Glosa": "ALTO HOSPICIO"
+        },
+        {
+            "Código": 11101,
+            "Glosa": "COYHAIQUE"
+        },
+        {
+            "Código": 11102,
+            "Glosa": "LAGO VERDE"
+        },
+        {
+            "Código": 11201,
+            "Glosa": "AYSEN"
+        },
+        {
+            "Código": 11202,
+            "Glosa": "CISNES"
+        },
+        {
+            "Código": 11203,
+            "Glosa": "GUAITECAS"
+        },
+        {
+            "Código": 11301,
+            "Glosa": "COCHRANE"
+        },
+        {
+            "Código": 11302,
+            "Glosa": "O'HIGGINS"
+        },
+        {
+            "Código": 11303,
+            "Glosa": "TORTEL"
+        },
+        {
+            "Código": 11401,
+            "Glosa": "CHILE CHICO"
+        },
+        {
+            "Código": 11402,
+            "Glosa": "RIO IBANEZ"
+        },
+        {
+            "Código": 12101,
+            "Glosa": "PUNTA ARENAS"
+        },
+        {
+            "Código": 12102,
+            "Glosa": "LAGUNA BLANCA"
+        },
+        {
+            "Código": 12103,
+            "Glosa": "RIO VERDE"
+        },
+        {
+            "Código": 12104,
+            "Glosa": "SAN GREGORIO"
+        },
+        {
+            "Código": 12201,
+            "Glosa": "CABO DE HORNOS"
+        },
+        {
+            "Código": 12202,
+            "Glosa": "ANTARTIDA"
+        },
+        {
+            "Código": 12301,
+            "Glosa": "PORVENIR"
+        },
+        {
+            "Código": 12302,
+            "Glosa": "PRIMAVERA"
+        },
+        {
+            "Código": 12303,
+            "Glosa": "TIMAUKEL"
+        },
+        {
+            "Código": 12401,
+            "Glosa": "NATALES"
+        },
+        {
+            "Código": 12402,
+            "Glosa": "TORRES DE PAINE"
+        },
+        {
+            "Código": 13101,
+            "Glosa": "SANTIAGO"
+        },
+        {
+            "Código": 13102,
+            "Glosa": "CERRILLOS"
+        },
+        {
+            "Código": 13103,
+            "Glosa": "CERRO NAVIA"
+        },
+        {
+            "Código": 13104,
+            "Glosa": "CONCHALI"
+        },
+        {
+            "Código": 13105,
+            "Glosa": "EL BOSQUE"
+        },
+        {
+            "Código": 13106,
+            "Glosa": "ESTACION CENTRAL"
+        },
+        {
+            "Código": 13107,
+            "Glosa": "HUECHURABA"
+        },
+        {
+            "Código": 13108,
+            "Glosa": "INDEPENDENCIA"
+        },
+        {
+            "Código": 13109,
+            "Glosa": "LA CISTERNA"
+        },
+        {
+            "Código": 13110,
+            "Glosa": "LA FLORIDA"
+        },
+        {
+            "Código": 13111,
+            "Glosa": "LA GRANJA"
+        },
+        {
+            "Código": 13112,
+            "Glosa": "LA PINTANA"
+        },
+        {
+            "Código": 13113,
+            "Glosa": "LA REINA"
+        },
+        {
+            "Código": 13114,
+            "Glosa": "LAS CONDES"
+        },
+        {
+            "Código": 13115,
+            "Glosa": "LO BARNECHEA"
+        },
+        {
+            "Código": 13116,
+            "Glosa": "LO ESPEJO"
+        },
+        {
+            "Código": 13117,
+            "Glosa": "LO PRADO"
+        },
+        {
+            "Código": 13118,
+            "Glosa": "MACUL"
+        },
+        {
+            "Código": 13119,
+            "Glosa": "MAIPU"
+        },
+        {
+            "Código": 13120,
+            "Glosa": "NUNOA"
+        },
+        {
+            "Código": 13121,
+            "Glosa": "P.AGUIRRE CERDA"
+        },
+        {
+            "Código": 13122,
+            "Glosa": "PENALOLEN"
+        },
+        {
+            "Código": 13123,
+            "Glosa": "PROVIDENCIA"
+        },
+        {
+            "Código": 13124,
+            "Glosa": "PUDAHUEL"
+        },
+        {
+            "Código": 13125,
+            "Glosa": "QUILICURA"
+        },
+        {
+            "Código": 13126,
+            "Glosa": "QUINTA NORMAL"
+        },
+        {
+            "Código": 13127,
+            "Glosa": "RECOLETA"
+        },
+        {
+            "Código": 13128,
+            "Glosa": "RENCA"
+        },
+        {
+            "Código": 13129,
+            "Glosa": "SAN JOAQUIN"
+        },
+        {
+            "Código": 13130,
+            "Glosa": "SAN MIGUEL"
+        },
+        {
+            "Código": 13131,
+            "Glosa": "SAN RAMON"
+        },
+        {
+            "Código": 13132,
+            "Glosa": "VITACURA"
+        },
+        {
+            "Código": 13201,
+            "Glosa": "PUENTE ALTO"
+        },
+        {
+            "Código": 13202,
+            "Glosa": "PIRQUE"
+        },
+        {
+            "Código": 13203,
+            "Glosa": "SAN JOSE DE MAIPO"
+        },
+        {
+            "Código": 13301,
+            "Glosa": "COLINA"
+        },
+        {
+            "Código": 13302,
+            "Glosa": "LAMPA"
+        },
+        {
+            "Código": 13303,
+            "Glosa": "TIL TIL"
+        },
+        {
+            "Código": 13401,
+            "Glosa": "SAN BERNARDO"
+        },
+        {
+            "Código": 13402,
+            "Glosa": "BUIN"
+        },
+        {
+            "Código": 13403,
+            "Glosa": "CALERA DE TANGO"
+        },
+        {
+            "Código": 13404,
+            "Glosa": "PAINE"
+        },
+        {
+            "Código": 13501,
+            "Glosa": "MELIPILLA"
+        },
+        {
+            "Código": 13502,
+            "Glosa": "ALHUE"
+        },
+        {
+            "Código": 13503,
+            "Glosa": "CURACAVI"
+        },
+        {
+            "Código": 13504,
+            "Glosa": "MARIA PINTO"
+        },
+        {
+            "Código": 13505,
+            "Glosa": "SAN PEDRO"
+        },
+        {
+            "Código": 13601,
+            "Glosa": "TALAGANTE"
+        },
+        {
+            "Código": 13602,
+            "Glosa": "EL MONTE"
+        },
+        {
+            "Código": 13603,
+            "Glosa": "ISLA DE MAIPO"
+        },
+        {
+            "Código": 13604,
+            "Glosa": "PADRE HURTADO"
+        },
+        {
+            "Código": 13605,
+            "Glosa": "PENAFLOR"
+        },
+        {
+            "Código": 1401,
+            "Glosa": "POZO ALMONTE"
+        },
+        {
+            "Código": 1402,
+            "Glosa": "CAMIÑA"
+        },
+        {
+            "Código": 1403,
+            "Glosa": "COLCHANE"
+        },
+        {
+            "Código": 1404,
+            "Glosa": "HUARA"
+        },
+        {
+            "Código": 1405,
+            "Glosa": "PICA"
+        },
+        {
+            "Código": 14101,
+            "Glosa": "VALDIVIA"
+        },
+        {
+            "Código": 14102,
+            "Glosa": "CORRAL"
+        },
+        {
+            "Código": 14103,
+            "Glosa": "LANCO"
+        },
+        {
+            "Código": 14104,
+            "Glosa": "LOS LAGOS"
+        },
+        {
+            "Código": 14105,
+            "Glosa": "MÁFIL"
+        },
+        {
+            "Código": 14106,
+            "Glosa": "MARIQUINA"
+        },
+        {
+            "Código": 14107,
+            "Glosa": "PAILLACO"
+        },
+        {
+            "Código": 14108,
+            "Glosa": "PANGUIPULLI"
+        },
+        {
+            "Código": 14201,
+            "Glosa": "LA UNIÓN"
+        },
+        {
+            "Código": 14202,
+            "Glosa": "FUTRONO"
+        },
+        {
+            "Código": 14203,
+            "Glosa": "LAGO RANCO"
+        },
+        {
+            "Código": 14204,
+            "Glosa": "RIO BUENO"
+        },
+        {
+            "Código": 15101,
+            "Glosa": "ARICA"
+        },
+        {
+            "Código": 15102,
+            "Glosa": "CAMARONES"
+        },
+        {
+            "Código": 15201,
+            "Glosa": "PUTRE"
+        },
+        {
+            "Código": 15202,
+            "Glosa": "GENERAL LAGOS"
+        },
+        {
+            "Código": 16101,
+            "Glosa": "CHILLAN"
+        },
+        {
+            "Código": 16102,
+            "Glosa": "BULNES"
+        },
+        {
+            "Código": 16103,
+            "Glosa": "CHILLAN VIEJO"
+        },
+        {
+            "Código": 16104,
+            "Glosa": "EL CARMEN"
+        },
+        {
+            "Código": 16105,
+            "Glosa": "PEMUCO"
+        },
+        {
+            "Código": 16106,
+            "Glosa": "PINTO"
+        },
+        {
+            "Código": 16107,
+            "Glosa": "QUILLON"
+        },
+        {
+            "Código": 16108,
+            "Glosa": "SAN IGNACIO"
+        },
+        {
+            "Código": 16109,
+            "Glosa": "YUNGAY"
+        },
+        {
+            "Código": 16201,
+            "Glosa": "QUIRIHUE"
+        },
+        {
+            "Código": 16202,
+            "Glosa": "COBQUECURA"
+        },
+        {
+            "Código": 16203,
+            "Glosa": "COELEMU"
+        },
+        {
+            "Código": 16204,
+            "Glosa": "NINHUE"
+        },
+        {
+            "Código": 16205,
+            "Glosa": "PORTEZUELO"
+        },
+        {
+            "Código": 16206,
+            "Glosa": "RANQUIL"
+        },
+        {
+            "Código": 16207,
+            "Glosa": "TREGUACO"
+        },
+        {
+            "Código": 16301,
+            "Glosa": "SAN CARLOS"
+        },
+        {
+            "Código": 16302,
+            "Glosa": "COIHUECO"
+        },
+        {
+            "Código": 16303,
+            "Glosa": "ÑIQUEN"
+        },
+        {
+            "Código": 16304,
+            "Glosa": "SAN FABIAN"
+        },
+        {
+            "Código": 16305,
+            "Glosa": "SAN NICOLAS"
+        },
+        {
+            "Código": 2101,
+            "Glosa": "ANTOFAGASTA"
+        },
+        {
+            "Código": 2102,
+            "Glosa": "MEJILLONES"
+        },
+        {
+            "Código": 2103,
+            "Glosa": "SIERRA GORDA"
+        },
+        {
+            "Código": 2104,
+            "Glosa": "TALTAL"
+        },
+        {
+            "Código": 2201,
+            "Glosa": "CALAMA"
+        },
+        {
+            "Código": 2202,
+            "Glosa": "OLLAGUE"
+        },
+        {
+            "Código": 2203,
+            "Glosa": "SN.PEDRO DE ATACAMA"
+        },
+        {
+            "Código": 2301,
+            "Glosa": "TOCOPILLA"
+        },
+        {
+            "Código": 2302,
+            "Glosa": "MARIA ELENA"
+        },
+        {
+            "Código": 3101,
+            "Glosa": "COPIAPO"
+        },
+        {
+            "Código": 3102,
+            "Glosa": "CALDERA"
+        },
+        {
+            "Código": 3103,
+            "Glosa": "TIERRA AMARILLA"
+        },
+        {
+            "Código": 3201,
+            "Glosa": "CHANARAL"
+        },
+        {
+            "Código": 3202,
+            "Glosa": "DIEGO DE ALMAGRO"
+        },
+        {
+            "Código": 3301,
+            "Glosa": "VALLENAR"
+        },
+        {
+            "Código": 3302,
+            "Glosa": "ALTO DEL CARMEN"
+        },
+        {
+            "Código": 3303,
+            "Glosa": "FREIRINA"
+        },
+        {
+            "Código": 3304,
+            "Glosa": "HUASCO"
+        },
+        {
+            "Código": 4101,
+            "Glosa": "LA SERENA"
+        },
+        {
+            "Código": 4102,
+            "Glosa": "COQUIMBO"
+        },
+        {
+            "Código": 4103,
+            "Glosa": "ANDACOLLO"
+        },
+        {
+            "Código": 4104,
+            "Glosa": "LA HIGUERA"
+        },
+        {
+            "Código": 4105,
+            "Glosa": "PAIHUANO"
+        },
+        {
+            "Código": 4106,
+            "Glosa": "VICUNA"
+        },
+        {
+            "Código": 4201,
+            "Glosa": "ILLAPEL"
+        },
+        {
+            "Código": 4202,
+            "Glosa": "CANELA"
+        },
+        {
+            "Código": 4203,
+            "Glosa": "LOS VILOS"
+        },
+        {
+            "Código": 4204,
+            "Glosa": "SALAMANCA"
+        },
+        {
+            "Código": 4301,
+            "Glosa": "OVALLE"
+        },
+        {
+            "Código": 4302,
+            "Glosa": "COMBARBALA"
+        },
+        {
+            "Código": 4303,
+            "Glosa": "MONTE PATRIA"
+        },
+        {
+            "Código": 4304,
+            "Glosa": "PUNITAQUI"
+        },
+        {
+            "Código": 4305,
+            "Glosa": "RIO HURTADO"
+        },
+        {
+            "Código": 5101,
+            "Glosa": "VALPARAISO"
+        },
+        {
+            "Código": 5102,
+            "Glosa": "CASABLANCA"
+        },
+        {
+            "Código": 5103,
+            "Glosa": "CON CON"
+        },
+        {
+            "Código": 5104,
+            "Glosa": "JUAN FERNANDEZ"
+        },
+        {
+            "Código": 5105,
+            "Glosa": "PUCHUNCAVI"
+        },
+        {
+            "Código": 5107,
+            "Glosa": "QUINTEROS"
+        },
+        {
+            "Código": 5109,
+            "Glosa": "VINA DEL MAR"
+        },
+        {
+            "Código": 5201,
+            "Glosa": "ISLA DE PASCUA"
+        },
+        {
+            "Código": 5301,
+            "Glosa": "LOS ANDES"
+        },
+        {
+            "Código": 5302,
+            "Glosa": "CALLE LARGA"
+        },
+        {
+            "Código": 5303,
+            "Glosa": "RINCONADA"
+        },
+        {
+            "Código": 5304,
+            "Glosa": "SAN ESTEBAN"
+        },
+        {
+            "Código": 5401,
+            "Glosa": "LA LIGUA"
+        },
+        {
+            "Código": 5402,
+            "Glosa": "CABILDO"
+        },
+        {
+            "Código": 5403,
+            "Glosa": "PAPUDO"
+        },
+        {
+            "Código": 5404,
+            "Glosa": "PETORCA"
+        },
+        {
+            "Código": 5405,
+            "Glosa": "ZAPALLAR"
+        },
+        {
+            "Código": 5501,
+            "Glosa": "QUILLOTA"
+        },
+        {
+            "Código": 5502,
+            "Glosa": "LA CALERA"
+        },
+        {
+            "Código": 5503,
+            "Glosa": "HIJUELAS"
+        },
+        {
+            "Código": 5504,
+            "Glosa": "LA CRUZ"
+        },
+        {
+            "Código": 5506,
+            "Glosa": "NOGALES"
+        },
+        {
+            "Código": 5601,
+            "Glosa": "SAN ANTONIO"
+        },
+        {
+            "Código": 5602,
+            "Glosa": "ALGARROBO"
+        },
+        {
+            "Código": 5603,
+            "Glosa": "CARTAGENA"
+        },
+        {
+            "Código": 5604,
+            "Glosa": "EL QUISCO"
+        },
+        {
+            "Código": 5605,
+            "Glosa": "EL TABO"
+        },
+        {
+            "Código": 5606,
+            "Glosa": "SANTO DOMINGO"
+        },
+        {
+            "Código": 5701,
+            "Glosa": "SAN FELIPE"
+        },
+        {
+            "Código": 5702,
+            "Glosa": "CATEMU"
+        },
+        {
+            "Código": 5703,
+            "Glosa": "LLAY-LLAY"
+        },
+        {
+            "Código": 5704,
+            "Glosa": "PANQUEHUE"
+        },
+        {
+            "Código": 5705,
+            "Glosa": "PUTAENDO"
+        },
+        {
+            "Código": 5706,
+            "Glosa": "SANTA MARIA"
+        },
+        {
+            "Código": 5801,
+            "Glosa": "QUILPUE"
+        },
+        {
+            "Código": 5802,
+            "Glosa": "LIMACHE"
+        },
+        {
+            "Código": 5803,
+            "Glosa": "OLMUE"
+        },
+        {
+            "Código": 5804,
+            "Glosa": "VILLA ALEMANA"
+        },
+        {
+            "Código": 6101,
+            "Glosa": "RANCAGUA"
+        },
+        {
+            "Código": 6102,
+            "Glosa": "CODEGUA"
+        },
+        {
+            "Código": 6103,
+            "Glosa": "COINCO"
+        },
+        {
+            "Código": 6104,
+            "Glosa": "COLTAUCO"
+        },
+        {
+            "Código": 6105,
+            "Glosa": "DONIHUE"
+        },
+        {
+            "Código": 6106,
+            "Glosa": "GRANEROS"
+        },
+        {
+            "Código": 6107,
+            "Glosa": "LAS CABRAS"
+        },
+        {
+            "Código": 6108,
+            "Glosa": "MACHALI"
+        },
+        {
+            "Código": 6109,
+            "Glosa": "MALLOA"
+        },
+        {
+            "Código": 6110,
+            "Glosa": "SAN FCO.DE MOSTAZAL"
+        },
+        {
+            "Código": 6111,
+            "Glosa": "OLIVAR"
+        },
+        {
+            "Código": 6112,
+            "Glosa": "PEUMO"
+        },
+        {
+            "Código": 6113,
+            "Glosa": "PICHIDEGUA"
+        },
+        {
+            "Código": 6114,
+            "Glosa": "QUINTA TILCOCO"
+        },
+        {
+            "Código": 6115,
+            "Glosa": "RENGO"
+        },
+        {
+            "Código": 6116,
+            "Glosa": "REQUINOA"
+        },
+        {
+            "Código": 6117,
+            "Glosa": "SAN VICENTE"
+        },
+        {
+            "Código": 6201,
+            "Glosa": "PICHILEMU"
+        },
+        {
+            "Código": 6202,
+            "Glosa": "LA ESTRELLA"
+        },
+        {
+            "Código": 6203,
+            "Glosa": "LITUECHE"
+        },
+        {
+            "Código": 6204,
+            "Glosa": "MARCHIHUE"
+        },
+        {
+            "Código": 6205,
+            "Glosa": "NAVIDAD"
+        },
+        {
+            "Código": 6206,
+            "Glosa": "PAREDONES"
+        },
+        {
+            "Código": 6301,
+            "Glosa": "SAN FERNANDO"
+        },
+        {
+            "Código": 6302,
+            "Glosa": "CHEPICA"
+        },
+        {
+            "Código": 6303,
+            "Glosa": "CHINBARONGO"
+        },
+        {
+            "Código": 6304,
+            "Glosa": "LOLOL"
+        },
+        {
+            "Código": 6305,
+            "Glosa": "NANCAGUA"
+        },
+        {
+            "Código": 6306,
+            "Glosa": "PALMILLA"
+        },
+        {
+            "Código": 6307,
+            "Glosa": "PERALILLO"
+        },
+        {
+            "Código": 6308,
+            "Glosa": "PLACILLA"
+        },
+        {
+            "Código": 6309,
+            "Glosa": "PUMANQUE"
+        },
+        {
+            "Código": 6310,
+            "Glosa": "SANTA CRUZ"
+        },
+        {
+            "Código": 7101,
+            "Glosa": "TALCA"
+        },
+        {
+            "Código": 7102,
+            "Glosa": "CONSTITUCION"
+        },
+        {
+            "Código": 7103,
+            "Glosa": "CUREPTO"
+        },
+        {
+            "Código": 7104,
+            "Glosa": "EMPEDRADO"
+        },
+        {
+            "Código": 7105,
+            "Glosa": "MAULE"
+        },
+        {
+            "Código": 7106,
+            "Glosa": "PELARCO"
+        },
+        {
+            "Código": 7107,
+            "Glosa": "PENCAHUE"
+        },
+        {
+            "Código": 7108,
+            "Glosa": "RIO CLARO"
+        },
+        {
+            "Código": 7109,
+            "Glosa": "SAN CLEMENTE"
+        },
+        {
+            "Código": 7110,
+            "Glosa": "SAN RAFAEL"
+        },
+        {
+            "Código": 7201,
+            "Glosa": "CAUQUENES"
+        },
+        {
+            "Código": 7202,
+            "Glosa": "CHANCO"
+        },
+        {
+            "Código": 7203,
+            "Glosa": "PELLUHUE"
+        },
+        {
+            "Código": 7301,
+            "Glosa": "CURICO"
+        },
+        {
+            "Código": 7302,
+            "Glosa": "HUALANE"
+        },
+        {
+            "Código": 7303,
+            "Glosa": "LICANTEN"
+        },
+        {
+            "Código": 7304,
+            "Glosa": "MOLINA"
+        },
+        {
+            "Código": 7305,
+            "Glosa": "RAUCO"
+        },
+        {
+            "Código": 7306,
+            "Glosa": "ROMERAL"
+        },
+        {
+            "Código": 7307,
+            "Glosa": "SAGRADA FAMILIA"
+        },
+        {
+            "Código": 7308,
+            "Glosa": "TENO"
+        },
+        {
+            "Código": 7309,
+            "Glosa": "VICHUQUEN"
+        },
+        {
+            "Código": 7401,
+            "Glosa": "LINARES"
+        },
+        {
+            "Código": 7402,
+            "Glosa": "COLBUN"
+        },
+        {
+            "Código": 7403,
+            "Glosa": "LONGAVI"
+        },
+        {
+            "Código": 7404,
+            "Glosa": "PARRAL"
+        },
+        {
+            "Código": 7405,
+            "Glosa": "RETIRO"
+        },
+        {
+            "Código": 7406,
+            "Glosa": "SAN JAVIER"
+        },
+        {
+            "Código": 7407,
+            "Glosa": "VILLA ALEGRE"
+        },
+        {
+            "Código": 7408,
+            "Glosa": "YERBAS BUENAS"
+        },
+        {
+            "Código": 8101,
+            "Glosa": "CONCEPCION"
+        },
+        {
+            "Código": 8102,
+            "Glosa": "CORONEL"
+        },
+        {
+            "Código": 8103,
+            "Glosa": "CHIGUAYANTE"
+        },
+        {
+            "Código": 8104,
+            "Glosa": "FLORIDA"
+        },
+        {
+            "Código": 8105,
+            "Glosa": "HUALQUI"
+        },
+        {
+            "Código": 8106,
+            "Glosa": "LOTA"
+        },
+        {
+            "Código": 8107,
+            "Glosa": "PENCO"
+        },
+        {
+            "Código": 8108,
+            "Glosa": "SAN PEDRO DE LA PAZ"
+        },
+        {
+            "Código": 8109,
+            "Glosa": "SANTA JUANA"
+        },
+        {
+            "Código": 8110,
+            "Glosa": "TALCAHUANO"
+        },
+        {
+            "Código": 8111,
+            "Glosa": "TOME"
+        },
+        {
+            "Código": 8112,
+            "Glosa": "HUALPEN"
+        },
+        {
+            "Código": 8201,
+            "Glosa": "LEBU"
+        },
+        {
+            "Código": 8202,
+            "Glosa": "ARAUCO"
+        },
+        {
+            "Código": 8203,
+            "Glosa": "CANETE"
+        },
+        {
+            "Código": 8204,
+            "Glosa": "CONTULMO"
+        },
+        {
+            "Código": 8205,
+            "Glosa": "CURANILAHUE"
+        },
+        {
+            "Código": 8206,
+            "Glosa": "LOS ALAMOS"
+        },
+        {
+            "Código": 8207,
+            "Glosa": "TIRUA"
+        },
+        {
+            "Código": 8301,
+            "Glosa": "LOS ANGELES"
+        },
+        {
+            "Código": 8302,
+            "Glosa": "ANTUCO"
+        },
+        {
+            "Código": 8303,
+            "Glosa": "CABRERO"
+        },
+        {
+            "Código": 8304,
+            "Glosa": "LAJA"
+        },
+        {
+            "Código": 8305,
+            "Glosa": "MULCHEN"
+        },
+        {
+            "Código": 8306,
+            "Glosa": "NACIMIENTO"
+        },
+        {
+            "Código": 8307,
+            "Glosa": "NEGRETE"
+        },
+        {
+            "Código": 8308,
+            "Glosa": "QUILACO"
+        },
+        {
+            "Código": 8309,
+            "Glosa": "QUILLECO"
+        },
+        {
+            "Código": 8310,
+            "Glosa": "SAN ROSENDO"
+        },
+        {
+            "Código": 8311,
+            "Glosa": "SANTA BARBARA"
+        },
+        {
+            "Código": 8312,
+            "Glosa": "TUCAPEL"
+        },
+        {
+            "Código": 8313,
+            "Glosa": "YUMBEL"
+        },
+        {
+            "Código": 8314,
+            "Glosa": "ALTO BIO BIO"
+        },
+        {
+            "Código": 9101,
+            "Glosa": "TEMUCO"
+        },
+        {
+            "Código": 9102,
+            "Glosa": "CARAHUE"
+        },
+        {
+            "Código": 9103,
+            "Glosa": "CUNCO"
+        },
+        {
+            "Código": 9104,
+            "Glosa": "CURARREHUE"
+        },
+        {
+            "Código": 9105,
+            "Glosa": "FREIRE"
+        },
+        {
+            "Código": 9106,
+            "Glosa": "GALVARIVO"
+        },
+        {
+            "Código": 9107,
+            "Glosa": "GORBEA"
+        },
+        {
+            "Código": 9108,
+            "Glosa": "LAUTARO"
+        },
+        {
+            "Código": 9109,
+            "Glosa": "LONCOCHE"
+        },
+        {
+            "Código": 9110,
+            "Glosa": "MELIPEUCO"
+        },
+        {
+            "Código": 9111,
+            "Glosa": "NUEVA IMPERIAL"
+        },
+        {
+            "Código": 9112,
+            "Glosa": "PADRE LAS CASAS"
+        },
+        {
+            "Código": 9113,
+            "Glosa": "PERQUENCO"
+        },
+        {
+            "Código": 9114,
+            "Glosa": "PITRUFQUEN"
+        },
+        {
+            "Código": 9115,
+            "Glosa": "PUCON"
+        },
+        {
+            "Código": 9116,
+            "Glosa": "SAAVEDRA"
+        },
+        {
+            "Código": 9117,
+            "Glosa": "TEODORO SCHMIDT"
+        },
+        {
+            "Código": 9118,
+            "Glosa": "TOLTEN"
+        },
+        {
+            "Código": 9119,
+            "Glosa": "VILCUN"
+        },
+        {
+            "Código": 9120,
+            "Glosa": "VILLARRICA"
+        },
+        {
+            "Código": 9121,
+            "Glosa": "CHOLCHOL"
+        },
+        {
+            "Código": 9201,
+            "Glosa": "ANGOL"
+        },
+        {
+            "Código": 9202,
+            "Glosa": "COLLIPULLI"
+        },
+        {
+            "Código": 9203,
+            "Glosa": "CURACAUTIN"
+        },
+        {
+            "Código": 9204,
+            "Glosa": "ERCILLA"
+        },
+        {
+            "Código": 9205,
+            "Glosa": "LONQUIMAY"
+        },
+        {
+            "Código": 9206,
+            "Glosa": "LOS SAUCES"
+        },
+        {
+            "Código": 9207,
+            "Glosa": "LUMACO"
+        },
+        {
+            "Código": 9208,
+            "Glosa": "PUREN"
+        },
+        {
+            "Código": 9209,
+            "Glosa": "RENAICO"
+        },
+        {
+            "Código": 9210,
+            "Glosa": "TRAIGUEN"
+        },
+        {
+            "Código": 9211,
+            "Glosa": "VICTORIA"
+        }
+    ]
+}

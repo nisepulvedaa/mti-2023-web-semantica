@@ -1,0 +1,2 @@
+fuseki-server --update -mem /ds
+fuseki-server --update --port=3031 -mem /ds

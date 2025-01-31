@@ -1,0 +1,733 @@
+@prefix : <http://example.org/> .
+@prefix schema1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:pais101 a :Pais ;
+    schema1:nombre "SENEGAL"^^xsd:string .
+
+:pais102 a :Pais ;
+    schema1:nombre "GAMBIA"^^xsd:string .
+
+:pais103 a :Pais ;
+    schema1:nombre "GUINEA-BISSAU"^^xsd:string .
+
+:pais104 a :Pais ;
+    schema1:nombre "GUINEA"^^xsd:string .
+
+:pais105 a :Pais ;
+    schema1:nombre "SIERRA LEONA"^^xsd:string .
+
+:pais106 a :Pais ;
+    schema1:nombre "LIBERIA"^^xsd:string .
+
+:pais107 a :Pais ;
+    schema1:nombre "COSTA DE MARFIL"^^xsd:string .
+
+:pais108 a :Pais ;
+    schema1:nombre "GHANA"^^xsd:string .
+
+:pais109 a :Pais ;
+    schema1:nombre "TOGO"^^xsd:string .
+
+:pais111 a :Pais ;
+    schema1:nombre "NIGERIA"^^xsd:string .
+
+:pais112 a :Pais ;
+    schema1:nombre "SUDAFRICA"^^xsd:string .
+
+:pais113 a :Pais ;
+    schema1:nombre "BOTSWANA"^^xsd:string .
+
+:pais114 a :Pais ;
+    schema1:nombre "LESOTHO"^^xsd:string .
+
+:pais115 a :Pais ;
+    schema1:nombre "MALAWI"^^xsd:string .
+
+:pais116 a :Pais ;
+    schema1:nombre "ZIMBABWE"^^xsd:string .
+
+:pais117 a :Pais ;
+    schema1:nombre "ZAMBIA"^^xsd:string .
+
+:pais118 a :Pais ;
+    schema1:nombre "COMORAS"^^xsd:string .
+
+:pais119 a :Pais ;
+    schema1:nombre "MAURICIO"^^xsd:string .
+
+:pais120 a :Pais ;
+    schema1:nombre "MADAGASCAR"^^xsd:string .
+
+:pais121 a :Pais ;
+    schema1:nombre "MOZAMBIQUE"^^xsd:string .
+
+:pais122 a :Pais ;
+    schema1:nombre "SWAZILANDIA"^^xsd:string .
+
+:pais123 a :Pais ;
+    schema1:nombre "SUDAN"^^xsd:string .
+
+:pais124 a :Pais ;
+    schema1:nombre "EGIPTO"^^xsd:string .
+
+:pais125 a :Pais ;
+    schema1:nombre "LIBIA"^^xsd:string .
+
+:pais126 a :Pais ;
+    schema1:nombre "TUNEZ"^^xsd:string .
+
+:pais127 a :Pais ;
+    schema1:nombre "ARGELIA"^^xsd:string .
+
+:pais128 a :Pais ;
+    schema1:nombre "MARRUECOS"^^xsd:string .
+
+:pais129 a :Pais ;
+    schema1:nombre "CABO VERDE"^^xsd:string .
+
+:pais130 a :Pais ;
+    schema1:nombre "CHAD"^^xsd:string .
+
+:pais131 a :Pais ;
+    schema1:nombre "NIGER"^^xsd:string .
+
+:pais133 a :Pais ;
+    schema1:nombre "MALI"^^xsd:string .
+
+:pais134 a :Pais ;
+    schema1:nombre "MAURITANIA"^^xsd:string .
+
+:pais135 a :Pais ;
+    schema1:nombre "TANZANIA"^^xsd:string .
+
+:pais136 a :Pais ;
+    schema1:nombre "UGANDA"^^xsd:string .
+
+:pais137 a :Pais ;
+    schema1:nombre "KENIA"^^xsd:string .
+
+:pais138 a :Pais ;
+    schema1:nombre "SOMALIA"^^xsd:string .
+
+:pais139 a :Pais ;
+    schema1:nombre "ETIOPIA"^^xsd:string .
+
+:pais140 a :Pais ;
+    schema1:nombre "ANGOLA"^^xsd:string .
+
+:pais141 a :Pais ;
+    schema1:nombre "BURUNDI"^^xsd:string .
+
+:pais142 a :Pais ;
+    schema1:nombre "RWANDA"^^xsd:string .
+
+:pais143 a :Pais ;
+    schema1:nombre "REP.DEM. CONGO"^^xsd:string .
+
+:pais144 a :Pais ;
+    schema1:nombre "CONGO"^^xsd:string .
+
+:pais145 a :Pais ;
+    schema1:nombre "GABON"^^xsd:string .
+
+:pais146 a :Pais ;
+    schema1:nombre "S.TOM.PRINCIPE"^^xsd:string .
+
+:pais147 a :Pais ;
+    schema1:nombre "GUINEA ECUATRL"^^xsd:string .
+
+:pais148 a :Pais ;
+    schema1:nombre "REP.CENT.AFRIC."^^xsd:string .
+
+:pais149 a :Pais ;
+    schema1:nombre "CAMERUN"^^xsd:string .
+
+:pais150 a :Pais ;
+    schema1:nombre "BENIN"^^xsd:string .
+
+:pais151 a :Pais ;
+    schema1:nombre "TERR.BRIT.EN AF"^^xsd:string .
+
+:pais152 a :Pais ;
+    schema1:nombre "TER.ESPAN.EN AF"^^xsd:string .
+
+:pais153 a :Pais ;
+    schema1:nombre "TERR.FRAN.EN AF"^^xsd:string .
+
+:pais155 a :Pais ;
+    schema1:nombre "DJIBOUTI"^^xsd:string .
+
+:pais156 a :Pais ;
+    schema1:nombre "SEYCHELLES"^^xsd:string .
+
+:pais159 a :Pais ;
+    schema1:nombre "NAMIBIA"^^xsd:string .
+
+:pais160 a :Pais ;
+    schema1:nombre "SUDAN DEL SUR"^^xsd:string .
+
+:pais161 a :Pais ;
+    schema1:nombre "BURKINA FASO"^^xsd:string .
+
+:pais163 a :Pais ;
+    schema1:nombre "ERITREA"^^xsd:string .
+
+:pais164 a :Pais ;
+    schema1:nombre "ISLAS MARSHALL"^^xsd:string .
+
+:pais165 a :Pais ;
+    schema1:nombre "SAHARA OCCIDENT"^^xsd:string .
+
+:pais201 a :Pais ;
+    schema1:nombre "VENEZUELA"^^xsd:string .
+
+:pais202 a :Pais ;
+    schema1:nombre "COLOMBIA"^^xsd:string .
+
+:pais203 a :Pais ;
+    schema1:nombre "TRINID.Y TOBAGO"^^xsd:string .
+
+:pais204 a :Pais ;
+    schema1:nombre "BARBADOS"^^xsd:string .
+
+:pais205 a :Pais ;
+    schema1:nombre "JAMAICA"^^xsd:string .
+
+:pais206 a :Pais ;
+    schema1:nombre "REP.DOMINICANA"^^xsd:string .
+
+:pais207 a :Pais ;
+    schema1:nombre "BAHAMAS"^^xsd:string .
+
+:pais208 a :Pais ;
+    schema1:nombre "HAITI"^^xsd:string .
+
+:pais209 a :Pais ;
+    schema1:nombre "CUBA"^^xsd:string .
+
+:pais210 a :Pais ;
+    schema1:nombre "PANAMA"^^xsd:string .
+
+:pais211 a :Pais ;
+    schema1:nombre "COSTA RICA"^^xsd:string .
+
+:pais212 a :Pais ;
+    schema1:nombre "NICARAGUA"^^xsd:string .
+
+:pais213 a :Pais ;
+    schema1:nombre "EL SALVADOR"^^xsd:string .
+
+:pais214 a :Pais ;
+    schema1:nombre "HONDURAS"^^xsd:string .
+
+:pais215 a :Pais ;
+    schema1:nombre "GUATEMALA"^^xsd:string .
+
+:pais216 a :Pais ;
+    schema1:nombre "MEXICO"^^xsd:string .
+
+:pais217 a :Pais ;
+    schema1:nombre "GUYANA"^^xsd:string .
+
+:pais218 a :Pais ;
+    schema1:nombre "ECUADOR"^^xsd:string .
+
+:pais219 a :Pais ;
+    schema1:nombre "PERU"^^xsd:string .
+
+:pais220 a :Pais ;
+    schema1:nombre "BRASIL"^^xsd:string .
+
+:pais221 a :Pais ;
+    schema1:nombre "BOLIVIA"^^xsd:string .
+
+:pais222 a :Pais ;
+    schema1:nombre "PARAGUAY"^^xsd:string .
+
+:pais223 a :Pais ;
+    schema1:nombre "URUGUAY"^^xsd:string .
+
+:pais224 a :Pais ;
+    schema1:nombre "ARGENTINA"^^xsd:string .
+
+:pais225 a :Pais ;
+    schema1:nombre "U.S.A."^^xsd:string .
+
+:pais226 a :Pais ;
+    schema1:nombre "CANADA"^^xsd:string .
+
+:pais227 a :Pais ;
+    schema1:nombre "TERR.BRIT.EN AM"^^xsd:string .
+
+:pais228 a :Pais ;
+    schema1:nombre "TERR.FRAN.EN AM"^^xsd:string .
+
+:pais229 a :Pais ;
+    schema1:nombre "TER.HOLAN.EN AM"^^xsd:string .
+
+:pais230 a :Pais ;
+    schema1:nombre "TERR.D/DINAMARC"^^xsd:string .
+
+:pais231 a :Pais ;
+    schema1:nombre "DOMINICA"^^xsd:string .
+
+:pais232 a :Pais ;
+    schema1:nombre "GRANADA"^^xsd:string .
+
+:pais233 a :Pais ;
+    schema1:nombre "SANTA LUCIA(ISL"^^xsd:string .
+
+:pais234 a :Pais ;
+    schema1:nombre "S.VTE.Y GRANAD."^^xsd:string .
+
+:pais235 a :Pais ;
+    schema1:nombre "SURINAM"^^xsd:string .
+
+:pais236 a :Pais ;
+    schema1:nombre "BELICE"^^xsd:string .
+
+:pais240 a :Pais ;
+    schema1:nombre "ANTIGUA Y BBUDA"^^xsd:string .
+
+:pais241 a :Pais ;
+    schema1:nombre "SNT.KIT & NEVIS"^^xsd:string .
+
+:pais242 a :Pais ;
+    schema1:nombre "ANGUILA"^^xsd:string .
+
+:pais243 a :Pais ;
+    schema1:nombre "ARUBA"^^xsd:string .
+
+:pais244 a :Pais ;
+    schema1:nombre "BERMUDAS"^^xsd:string .
+
+:pais245 a :Pais ;
+    schema1:nombre "ISLAS VIRG.BRIT"^^xsd:string .
+
+:pais246 a :Pais ;
+    schema1:nombre "ISLAS CAYMAN"^^xsd:string .
+
+:pais247 a :Pais ;
+    schema1:nombre "ANTILLAS NEERLA"^^xsd:string .
+
+:pais248 a :Pais ;
+    schema1:nombre "TURCAS Y CAICOS"^^xsd:string .
+
+:pais249 a :Pais ;
+    schema1:nombre "ISLAS VIRG.EUA"^^xsd:string .
+
+:pais250 a :Pais ;
+    schema1:nombre "MARTINICA"^^xsd:string .
+
+:pais251 a :Pais ;
+    schema1:nombre "PUERTO RICO"^^xsd:string .
+
+:pais252 a :Pais ;
+    schema1:nombre "MONSERRAT"^^xsd:string .
+
+:pais253 a :Pais ;
+    schema1:nombre "GROENLADIA"^^xsd:string .
+
+:pais301 a :Pais ;
+    schema1:nombre "JORDANIA"^^xsd:string .
+
+:pais302 a :Pais ;
+    schema1:nombre "ARABIA SAUDITA"^^xsd:string .
+
+:pais303 a :Pais ;
+    schema1:nombre "KUWAIT"^^xsd:string .
+
+:pais304 a :Pais ;
+    schema1:nombre "OMAN"^^xsd:string .
+
+:pais305 a :Pais ;
+    schema1:nombre "CHIPRE"^^xsd:string .
+
+:pais306 a :Pais ;
+    schema1:nombre "ISRAEL"^^xsd:string .
+
+:pais307 a :Pais ;
+    schema1:nombre "IRAK"^^xsd:string .
+
+:pais308 a :Pais ;
+    schema1:nombre "AFGHANISTAN"^^xsd:string .
+
+:pais309 a :Pais ;
+    schema1:nombre "IRAN"^^xsd:string .
+
+:pais310 a :Pais ;
+    schema1:nombre "SIRIA"^^xsd:string .
+
+:pais311 a :Pais ;
+    schema1:nombre "LIBANO"^^xsd:string .
+
+:pais312 a :Pais ;
+    schema1:nombre "QATAR"^^xsd:string .
+
+:pais313 a :Pais ;
+    schema1:nombre "BAHREIN"^^xsd:string .
+
+:pais314 a :Pais ;
+    schema1:nombre "SRI LANKA"^^xsd:string .
+
+:pais315 a :Pais ;
+    schema1:nombre "CAMBODIA"^^xsd:string .
+
+:pais316 a :Pais ;
+    schema1:nombre "LAOS"^^xsd:string .
+
+:pais317 a :Pais ;
+    schema1:nombre "INDIA"^^xsd:string .
+
+:pais318 a :Pais ;
+    schema1:nombre "BUTAN"^^xsd:string .
+
+:pais319 a :Pais ;
+    schema1:nombre "THAILANDIA"^^xsd:string .
+
+:pais320 a :Pais ;
+    schema1:nombre "NEPAL"^^xsd:string .
+
+:pais321 a :Pais ;
+    schema1:nombre "BANGLADESH"^^xsd:string .
+
+:pais322 a :Pais ;
+    schema1:nombre "PALESTINA"^^xsd:string .
+
+:pais324 a :Pais ;
+    schema1:nombre "PAKISTAN"^^xsd:string .
+
+:pais325 a :Pais ;
+    schema1:nombre "VIETNAM"^^xsd:string .
+
+:pais326 a :Pais ;
+    schema1:nombre "MYANMAR (EX BIR"^^xsd:string .
+
+:pais327 a :Pais ;
+    schema1:nombre "ISLAS MALDIVAS"^^xsd:string .
+
+:pais328 a :Pais ;
+    schema1:nombre "INDONESIA"^^xsd:string .
+
+:pais329 a :Pais ;
+    schema1:nombre "MALASIA"^^xsd:string .
+
+:pais330 a :Pais ;
+    schema1:nombre "TAIWAN (FORMOSA"^^xsd:string .
+
+:pais331 a :Pais ;
+    schema1:nombre "JAPON"^^xsd:string .
+
+:pais332 a :Pais ;
+    schema1:nombre "SINGAPUR"^^xsd:string .
+
+:pais333 a :Pais ;
+    schema1:nombre "COREA DEL SUR"^^xsd:string .
+
+:pais334 a :Pais ;
+    schema1:nombre "RPD COREA DEL N"^^xsd:string .
+
+:pais335 a :Pais ;
+    schema1:nombre "FILIPINAS"^^xsd:string .
+
+:pais336 a :Pais ;
+    schema1:nombre "CHINA"^^xsd:string .
+
+:pais337 a :Pais ;
+    schema1:nombre "MONGOLIA"^^xsd:string .
+
+:pais341 a :Pais ;
+    schema1:nombre "EMIR.ARAB.UNID."^^xsd:string .
+
+:pais342 a :Pais ;
+    schema1:nombre "HONG KONG"^^xsd:string .
+
+:pais343 a :Pais ;
+    schema1:nombre "TER.PORTUG.E/AS"^^xsd:string .
+
+:pais344 a :Pais ;
+    schema1:nombre "BRUNEI"^^xsd:string .
+
+:pais345 a :Pais ;
+    schema1:nombre "MACAO"^^xsd:string .
+
+:pais346 a :Pais ;
+    schema1:nombre "REPUBLICA DE YE"^^xsd:string .
+
+:pais401 a :Pais ;
+    schema1:nombre "FIJI"^^xsd:string .
+
+:pais402 a :Pais ;
+    schema1:nombre "NAURU"^^xsd:string .
+
+:pais403 a :Pais ;
+    schema1:nombre "ISLAS TONGA"^^xsd:string .
+
+:pais404 a :Pais ;
+    schema1:nombre "SAMOA OCC."^^xsd:string .
+
+:pais405 a :Pais ;
+    schema1:nombre "NUEVA ZELANDIA"^^xsd:string .
+
+:pais406 a :Pais ;
+    schema1:nombre "AUSTRALIA"^^xsd:string .
+
+:pais407 a :Pais ;
+    schema1:nombre "TERR.BRIT.EN OP"^^xsd:string .
+
+:pais408 a :Pais ;
+    schema1:nombre "TERR.FRAN.EN OP"^^xsd:string .
+
+:pais409 a :Pais ;
+    schema1:nombre "T.NORTEAM.EN OP"^^xsd:string .
+
+:pais412 a :Pais ;
+    schema1:nombre "PPUA.NVA.GUINEA"^^xsd:string .
+
+:pais415 a :Pais ;
+    schema1:nombre "VANUATU"^^xsd:string .
+
+:pais416 a :Pais ;
+    schema1:nombre "KIRIBATI"^^xsd:string .
+
+:pais417 a :Pais ;
+    schema1:nombre "MICRONESIA"^^xsd:string .
+
+:pais418 a :Pais ;
+    schema1:nombre "ISLAS SALOMON"^^xsd:string .
+
+:pais419 a :Pais ;
+    schema1:nombre "TUVALU"^^xsd:string .
+
+:pais420 a :Pais ;
+    schema1:nombre "BELAU"^^xsd:string .
+
+:pais421 a :Pais ;
+    schema1:nombre "NIUE"^^xsd:string .
+
+:pais422 a :Pais ;
+    schema1:nombre "POLINESIA FRAN."^^xsd:string .
+
+:pais423 a :Pais ;
+    schema1:nombre "NUEVA CALEDONIA"^^xsd:string .
+
+:pais424 a :Pais ;
+    schema1:nombre "ISLAS MARIANAS"^^xsd:string .
+
+:pais425 a :Pais ;
+    schema1:nombre "GUAM"^^xsd:string .
+
+:pais426 a :Pais ;
+    schema1:nombre "TIMOR ORIENTAL"^^xsd:string .
+
+:pais427 a :Pais ;
+    schema1:nombre "ISLAS COOK"^^xsd:string .
+
+:pais501 a :Pais ;
+    schema1:nombre "PORTUGAL"^^xsd:string .
+
+:pais504 a :Pais ;
+    schema1:nombre "ITALIA"^^xsd:string .
+
+:pais505 a :Pais ;
+    schema1:nombre "FRANCIA"^^xsd:string .
+
+:pais506 a :Pais ;
+    schema1:nombre "IRLANDA"^^xsd:string .
+
+:pais507 a :Pais ;
+    schema1:nombre "DINAMARCA"^^xsd:string .
+
+:pais508 a :Pais ;
+    schema1:nombre "SUIZA"^^xsd:string .
+
+:pais509 a :Pais ;
+    schema1:nombre "AUSTRIA"^^xsd:string .
+
+:pais510 a :Pais ;
+    schema1:nombre "REINO UNIDO"^^xsd:string .
+
+:pais511 a :Pais ;
+    schema1:nombre "SUECIA"^^xsd:string .
+
+:pais512 a :Pais ;
+    schema1:nombre "FINLANDIA"^^xsd:string .
+
+:pais513 a :Pais ;
+    schema1:nombre "NORUEGA"^^xsd:string .
+
+:pais514 a :Pais ;
+    schema1:nombre "BELGICA"^^xsd:string .
+
+:pais515 a :Pais ;
+    schema1:nombre "PAISES BAJOS"^^xsd:string .
+
+:pais516 a :Pais ;
+    schema1:nombre "ISLANDIA"^^xsd:string .
+
+:pais517 a :Pais ;
+    schema1:nombre "ESPANA"^^xsd:string .
+
+:pais518 a :Pais ;
+    schema1:nombre "ALBANIA"^^xsd:string .
+
+:pais519 a :Pais ;
+    schema1:nombre "RUMANIA"^^xsd:string .
+
+:pais520 a :Pais ;
+    schema1:nombre "GRECIA"^^xsd:string .
+
+:pais522 a :Pais ;
+    schema1:nombre "TURQUIA"^^xsd:string .
+
+:pais523 a :Pais ;
+    schema1:nombre "MALTA"^^xsd:string .
+
+:pais524 a :Pais ;
+    schema1:nombre "SANTA SEDE"^^xsd:string .
+
+:pais525 a :Pais ;
+    schema1:nombre "ANDORRA"^^xsd:string .
+
+:pais527 a :Pais ;
+    schema1:nombre "BULGARIA"^^xsd:string .
+
+:pais528 a :Pais ;
+    schema1:nombre "POLONIA"^^xsd:string .
+
+:pais530 a :Pais ;
+    schema1:nombre "HUNGRIA"^^xsd:string .
+
+:pais532 a :Pais ;
+    schema1:nombre "LUXEMBURGO"^^xsd:string .
+
+:pais534 a :Pais ;
+    schema1:nombre "LIECHTENSTEIN"^^xsd:string .
+
+:pais535 a :Pais ;
+    schema1:nombre "MONACO"^^xsd:string .
+
+:pais536 a :Pais ;
+    schema1:nombre "SAN MARINO"^^xsd:string .
+
+:pais540 a :Pais ;
+    schema1:nombre "ARMENIA"^^xsd:string .
+
+:pais541 a :Pais ;
+    schema1:nombre "AZERBAIJAN"^^xsd:string .
+
+:pais542 a :Pais ;
+    schema1:nombre "BELARUS"^^xsd:string .
+
+:pais543 a :Pais ;
+    schema1:nombre "BOSNIA HEZGVINA"^^xsd:string .
+
+:pais544 a :Pais ;
+    schema1:nombre "REPUBLICA CHECA"^^xsd:string .
+
+:pais545 a :Pais ;
+    schema1:nombre "REP.ESLOVACA"^^xsd:string .
+
+:pais546 a :Pais ;
+    schema1:nombre "REPUBLICA DE SE"^^xsd:string .
+
+:pais547 a :Pais ;
+    schema1:nombre "CROACIA"^^xsd:string .
+
+:pais548 a :Pais ;
+    schema1:nombre "ESLOVENIA"^^xsd:string .
+
+:pais549 a :Pais ;
+    schema1:nombre "ESTONIA"^^xsd:string .
+
+:pais550 a :Pais ;
+    schema1:nombre "GEORGIA (B)"^^xsd:string .
+
+:pais551 a :Pais ;
+    schema1:nombre "KASAJSTAN"^^xsd:string .
+
+:pais552 a :Pais ;
+    schema1:nombre "KIRGISTAN"^^xsd:string .
+
+:pais553 a :Pais ;
+    schema1:nombre "LETONIA"^^xsd:string .
+
+:pais554 a :Pais ;
+    schema1:nombre "LITUANIA"^^xsd:string .
+
+:pais555 a :Pais ;
+    schema1:nombre "MACEDONIA"^^xsd:string .
+
+:pais556 a :Pais ;
+    schema1:nombre "MOLDOVA"^^xsd:string .
+
+:pais557 a :Pais ;
+    schema1:nombre "TADJIKISTAN"^^xsd:string .
+
+:pais558 a :Pais ;
+    schema1:nombre "TURKMENISTAN"^^xsd:string .
+
+:pais559 a :Pais ;
+    schema1:nombre "UCRANIA"^^xsd:string .
+
+:pais560 a :Pais ;
+    schema1:nombre "UZBEKISTAN"^^xsd:string .
+
+:pais561 a :Pais ;
+    schema1:nombre "MONTENEGRO"^^xsd:string .
+
+:pais562 a :Pais ;
+    schema1:nombre "RUSIA"^^xsd:string .
+
+:pais563 a :Pais ;
+    schema1:nombre "ALEMANIA"^^xsd:string .
+
+:pais565 a :Pais ;
+    schema1:nombre "GIBRALTAR"^^xsd:string .
+
+:pais566 a :Pais ;
+    schema1:nombre "GUERNSEY"^^xsd:string .
+
+:pais567 a :Pais ;
+    schema1:nombre "ISLAS DE MAN"^^xsd:string .
+
+:pais568 a :Pais ;
+    schema1:nombre "JERSEY"^^xsd:string .
+
+:pais888 a :Pais ;
+    schema1:nombre "LOS DEMAS"^^xsd:string .
+
+:pais901 a :Pais ;
+    schema1:nombre "COMB.Y LUBRIC."^^xsd:string .
+
+:pais902 a :Pais ;
+    schema1:nombre "RANCHO DE NAVES"^^xsd:string .
+
+:pais903 a :Pais ;
+    schema1:nombre "PESCA EXTRA"^^xsd:string .
+
+:pais904 a :Pais ;
+    schema1:nombre "ORIG.O DEST. NO"^^xsd:string .
+
+:pais905 a :Pais ;
+    schema1:nombre "ZF.IQUIQUE"^^xsd:string .
+
+:pais906 a :Pais ;
+    schema1:nombre "DEPOSITO FRANCO"^^xsd:string .
+
+:pais907 a :Pais ;
+    schema1:nombre "ZF.PARENAS"^^xsd:string .
+
+:pais910 a :Pais ;
+    schema1:nombre "ZF.ARICA-ZF IND"^^xsd:string .
+
+:pais997 a :Pais ;
+    schema1:nombre "CHILE"^^xsd:string .
+
+:pais998 a :Pais ;
+    schema1:nombre "NAC.REPUTADA"^^xsd:string .
+
+:pais999 a :Pais ;
+    schema1:nombre "OTROS"^^xsd:string .
+

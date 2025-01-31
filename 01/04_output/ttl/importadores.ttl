@@ -1,0 +1,482 @@
+prefix :       <http://example.org/>
+prefix xsd:    <http://www.w3.org/2001/XMLSchema#>
+prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix schema: <http://schema.org/>
+
+
+:cliente1 rdf:type :Importador ;
+    schema:comuna_importador "LAMPA"^^xsd:string ;
+    schema:numero_unico_importador 12516 .
+
+:cliente10 rdf:type :Importador ;
+    schema:comuna_importador "LAS CONDES"^^xsd:string ;
+    schema:numero_unico_importador 12896 .
+
+:cliente100 rdf:type :Importador ;
+    schema:comuna_importador "COLINA"^^xsd:string ;
+    schema:numero_unico_importador 11316 .
+
+:cliente101 rdf:type :Importador ;
+    schema:comuna_importador "ANTOFAGASTA"^^xsd:string ;
+    schema:numero_unico_importador 3467 .
+
+:cliente102 rdf:type :Importador ;
+    schema:comuna_importador "SANTIAGO"^^xsd:string ;
+    schema:numero_unico_importador 5806 .
+
+:cliente103 rdf:type :Importador ;
+    schema:comuna_importador "CORONEL"^^xsd:string ;
+    schema:numero_unico_importador 3199 .
+
+:cliente104 rdf:type :Importador ;
+    schema:comuna_importador "PAINE"^^xsd:string ;
+    schema:numero_unico_importador 11605 .
+
+:cliente105 rdf:type :Importador ;
+    schema:comuna_importador "QUILPUE"^^xsd:string ;
+    schema:numero_unico_importador 6989 .
+
+:cliente106 rdf:type :Importador ;
+    schema:comuna_importador "SAN ESTEBAN"^^xsd:string ;
+    schema:numero_unico_importador 511 .
+
+:cliente107 rdf:type :Importador ;
+    schema:comuna_importador "VALDIVIA"^^xsd:string ;
+    schema:numero_unico_importador 2366 .
+
+:cliente108 rdf:type :Importador ;
+    schema:comuna_importador "SAN PEDRO DE LA PAZ"^^xsd:string ;
+    schema:numero_unico_importador 2330 .
+
+:cliente109 rdf:type :Importador ;
+    schema:comuna_importador "QUILICURA"^^xsd:string ;
+    schema:numero_unico_importador 4164 .
+
+:cliente11 rdf:type :Importador ;
+    schema:comuna_importador "CHILLAN"^^xsd:string ;
+    schema:numero_unico_importador 7763 .
+
+:cliente110 rdf:type :Importador ;
+    schema:comuna_importador "PUERTO MONTT"^^xsd:string ;
+    schema:numero_unico_importador 2509 .
+
+:cliente111 rdf:type :Importador ;
+    schema:comuna_importador "PENAFLOR"^^xsd:string ;
+    schema:numero_unico_importador 13310 .
+
+:cliente112 rdf:type :Importador ;
+    schema:comuna_importador "SANTIAGO"^^xsd:string ;
+    schema:numero_unico_importador 3975 .
+
+:cliente113 rdf:type :Importador ;
+    schema:comuna_importador "LO BARNECHEA"^^xsd:string ;
+    schema:numero_unico_importador 3169 .
+
+:cliente114 rdf:type :Importador ;
+    schema:comuna_importador "PROVIDENCIA"^^xsd:string ;
+    schema:numero_unico_importador 2384 .
+
+:cliente115 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 8871 .
+
+:cliente116 rdf:type :Importador ;
+    schema:comuna_importador "LAMPA"^^xsd:string ;
+    schema:numero_unico_importador 5529 .
+
+:cliente117 rdf:type :Importador ;
+    schema:comuna_importador "LA GRANJA"^^xsd:string ;
+    schema:numero_unico_importador 14057 .
+
+:cliente118 rdf:type :Importador ;
+    schema:comuna_importador "VINA DEL MAR"^^xsd:string ;
+    schema:numero_unico_importador 10304 .
+
+:cliente119 rdf:type :Importador ;
+    schema:comuna_importador "SANTA CRUZ"^^xsd:string ;
+    schema:numero_unico_importador 14027 .
+
+:cliente12 rdf:type :Importador ;
+    schema:comuna_importador "OSORNO"^^xsd:string ;
+    schema:numero_unico_importador 5131 .
+
+:cliente13 rdf:type :Importador ;
+    schema:comuna_importador "SANTIAGO"^^xsd:string ;
+    schema:numero_unico_importador 1182 .
+
+:cliente14 rdf:type :Importador ;
+    schema:comuna_importador "SANTIAGO"^^xsd:string ;
+    schema:numero_unico_importador 2121 .
+
+:cliente15 rdf:type :Importador ;
+    schema:comuna_importador "LAS CONDES"^^xsd:string ;
+    schema:numero_unico_importador 7706 .
+
+:cliente16 rdf:type :Importador ;
+    schema:comuna_importador "MACUL"^^xsd:string ;
+    schema:numero_unico_importador 13984 .
+
+:cliente17 rdf:type :Importador ;
+    schema:comuna_importador "COLINA"^^xsd:string ;
+    schema:numero_unico_importador 8812 .
+
+:cliente18 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 3829 .
+
+:cliente19 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 7563 .
+
+:cliente2 rdf:type :Importador ;
+    schema:comuna_importador "PUDAHUEL"^^xsd:string ;
+    schema:numero_unico_importador 10870 .
+
+:cliente20 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 11275 .
+
+:cliente21 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 11576 .
+
+:cliente22 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 5778 .
+
+:cliente23 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 12953 .
+
+:cliente24 rdf:type :Importador ;
+    schema:comuna_importador "VINA DEL MAR"^^xsd:string ;
+    schema:numero_unico_importador 13103 .
+
+:cliente25 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 5698 .
+
+:cliente26 rdf:type :Importador ;
+    schema:comuna_importador "SANTIAGO"^^xsd:string ;
+    schema:numero_unico_importador 7274 .
+
+:cliente27 rdf:type :Importador ;
+    schema:comuna_importador "HUECHURABA"^^xsd:string ;
+    schema:numero_unico_importador 2082 .
+
+:cliente28 rdf:type :Importador ;
+    schema:comuna_importador "HUECHURABA"^^xsd:string ;
+    schema:numero_unico_importador 8094 .
+
+:cliente29 rdf:type :Importador ;
+    schema:comuna_importador "LO BARNECHEA"^^xsd:string ;
+    schema:numero_unico_importador 11177 .
+
+:cliente3 rdf:type :Importador ;
+    schema:comuna_importador "ESTACION CENTRAL"^^xsd:string ;
+    schema:numero_unico_importador 7250 .
+
+:cliente30 rdf:type :Importador ;
+    schema:comuna_importador "EL BOSQUE"^^xsd:string ;
+    schema:numero_unico_importador 13058 .
+
+:cliente31 rdf:type :Importador ;
+    schema:comuna_importador "PEUMO"^^xsd:string ;
+    schema:numero_unico_importador 11410 .
+
+:cliente32 rdf:type :Importador ;
+    schema:comuna_importador "MELIPILLA"^^xsd:string ;
+    schema:numero_unico_importador 13882 .
+
+:cliente33 rdf:type :Importador ;
+    schema:comuna_importador "SAN BERNARDO"^^xsd:string ;
+    schema:numero_unico_importador 12337 .
+
+:cliente34 rdf:type :Importador ;
+    schema:comuna_importador "MAULE"^^xsd:string ;
+    schema:numero_unico_importador 14212 .
+
+:cliente35 rdf:type :Importador ;
+    schema:comuna_importador "CASABLANCA"^^xsd:string ;
+    schema:numero_unico_importador 11725 .
+
+:cliente36 rdf:type :Importador ;
+    schema:comuna_importador "CON CON"^^xsd:string ;
+    schema:numero_unico_importador 10596 .
+
+:cliente37 rdf:type :Importador ;
+    schema:comuna_importador "VINA DEL MAR"^^xsd:string ;
+    schema:numero_unico_importador 10502 .
+
+:cliente38 rdf:type :Importador ;
+    schema:comuna_importador "IQUIQUE"^^xsd:string ;
+    schema:numero_unico_importador 1608 .
+
+:cliente39 rdf:type :Importador ;
+    schema:comuna_importador "SANTIAGO"^^xsd:string ;
+    schema:numero_unico_importador 1285 .
+
+:cliente4 rdf:type :Importador ;
+    schema:comuna_importador "QUILICURA"^^xsd:string ;
+    schema:numero_unico_importador 13324 .
+
+:cliente40 rdf:type :Importador ;
+    schema:comuna_importador "CURACAVI"^^xsd:string ;
+    schema:numero_unico_importador 8979 .
+
+:cliente41 rdf:type :Importador ;
+    schema:comuna_importador "HUECHURABA"^^xsd:string ;
+    schema:numero_unico_importador 2024 .
+
+:cliente42 rdf:type :Importador ;
+    schema:comuna_importador "LA FLORIDA"^^xsd:string ;
+    schema:numero_unico_importador 11311 .
+
+:cliente43 rdf:type :Importador ;
+    schema:comuna_importador "LOS ANGELES"^^xsd:string ;
+    schema:numero_unico_importador 10472 .
+
+:cliente44 rdf:type :Importador ;
+    schema:comuna_importador "PUENTE ALTO"^^xsd:string ;
+    schema:numero_unico_importador 5123 .
+
+:cliente45 rdf:type :Importador ;
+    schema:comuna_importador "IQUIQUE"^^xsd:string ;
+    schema:numero_unico_importador 10489 .
+
+:cliente46 rdf:type :Importador ;
+    schema:comuna_importador "LA SERENA"^^xsd:string ;
+    schema:numero_unico_importador 5063 .
+
+:cliente47 rdf:type :Importador ;
+    schema:comuna_importador "SAN ANTONIO"^^xsd:string ;
+    schema:numero_unico_importador 13154 .
+
+:cliente48 rdf:type :Importador ;
+    schema:comuna_importador "ISLA DE MAIPO"^^xsd:string ;
+    schema:numero_unico_importador 8650 .
+
+:cliente49 rdf:type :Importador ;
+    schema:comuna_importador "SAN PEDRO DE LA PAZ"^^xsd:string ;
+    schema:numero_unico_importador 12175 .
+
+:cliente5 rdf:type :Importador ;
+    schema:comuna_importador "QUILICURA"^^xsd:string ;
+    schema:numero_unico_importador 1900 .
+
+:cliente50 rdf:type :Importador ;
+    schema:comuna_importador "SAN ANTONIO"^^xsd:string ;
+    schema:numero_unico_importador 6108 .
+
+:cliente51 rdf:type :Importador ;
+    schema:comuna_importador "LO BARNECHEA"^^xsd:string ;
+    schema:numero_unico_importador 16 .
+
+:cliente52 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 898 .
+
+:cliente53 rdf:type :Importador ;
+    schema:comuna_importador "LIMACHE"^^xsd:string ;
+    schema:numero_unico_importador 10408 .
+
+:cliente54 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 12651 .
+
+:cliente55 rdf:type :Importador ;
+    schema:comuna_importador "PUDAHUEL"^^xsd:string ;
+    schema:numero_unico_importador 3846 .
+
+:cliente56 rdf:type :Importador ;
+    schema:comuna_importador "LAS CONDES"^^xsd:string ;
+    schema:numero_unico_importador 12992 .
+
+:cliente57 rdf:type :Importador ;
+    schema:comuna_importador "QUILICURA"^^xsd:string ;
+    schema:numero_unico_importador 7054 .
+
+:cliente58 rdf:type :Importador ;
+    schema:comuna_importador "LO BARNECHEA"^^xsd:string ;
+    schema:numero_unico_importador 12852 .
+
+:cliente59 rdf:type :Importador ;
+    schema:comuna_importador "CONCEPCION"^^xsd:string ;
+    schema:numero_unico_importador 10664 .
+
+:cliente6 rdf:type :Importador ;
+    schema:comuna_importador "COLINA"^^xsd:string ;
+    schema:numero_unico_importador 1656 .
+
+:cliente60 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 712 .
+
+:cliente61 rdf:type :Importador ;
+    schema:comuna_importador "ANTOFAGASTA"^^xsd:string ;
+    schema:numero_unico_importador 6966 .
+
+:cliente62 rdf:type :Importador ;
+    schema:comuna_importador "SANTIAGO"^^xsd:string ;
+    schema:numero_unico_importador 1651 .
+
+:cliente63 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 490 .
+
+:cliente64 rdf:type :Importador ;
+    schema:comuna_importador "CONCEPCION"^^xsd:string ;
+    schema:numero_unico_importador 12367 .
+
+:cliente65 rdf:type :Importador ;
+    schema:comuna_importador "INDEPENDENCIA"^^xsd:string ;
+    schema:numero_unico_importador 12182 .
+
+:cliente66 rdf:type :Importador ;
+    schema:comuna_importador "LOS ANGELES"^^xsd:string ;
+    schema:numero_unico_importador 8401 .
+
+:cliente67 rdf:type :Importador ;
+    schema:comuna_importador "PUNTA ARENAS"^^xsd:string ;
+    schema:numero_unico_importador 4437 .
+
+:cliente68 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 770 .
+
+:cliente69 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 9142 .
+
+:cliente7 rdf:type :Importador ;
+    schema:comuna_importador "SAN BERNARDO"^^xsd:string ;
+    schema:numero_unico_importador 5333 .
+
+:cliente70 rdf:type :Importador ;
+    schema:comuna_importador "LAS CONDES"^^xsd:string ;
+    schema:numero_unico_importador 2872 .
+
+:cliente71 rdf:type :Importador ;
+    schema:comuna_importador "LAS CONDES"^^xsd:string ;
+    schema:numero_unico_importador 9205 .
+
+:cliente72 rdf:type :Importador ;
+    schema:comuna_importador "REQUINOA"^^xsd:string ;
+    schema:numero_unico_importador 9379 .
+
+:cliente73 rdf:type :Importador ;
+    schema:comuna_importador "LIMACHE"^^xsd:string ;
+    schema:numero_unico_importador 6369 .
+
+:cliente74 rdf:type :Importador ;
+    schema:comuna_importador "BUIN"^^xsd:string ;
+    schema:numero_unico_importador 1513 .
+
+:cliente75 rdf:type :Importador ;
+    schema:comuna_importador "CURICO"^^xsd:string ;
+    schema:numero_unico_importador 8838 .
+
+:cliente76 rdf:type :Importador ;
+    schema:comuna_importador "LAUTARO"^^xsd:string ;
+    schema:numero_unico_importador 3943 .
+
+:cliente77 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 499 .
+
+:cliente78 rdf:type :Importador ;
+    schema:comuna_importador "QUILICURA"^^xsd:string ;
+    schema:numero_unico_importador 9090 .
+
+:cliente79 rdf:type :Importador ;
+    schema:comuna_importador "CURICO"^^xsd:string ;
+    schema:numero_unico_importador 7080 .
+
+:cliente8 rdf:type :Importador ;
+    schema:comuna_importador "LAS CONDES"^^xsd:string ;
+    schema:numero_unico_importador 7347 .
+
+:cliente80 rdf:type :Importador ;
+    schema:comuna_importador "SANTIAGO"^^xsd:string ;
+    schema:numero_unico_importador 10452 .
+
+:cliente81 rdf:type :Importador ;
+    schema:comuna_importador "COLINA"^^xsd:string ;
+    schema:numero_unico_importador 3576 .
+
+:cliente82 rdf:type :Importador ;
+    schema:comuna_importador "SANTIAGO"^^xsd:string ;
+    schema:numero_unico_importador 5679 .
+
+:cliente83 rdf:type :Importador ;
+    schema:comuna_importador "HUECHURABA"^^xsd:string ;
+    schema:numero_unico_importador 217 .
+
+:cliente84 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 2938 .
+
+:cliente85 rdf:type :Importador ;
+    schema:comuna_importador "LAMPA"^^xsd:string ;
+    schema:numero_unico_importador 2103 .
+
+:cliente86 rdf:type :Importador ;
+    schema:comuna_importador "QUILPUE"^^xsd:string ;
+    schema:numero_unico_importador 738 .
+
+:cliente87 rdf:type :Importador ;
+    schema:comuna_importador "PROVIDENCIA"^^xsd:string ;
+    schema:numero_unico_importador 11295 .
+
+:cliente88 rdf:type :Importador ;
+    schema:comuna_importador "P.AGUIRRE CERDA"^^xsd:string ;
+    schema:numero_unico_importador 11140 .
+
+:cliente89 rdf:type :Importador ;
+    schema:comuna_importador "QUILICURA"^^xsd:string ;
+    schema:numero_unico_importador 7249 .
+
+:cliente9 rdf:type :Importador ;
+    schema:comuna_importador "PUDAHUEL"^^xsd:string ;
+    schema:numero_unico_importador 10957 .
+
+:cliente90 rdf:type :Importador ;
+    schema:comuna_importador "HUECHURABA"^^xsd:string ;
+    schema:numero_unico_importador 380 .
+
+:cliente91 rdf:type :Importador ;
+    schema:comuna_importador "VITACURA"^^xsd:string ;
+    schema:numero_unico_importador 14090 .
+
+:cliente92 rdf:type :Importador ;
+    schema:comuna_importador "SANTIAGO"^^xsd:string ;
+    schema:numero_unico_importador 10884 .
+
+:cliente93 rdf:type :Importador ;
+    schema:comuna_importador "SANTIAGO"^^xsd:string ;
+    schema:numero_unico_importador 12666 .
+
+:cliente94 rdf:type :Importador ;
+    schema:comuna_importador "LAMPA"^^xsd:string ;
+    schema:numero_unico_importador 7307 .
+
+:cliente95 rdf:type :Importador ;
+    schema:comuna_importador "LAS CONDES"^^xsd:string ;
+    schema:numero_unico_importador 11393 .
+
+:cliente96 rdf:type :Importador ;
+    schema:comuna_importador "QUILICURA"^^xsd:string ;
+    schema:numero_unico_importador 5627 .
+
+:cliente97 rdf:type :Importador ;
+    schema:comuna_importador "COLINA"^^xsd:string ;
+    schema:numero_unico_importador 9413 .
+
+:cliente98 rdf:type :Importador ;
+    schema:comuna_importador "CONCEPCION"^^xsd:string ;
+    schema:numero_unico_importador 13435 .
+
+:cliente99 rdf:type :Importador ;
+    schema:comuna_importador "RENCA"^^xsd:string ;
+    schema:numero_unico_importador 11953 .
+

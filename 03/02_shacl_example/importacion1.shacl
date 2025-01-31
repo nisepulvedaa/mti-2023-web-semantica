@@ -1,0 +1,118 @@
+prefix :       <http://example.org/> 
+prefix sh:     <http://www.w3.org/ns/shacl#> 
+prefix xsd:    <http://www.w3.org/2001/XMLSchema#>
+prefix schema: <http://schema.org/>
+
+# Shape para :Importacion
+:ImportacionShape a sh:NodeShape ;
+    sh:targetClass :Importacion ;
+    sh:property [
+        sh:path schema:num_encriptado ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:arancel_nacional ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:total_bultos ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:fob ;
+        sh:datatype xsd:float ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:importador ;
+        sh:class :Importador ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:aduana ;
+        sh:class :Aduana ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:pais_origen ;
+        sh:class :Pais ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:puerto_embarque ;
+        sh:class :Puerto ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:puerto_desembarque ;
+        sh:class :Puerto ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:nave ;
+        sh:class :Nave ;
+        sh:minCount 1 ;
+    ] .
+
+# Shape para :Importador
+:ImportadorShape a sh:NodeShape ;
+    sh:targetClass :Importador ;
+    sh:property [
+        sh:path schema:comuna_importador ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:numero_unico_importador ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+    ] .
+
+# Shape para :Aduana
+:AduanaShape a sh:NodeShape ;
+    sh:targetClass :Aduana ;
+    sh:property [
+        sh:path schema:nombre ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] .
+
+# Shape para :Pais
+:PaisShape a sh:NodeShape ;
+    sh:targetClass :Pais ;
+    sh:property [
+        sh:path schema:nombre ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] .
+
+# Shape para :Puerto
+:PuertoShape a sh:NodeShape ;
+    sh:targetClass :Puerto ;
+    sh:property [
+        sh:path schema:nombre ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] .
+
+# Shape para :Nave
+:NaveShape a sh:NodeShape ;
+    sh:targetClass :Nave ;
+    sh:property [
+        sh:path schema:agente_nave ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:manifiesto ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:nombre ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] .

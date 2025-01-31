@@ -1,0 +1,38 @@
+@prefix :       <http://example.org/> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema: <http://schema.org/> .
+
+
+:importacion1 rdf:type :Importacion ;
+    schema:num_encriptado "20955958"^^xsd:integer;
+    schema:arancel_nacional "87024090"^^xsd:string;
+    schema:total_bultos "4"^^xsd:integer;
+    schema:fob "309000"^^xsd:float;
+    schema:importador :cliente1;
+    schema:aduana :aduana39;
+    schema:pais_origen :pais336;
+    schema:puerto_embarque :puerto413;
+    schema:puerto_desembarque :puerto906;
+    schema:nave :nave1 .
+
+:cliente1 rdf:type :Importador ;
+    schema:comuna_importador "LAMPA"^^xsd:string ;
+    schema:numero_unico_importador "12516"^^xsd:integer .
+
+:aduana39 rdf:type :Aduana ;
+    schema:nombre "SAN ANTONIO"^^xsd:string .
+
+:pais336 rdf:type :Pais ;
+    schema:nombre "CHINA"^^xsd:string .
+
+:puerto413 rdf:type :Puerto ;
+    schema:nombre "OTROS PTOS.DE CHINA"^^xsd:string .
+
+:puerto906 rdf:type :Puerto ;
+    schema:nombre "SAN ANTONIO"^^xsd:string .
+
+:nave1 rdf:type :Nave ;
+    schema:agente_nave "SOCIEDAD MARITIMA Y COMERCIAL SOMARCO LTDA."^^xsd:string ;
+    schema:manifiesto "239233"^^xsd:string ;
+    schema:nombre "XIN YA ZHOU"^^xsd:string .

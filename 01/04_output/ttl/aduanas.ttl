@@ -1,0 +1,55 @@
+@prefix : <http://example.org/> .
+@prefix schema1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:aduana10 a :Aduana ;
+    schema1:nombre "TOCOPILLA"^^xsd:string .
+
+:aduana14 a :Aduana ;
+    schema1:nombre "ANTOFAGASTA"^^xsd:string .
+
+:aduana17 a :Aduana ;
+    schema1:nombre "CHANARAL"^^xsd:string .
+
+:aduana25 a :Aduana ;
+    schema1:nombre "COQUIMBO"^^xsd:string .
+
+:aduana3 a :Aduana ;
+    schema1:nombre "ARICA"^^xsd:string .
+
+:aduana33 a :Aduana ;
+    schema1:nombre "LOS ANDES"^^xsd:string .
+
+:aduana34 a :Aduana ;
+    schema1:nombre "VALPARAISO"^^xsd:string .
+
+:aduana39 a :Aduana ;
+    schema1:nombre "SAN ANTONIO"^^xsd:string .
+
+:aduana48 a :Aduana ;
+    schema1:nombre "METROPOLITANA"^^xsd:string .
+
+:aduana55 a :Aduana ;
+    schema1:nombre "TALCAHUANO"^^xsd:string .
+
+:aduana67 a :Aduana ;
+    schema1:nombre "OSORNO"^^xsd:string .
+
+:aduana69 a :Aduana ;
+    schema1:nombre "PUERTO MONTT"^^xsd:string .
+
+:aduana7 a :Aduana ;
+    schema1:nombre "IQUIQUE"^^xsd:string .
+
+:aduana83 a :Aduana ;
+    schema1:nombre "COYHAIQUE"^^xsd:string .
+
+:aduana90 a :Aduana ;
+    schema1:nombre "PUERTO AYSEN"^^xsd:string .
+
+:aduana92 a :Aduana ;
+    schema1:nombre "PUNTA ARENAS"^^xsd:string .
+
+:aduana98 a :Aduana ;
+    schema1:nombre "DIRECCION NACIONAL"^^xsd:string .
+
