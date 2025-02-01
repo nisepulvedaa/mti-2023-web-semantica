@@ -161,5 +161,5 @@ En la carpeta **`04`** se encuentran los prompts utilizados y la consulta de val
 
 --- 
 ## Presentación del Proyecto
-- **Versión Oficial Entregable**: [enlace_video]
+- **Versión Oficial Entregable**: https://www.youtube.com/watch?v=61i2uG9bsK4
 - **Versión Extendida**: https://www.youtube.com/watch?v=13ALPZiNtj0 
