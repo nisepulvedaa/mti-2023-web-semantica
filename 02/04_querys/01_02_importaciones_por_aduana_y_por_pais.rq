@@ -1,0 +1,20 @@
+PREFIX :       <http://example.org/> 
+PREFIX xsd:    <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX schema: <http://schema.org/> 
+
+SELECT ?aduana ?nombreAduana ?pais ?nombrePais (COUNT(?importacion) AS ?numImportaciones) (SUM(?totalBultos) AS ?totalBultosSum)
+WHERE {
+  # Buscar importaciones y sus aduanas asociadas
+  ?importacion a :Importacion ;
+                schema:aduana ?aduana ;
+                schema:pais_origen ?pais ;
+                schema:total_bultos ?totalBultos .
+  
+  # Obtener los nombres de la aduana y del país
+  ?aduana schema:nombre ?nombreAduana .
+  ?pais schema:nombre ?nombrePais .
+}
+GROUP BY ?aduana ?nombreAduana ?pais ?nombrePais
+ORDER BY DESC(?numImportaciones)
+LIMIT 10
