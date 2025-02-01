@@ -12,9 +12,13 @@
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo transformar datos de importaciones provenientes de fuentes de datos públicas proporcionadas por el servicio nacional de aduana, en una representación semántica utilizando grafos RDF y consultas SPARQL. A través de esta representación, se facilita la integración, consulta y análisis de la información.
 
+
+
 ---
 
 ## Fuentes de Datos Utilizadas
+![Foto de las Fuentas de Informacion](https://deinsoluciones.cl/web_semantica/digrama.png)
+
 1. **Datos públicos del Registro de Importación 2024**  
    [Registro de Importación - datos.gob.cl](https://datos.gob.cl/dataset/registro-de-importacion-2024)  
    - Datos en formato CSV que se convertirán a RDF.
@@ -154,3 +158,8 @@ En esta sección se incluye evidencia del proceso de validación mediante ejempl
 ### 4. Prompts Generados y Validación con LLM
 
 En la carpeta **`04`** se encuentran los prompts utilizados y la consulta de validación. Esta consulta permite comparar los resultados obtenidos con las respuestas generadas por el modelo de lenguaje (LLM).
+
+--- 
+## Videos Desarrollo del Proyecto
+- **Versión Oficial Entregable**: [enlace_video]
+- **Versión Extendida**: https://www.youtube.com/watch?v=13ALPZiNtj0 
